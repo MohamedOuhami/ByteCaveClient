@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/mocs_compilation.cpp" "CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o.d"
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp" "CMakeFiles/ByteCaveClient.dir/main.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/main.cpp.o.d"
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp" "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o.d"
+  "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp" "CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o.d"
   "" "ByteCaveClient" "gcc" "CMakeFiles/ByteCaveClient.dir/link.d"
   )
 

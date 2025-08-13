@@ -272,6 +272,30 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+services/bytecaveclient.o: services/bytecaveclient.cpp.o
+.PHONY : services/bytecaveclient.o
+
+# target to build an object file
+services/bytecaveclient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
+.PHONY : services/bytecaveclient.cpp.o
+
+services/bytecaveclient.i: services/bytecaveclient.cpp.i
+.PHONY : services/bytecaveclient.i
+
+# target to preprocess a source file
+services/bytecaveclient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i
+.PHONY : services/bytecaveclient.cpp.i
+
+services/bytecaveclient.s: services/bytecaveclient.cpp.s
+.PHONY : services/bytecaveclient.s
+
+# target to generate assembly for a file
+services/bytecaveclient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s
+.PHONY : services/bytecaveclient.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -296,6 +320,9 @@ help:
 	@echo "... mainwindow.o"
 	@echo "... mainwindow.i"
 	@echo "... mainwindow.s"
+	@echo "... services/bytecaveclient.o"
+	@echo "... services/bytecaveclient.i"
+	@echo "... services/bytecaveclient.s"
 .PHONY : help
 
 

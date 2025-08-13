@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ByteCaveClient.dir/main.cpp.o.d"
   "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o"
   "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o.d"
+  "CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o"
+  "CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.

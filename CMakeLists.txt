@@ -38,12 +38,23 @@ else()
     else()
         add_executable(ByteCaveClient
             ${PROJECT_SOURCES}
+            interfaces/IByteCaveClient.h
+            services/bytecaveclient.h services/bytecaveclient.cpp
+
         )
     endif()
 endif()
 
 target_link_libraries(ByteCaveClient PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 
+# Adding the include directories for the libraries
+target_include_directories(
+    ByteCaveClient
+    PRIVATE
+    ${CMAKE_SOURCE_DIR}/include/asio
+    ${CMAKE_SOURCE_DIR}/interfaces
+    ${CMAKE_SOURCE_DIR}/services
+)
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an
 # explicit, fixed bundle identifier manually though.

@@ -6,6 +6,12 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   ByteCaveClient_autogen/moc_predefs.h \
   CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake \
   CMakeFiles/4.0.3-dirty/CMakeSystem.cmake \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.ui \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.ui \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp \
@@ -859,9 +865,11 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
+  /usr/include/qt/QtWidgets/QDialog \
   /usr/include/qt/QtWidgets/QMainWindow \
   /usr/include/qt/QtWidgets/QTextBrowser \
   /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+  /usr/include/qt/QtWidgets/qdialog.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
@@ -1370,8 +1378,6 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /usr/include/c++/15.1.1/bits/requires_hosted.h:
 
-/usr/include/c++/15.1.1/bits/refwrap.h:
-
 /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h:
 
 /usr/include/c++/15.1.1/bits/ranges_uninitialized.h:
@@ -1546,7 +1552,17 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /usr/include/bits/types/siginfo_t.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/seq_packet_protocol.hpp:
+/usr/include/bits/types/sigevent_t.h:
+
+/usr/include/c++/15.1.1/utility:
+
+/usr/include/bits/types/sig_atomic_t.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/c++/15.1.1/bits/range_access.h:
+
+/usr/include/bits/types/error_t.h:
 
 /usr/include/c++/15.1.1/bits/ios_base.h:
 
@@ -1573,8 +1589,6 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/executor.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/require_member.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/allocator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/utility.hpp:
 
@@ -1652,12 +1666,6 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_op.hpp:
 
-/usr/include/c++/15.1.1/new:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/stream_protocol.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/require_concept_free.hpp:
-
 /usr/include/bits/posix_opt.h:
 
 /usr/include/qt/QtGui/qpen.h:
@@ -1674,10 +1682,6 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /usr/include/bits/siginfo-arch.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/any_completion_executor.ipp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/prepend.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread_group.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution.hpp:
@@ -1692,12 +1696,6 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/regex_fwd.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_datagram_socket.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/bad_executor.hpp:
-
-/usr/include/assert.h:
-
 /usr/include/c++/15.1.1/functional:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/recycling_allocator.hpp:
@@ -1711,6 +1709,8 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_socket_send_op.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactor_op.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/require_concept.hpp:
 
@@ -1806,25 +1806,19 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_executor_service.ipp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/associated_immediate_executor.hpp:
+/usr/include/c++/15.1.1/bits/stringfwd.h:
 
-/usr/include/qt/QtGui/qicon.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/socket_ops.ipp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_service.hpp:
+/usr/include/linux/stddef.h:
 
-.qtc/package-manager/auto-setup.cmake:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/raw_protocol.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/registered_buffer.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/resolver_service_base.ipp:
 
-/usr/include/bits/sigthread.h:
+/usr/include/bits/types/struct_statx.h:
 
-/usr/include/bits/termios-c_iflag.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/CMakeLists.txt:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/co_spawn.hpp:
-
-/usr/include/bits/errno.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/thread.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_static_mutex.hpp:
 
@@ -1872,17 +1866,13 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_stream_fwd.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/datagram_protocol.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/consuming_buffers.hpp:
-
-/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/signal_set_service.ipp:
 
 /usr/include/unistd.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket_iostream.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/service_registry.ipp:
 
 /usr/include/c++/15.1.1/bits/ostream_insert.h:
 
@@ -1891,6 +1881,8 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/is_buffer_sequence.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_writable_pipe.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.ui:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_cancellation_slot.hpp:
 
@@ -1903,10 +1895,6 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/resolver_base.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/resolve_query_op.hpp:
-
-/usr/include/c++/15.1.1/bits/range_access.h:
-
-/usr/include/bits/types/error_t.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/buffer_sequence_adapter.ipp:
 
@@ -1922,7 +1910,57 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_socket.hpp:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/strand_executor_service.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/io_context_strand.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detached.hpp:
+
+/usr/include/bits/getopt_posix.h:
+
+/usr/include/c++/15.1.1/bits/stl_iterator.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_signal_set.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/datagram_protocol.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/consuming_buffers.hpp:
+
+/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address.hpp:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/completion_condition.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read_until.hpp:
+
+/usr/include/bits/time64.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_seq_packet_socket.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/completion_handler.hpp:
+
+/usr/include/signal.h:
+
+/usr/include/bits/atomic_wide_counter.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_raw_socket.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/buffered_read_stream.hpp:
+
+/usr/include/asm/posix_types.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h:
+
+/usr/include/bits/time.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_write_stream_fwd.hpp:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/array.hpp:
 
 /usr/include/c++/15.1.1/future:
 
@@ -1942,9 +1980,27 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /usr/include/bits/syscall.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
+/usr/include/c++/15.1.1/bits/predefined_ops.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/array.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread_info_base.hpp:
+
+/usr/include/sys/syscall.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket.hpp:
+
+/usr/include/asm/posix_types_64.h:
+
+/usr/include/qt/QtWidgets/qdialog.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_allocator.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wait_op.hpp:
+
+ByteCaveClient_autogen/moc_predefs.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/network_v6.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/chrono_time_traits.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_read_buffered.hpp:
 
@@ -1953,6 +2009,64 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_signal_blocker.hpp:
 
 /usr/include/bits/pthreadtypes-arch.h:
+
+/usr/include/c++/15.1.1/bits/refwrap.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/append.hpp:
+
+/usr/include/qt/QtWidgets/QDialog:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_streambuf.hpp:
+
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read_at.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/associated_immediate_executor.hpp:
+
+/usr/include/qt/QtGui/qicon.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_service.hpp:
+
+.qtc/package-manager/auto-setup.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/registered_buffer.hpp:
+
+/usr/include/bits/sigthread.h:
+
+/usr/include/bits/termios-c_iflag.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_serial_port.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/dispatch.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_event.ipp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/work_dispatcher.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_wait_op.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/handler_tracking.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/icmp.hpp:
+
+/usr/include/qt/QtCore/qline.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_applicable_property.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp:
+
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_mutex.ipp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_file.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_stream.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/as_tuple.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp:
 
@@ -1968,47 +2082,23 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/config.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_allocator.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/buffered_stream_storage.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wait_op.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler_thread_info.hpp:
 
-ByteCaveClient_autogen/moc_predefs.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/handler_tracking.ipp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/network_v6.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/error_code.hpp:
 
-/usr/include/c++/15.1.1/bits/stringfwd.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/socket_ops.ipp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/service_registry.ipp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/work_dispatcher.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_wait_op.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/handler_tracking.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/icmp.hpp:
-
-/usr/include/qt/QtCore/qline.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_applicable_property.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/dispatch.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_event.ipp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_file.hpp:
-
-/usr/include/sys/syscall.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket.hpp:
-
-/usr/include/asm/posix_types_64.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/winsock_init.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/limits.hpp:
+
+/usr/include/bits/types/locale_t.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/defer.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/multiple_exceptions.ipp:
 
@@ -2030,33 +2120,17 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/composed_work.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/error_code.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/non_const_lvalue.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_datagram_socket.hpp:
 
-/usr/include/c++/15.1.1/bits/predefined_ops.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_io_object.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread_info_base.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/any_io_executor.ipp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/strand_executor_service.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/bad_executor.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/io_context_strand.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detached.hpp:
-
-/usr/include/bits/getopt_posix.h:
-
-/usr/include/c++/15.1.1/bits/stl_iterator.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_signal_set.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_serial_port.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler_thread_info.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/handler_tracking.ipp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/buffered_stream_storage.hpp:
+/usr/include/assert.h:
 
 /usr/include/c++/15.1.1/cstdio:
 
@@ -2073,12 +2147,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/bits/types/__mbstate_t.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/overlapped_handle.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_streambuf.hpp:
-
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read_at.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/awaitable.hpp:
 
@@ -2106,8 +2174,6 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/call_stack.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/non_const_lvalue.hpp:
-
 /usr/include/qt/QtCore/qstring.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/initiate_dispatch.hpp:
@@ -2126,35 +2192,11 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/is_executor.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_stream.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/CMakeLists.txt:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/as_tuple.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/co_spawn.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read_until.hpp:
-
-/usr/include/bits/time64.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/any_io_executor.ipp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_io_object.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/buffered_read_stream.hpp:
-
-/usr/include/asm/posix_types.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h:
-
-/usr/include/bits/time.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_raw_socket.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_seq_packet_socket.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/completion_handler.hpp:
-
-/usr/include/signal.h:
-
-/usr/include/bits/atomic_wide_counter.h:
+/usr/include/bits/errno.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/noncopyable.hpp:
 
@@ -2230,8 +2272,6 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/connect_pair.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/chrono_time_traits.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_io_executor.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/multiple_exceptions.hpp:
@@ -2239,6 +2279,10 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/cancellation_type.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/conditionally_enabled_event.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/allocator.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.ui:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/bad_address_cast.hpp:
 
@@ -2252,13 +2296,7 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /usr/include/asm/unistd_64.h:
 
-/usr/include/c++/15.1.1/utility:
-
-/usr/include/bits/types/sig_atomic_t.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/cstdint.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/high_resolution_timer.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/deadline_timer_service.hpp:
 
@@ -2279,10 +2317,6 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scoped_ptr.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/epoll_reactor.hpp:
-
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_mutex.ipp:
 
 /usr/include/c++/15.1.1/bits/stl_iterator_base_types.h:
 
@@ -2346,19 +2380,19 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/epoll_reactor.ipp:
 
-/usr/include/linux/stddef.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/seq_packet_protocol.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/raw_protocol.hpp:
+/usr/include/c++/15.1.1/new:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/resolver_service_base.ipp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/require_concept_free.hpp:
 
-/usr/include/bits/types/struct_statx.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/stream_protocol.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/thread.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/high_resolution_timer.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/signal_set_service.ipp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/any_completion_executor.ipp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/append.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/prepend.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/as_tuple.hpp:
 
@@ -2542,21 +2576,19 @@ CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/basic_descriptor.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/executor.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/thread_context.ipp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/executor.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/descriptor.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/prefer.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address_v4.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_waitable_timer.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/system_context.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address_v4.hpp:
 
-/usr/include/bits/types/sigevent_t.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/system_context.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/query.hpp:
 
@@ -2814,6 +2846,8 @@ CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h:
+
 /usr/include/bits/fcntl-linux.h:
 
 /usr/include/bits/fcntl.h:
@@ -2853,8 +2887,6 @@ CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/dependent_type.hpp:
 
 /usr/include/bits/signal_ext.h:
-
-/usr/include/bits/types/mbstate_t.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/readable_pipe.hpp:
 
@@ -2919,11 +2951,3 @@ CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
 /usr/include/qt/QtCore/qpair.h:
 
 /usr/include/bits/types/clock_t.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/completion_condition.hpp:
-
-/usr/include/bits/types/cookie_io_functions_t.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/defer.hpp:
-
-/usr/include/bits/types/locale_t.h:

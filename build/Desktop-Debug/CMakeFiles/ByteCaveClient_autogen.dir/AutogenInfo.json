@@ -93,6 +93,18 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h",
+			"MU",
+			"EWIEGA46WW/moc_chatroomcreation.cpp",
+			null
+		],
+		[
+			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h",
+			"MU",
+			"EWIEGA46WW/moc_hellowindow.cpp",
+			null
+		],
+		[
 			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h",
 			"MU",
 			"5Z5WMX6UGY/moc_IByteCaveClient.cpp",
@@ -165,6 +177,16 @@
 	"SETTINGS_FILE" : "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles/ByteCaveClient_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp",
+			"MU",
+			null
+		],
 		[
 			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp",
 			"MU",

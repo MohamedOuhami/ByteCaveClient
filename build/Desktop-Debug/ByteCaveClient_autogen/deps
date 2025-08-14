@@ -4,6 +4,10 @@ ByteCaveClient_autogen/timestamp: \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/moc_predefs.h \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles/4.0.3-dirty/CMakeSystem.cmake \
+	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp \
+	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
+	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp \
+	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp \
@@ -855,9 +859,11 @@ ByteCaveClient_autogen/timestamp: \
 	/usr/include/qt/QtGui/qtguiglobal.h \
 	/usr/include/qt/QtGui/qtransform.h \
 	/usr/include/qt/QtGui/qwindowdefs.h \
+	/usr/include/qt/QtWidgets/QDialog \
 	/usr/include/qt/QtWidgets/QMainWindow \
 	/usr/include/qt/QtWidgets/QTextBrowser \
 	/usr/include/qt/QtWidgets/qabstractscrollarea.h \
+	/usr/include/qt/QtWidgets/qdialog.h \
 	/usr/include/qt/QtWidgets/qframe.h \
 	/usr/include/qt/QtWidgets/qmainwindow.h \
 	/usr/include/qt/QtWidgets/qsizepolicy.h \
@@ -972,5 +978,7 @@ ByteCaveClient_autogen/timestamp: \
 	/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake \
 	/usr/share/cmake/Modules/Platform/Linux.cmake \
 	/usr/share/cmake/Modules/Platform/UnixPaths.cmake \
+	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.ui \
+	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.ui \
 	/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.ui \
 	/usr/bin/cmake

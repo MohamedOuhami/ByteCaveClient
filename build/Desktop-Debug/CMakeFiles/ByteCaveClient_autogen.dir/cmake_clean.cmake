@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "ByteCaveClient_autogen/include/ui_chatroomcreation.h"
+  "ByteCaveClient_autogen/include/ui_hellowindow.h"
   "ByteCaveClient_autogen/include/ui_mainwindow.h"
   "ByteCaveClient_autogen/mocs_compilation.cpp"
   "ByteCaveClient_autogen/timestamp"

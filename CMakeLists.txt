@@ -40,6 +40,9 @@ else()
             ${PROJECT_SOURCES}
             interfaces/IByteCaveClient.h
             services/bytecaveclient.h services/bytecaveclient.cpp
+            hellowindow.h hellowindow.cpp hellowindow.ui
+            chatroomcreation.h chatroomcreation.cpp chatroomcreation.ui
+
 
         )
     endif()

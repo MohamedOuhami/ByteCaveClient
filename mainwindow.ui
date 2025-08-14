@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>740</width>
+    <height>370</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,40 +17,33 @@
    <widget class="QLabel" name="AppTitle">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>0</y>
-      <width>101</width>
-      <height>31</height>
+      <x>280</x>
+      <y>10</y>
+      <width>161</width>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>22</pointsize>
+      <bold>true</bold>
+     </font>
     </property>
     <property name="text">
      <string>ByteCave</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="connectServerBtn">
-    <property name="geometry">
-     <rect>
-      <x>500</x>
-      <y>70</y>
-      <width>141</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Connect to Server</string>
-    </property>
-   </widget>
    <widget class="QPushButton" name="sendMessageBtn">
     <property name="geometry">
      <rect>
-      <x>500</x>
+      <x>460</x>
       <y>270</y>
-      <width>141</width>
+      <width>81</width>
       <height>41</height>
      </rect>
     </property>
     <property name="text">
-     <string>Send Message</string>
+     <string>Send</string>
     </property>
    </widget>
    <widget class="QTextBrowser" name="chat">
@@ -58,7 +51,7 @@
      <rect>
       <x>150</x>
       <y>70</y>
-      <width>341</width>
+      <width>391</width>
       <height>192</height>
      </rect>
     </property>
@@ -68,23 +61,67 @@
      <rect>
       <x>150</x>
       <y>270</y>
-      <width>341</width>
+      <width>301</width>
       <height>41</height>
      </rect>
     </property>
+    <property name="placeholderText">
+     <string>Enter your message here</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>20</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Available chatrooms</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Connected users</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="usernameTag">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>330</y>
+      <width>161</width>
+      <height>18</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Connected as @</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="createChatroomBtn">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>60</y>
+      <width>131</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Create a chatroom</string>
+    </property>
    </widget>
   </widget>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>800</width>
-     <height>23</height>
-    </rect>
-   </property>
-  </widget>
-  <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
  <connections/>

@@ -6,17 +6,15 @@
 
 using namespace std;
 // The constructor
-ByteCaveClient::ByteCaveClient(const string &host, const string &port,QTextBrowser *chatTB,QObject *parent):
-    QObject(parent),resolver(io_context),socket(io_context)
+ByteCaveClient::ByteCaveClient(const string &host, const string &port,QTextBrowser *chatTB,QObject *parent,const string username):
+    QObject(parent),resolver(io_context),socket(io_context),chatTB(chatTB)
 {
+
+    // Connect to the server
     asio::connect(socket,resolver.resolve(host,port));
 
-    // Connect the receiving new message event to adding it to the textbrowser
-    connect(this, // Sender
-            &ByteCaveClient::newMessageReceived, // Signal
-            chatTB, // Receiver
-            &QTextBrowser::append // Slot
-            ,Qt::QueuedConnection); // Connection Type
+    // Send the username as a first message
+    asio::write(socket,asio::buffer(username));
 
 }
 
@@ -47,8 +45,8 @@ void ByteCaveClient::readMessagesLoop(){
 
                 cout << msg;
 
-                // Emit the signal that a new message was received
-                emit newMessageReceived(QString::fromStdString(msg));
+                // Append the new message to the textBrowser
+                chatTB.append(QString::fromStdString(msg));
 
                 // Redo the loop
                 readMessagesLoop();

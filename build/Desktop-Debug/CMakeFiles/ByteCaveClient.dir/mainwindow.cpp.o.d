@@ -862,15 +862,12 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: \
  /usr/include/qt/QtWidgets/QLabel /usr/include/qt/QtWidgets/qlabel.h \
  /usr/include/qt/QtWidgets/QLineEdit \
  /usr/include/qt/QtWidgets/qlineedit.h \
- /usr/include/qt/QtWidgets/QMainWindow /usr/include/qt/QtWidgets/QMenuBar \
- /usr/include/qt/QtWidgets/qmenubar.h /usr/include/qt/QtWidgets/qmenu.h \
- /usr/include/qt/QtWidgets/qaction.h \
- /usr/include/qt/QtWidgets/qactiongroup.h \
+ /usr/include/qt/QtWidgets/QMainWindow \
  /usr/include/qt/QtWidgets/QPushButton \
  /usr/include/qt/QtWidgets/qpushbutton.h \
  /usr/include/qt/QtWidgets/qabstractbutton.h \
- /usr/include/qt/QtWidgets/QStatusBar \
- /usr/include/qt/QtWidgets/qstatusbar.h \
  /usr/include/qt/QtWidgets/QTextBrowser /usr/include/qt/QtWidgets/QWidget \
  /usr/include/qt/QtWidgets/qwidget.h /usr/include/qt/QtCore/qtimer.h \
- /usr/include/qt/QtCore/qbasictimer.h
+ /usr/include/qt/QtCore/qbasictimer.h \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
+ /usr/include/qt/QtWidgets/QDialog /usr/include/qt/QtWidgets/qdialog.h

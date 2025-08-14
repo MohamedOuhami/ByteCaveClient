@@ -6,6 +6,8 @@ ByteCaveClient: \
   CMakeFiles/ByteCaveClient.dir/main.cpp.o \
   CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o \
   CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o \
+  CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o \
+  CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o \
   /usr/lib/libQt5Widgets.so.5.15.17 \
   /usr/lib/libQt5Gui.so.5.15.17 \
   /usr/lib/libQt5Core.so.5.15.17 \
@@ -95,6 +97,10 @@ CMakeFiles/ByteCaveClient.dir/main.cpp.o:
 CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o:
 
 CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
+
+CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o:
+
+CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/lib/libQt5Widgets.so.5.15.17:
 

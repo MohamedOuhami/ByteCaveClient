@@ -224,6 +224,54 @@ ByteCaveClient_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.s
 .PHONY : ByteCaveClient_autogen/mocs_compilation.cpp.s
 
+chatroomcreation.o: chatroomcreation.cpp.o
+.PHONY : chatroomcreation.o
+
+# target to build an object file
+chatroomcreation.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o
+.PHONY : chatroomcreation.cpp.o
+
+chatroomcreation.i: chatroomcreation.cpp.i
+.PHONY : chatroomcreation.i
+
+# target to preprocess a source file
+chatroomcreation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.i
+.PHONY : chatroomcreation.cpp.i
+
+chatroomcreation.s: chatroomcreation.cpp.s
+.PHONY : chatroomcreation.s
+
+# target to generate assembly for a file
+chatroomcreation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.s
+.PHONY : chatroomcreation.cpp.s
+
+hellowindow.o: hellowindow.cpp.o
+.PHONY : hellowindow.o
+
+# target to build an object file
+hellowindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
+.PHONY : hellowindow.cpp.o
+
+hellowindow.i: hellowindow.cpp.i
+.PHONY : hellowindow.i
+
+# target to preprocess a source file
+hellowindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.i
+.PHONY : hellowindow.cpp.i
+
+hellowindow.s: hellowindow.cpp.s
+.PHONY : hellowindow.s
+
+# target to generate assembly for a file
+hellowindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ByteCaveClient.dir/build.make CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.s
+.PHONY : hellowindow.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -314,6 +362,12 @@ help:
 	@echo "... ByteCaveClient_autogen/mocs_compilation.o"
 	@echo "... ByteCaveClient_autogen/mocs_compilation.i"
 	@echo "... ByteCaveClient_autogen/mocs_compilation.s"
+	@echo "... chatroomcreation.o"
+	@echo "... chatroomcreation.i"
+	@echo "... chatroomcreation.s"
+	@echo "... hellowindow.o"
+	@echo "... hellowindow.i"
+	@echo "... hellowindow.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

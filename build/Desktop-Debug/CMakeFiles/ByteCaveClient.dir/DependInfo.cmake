@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "ByteCaveClient_autogen/timestamp" "custom" "ByteCaveClient_autogen/deps"
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/mocs_compilation.cpp" "CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o.d"
+  "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp" "CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o.d"
+  "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp" "CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o.d"
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp" "CMakeFiles/ByteCaveClient.dir/main.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/main.cpp.o.d"
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp" "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o.d"
   "/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp" "CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o" "gcc" "CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o.d"

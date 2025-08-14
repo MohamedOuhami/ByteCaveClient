@@ -1,7 +1,7 @@
 CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp \
  /usr/include/c++/15.1.1/memory /usr/include/c++/15.1.1/bits/memoryfwd.h \
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -106,9 +106,8 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/15.1.1/backward/auto_ptr.h \
  /usr/include/c++/15.1.1/pstl/glue_memory_defs.h \
  /usr/include/c++/15.1.1/pstl/execution_defs.h \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/../../../../mainwindow.h \
- /usr/include/qt/QtWidgets/QMainWindow \
- /usr/include/qt/QtWidgets/qmainwindow.h \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/../../../../chatroomcreation.h \
+ /usr/include/qt/QtWidgets/QDialog /usr/include/qt/QtWidgets/qdialog.h \
  /usr/include/qt/QtWidgets/qtwidgetsglobal.h \
  /usr/include/qt/QtGui/qtguiglobal.h /usr/include/qt/QtCore/qglobal.h \
  /usr/include/c++/15.1.1/cstddef /usr/include/c++/15.1.1/utility \
@@ -249,7 +248,13 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: \
  /usr/include/qt/QtGui/qfontinfo.h \
  /usr/include/qt/QtWidgets/qsizepolicy.h /usr/include/qt/QtGui/qcursor.h \
  /usr/include/qt/QtGui/qkeysequence.h \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/moc_hellowindow.cpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/../../../../hellowindow.h \
+ /usr/include/qt/QtWidgets/QMainWindow \
+ /usr/include/qt/QtWidgets/qmainwindow.h \
  /usr/include/qt/QtWidgets/qtabwidget.h /usr/include/qt/QtGui/qicon.h \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/../../../../mainwindow.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \

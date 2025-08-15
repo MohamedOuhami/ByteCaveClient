@@ -1,8 +1,4 @@
 #include "bytecaveclient.h"
-#include <asio.hpp>
-#include <string>
-#include <iostream>
-#include <QTextBrowser>
 
 using namespace std;
 // The constructor
@@ -19,14 +15,32 @@ ByteCaveClient::ByteCaveClient(const string &host, const string &port,QTextBrows
 }
 
 // Send message
-void ByteCaveClient::sendMessage(string &message){
-    asio::write(socket,asio::buffer(message + "\n"));
+void ByteCaveClient::sendMessage(const string &command,const string &data){
+
+    // Build message with length
+    std::ostringstream oss;
+    oss << "CREATE_CHATROOM\n" << data.size() << "\n" << data;
+
+    asio::write(socket,asio::buffer(oss.str()));
 }
 
 // Poll the context
 void ByteCaveClient::pollContext(){
     io_context.poll();
 }
+
+// Method to read the UUID from the server
+boost::uuids::uuid ByteCaveClient::readUUID() {
+    std::array<char, 36> buffer;
+    size_t length = socket.read_some(asio::buffer(buffer));
+
+    string data = buffer.data();
+    std::string uuid_str(buffer.data(), length);
+
+    boost::uuids::string_generator gen;
+    return gen(uuid_str);
+}
+
 
 // Loop to keep reading incoming messages
 void ByteCaveClient::readMessagesLoop(){
@@ -41,6 +55,8 @@ void ByteCaveClient::readMessagesLoop(){
         // The callback to perform when receiving a message
         [this,buffer](error_code ec,size_t length){
             if(!ec){
+
+                // If the
                 string msg(buffer->data(),length);
 
                 cout << msg;

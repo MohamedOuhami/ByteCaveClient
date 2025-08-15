@@ -121,6 +121,29 @@
      <string>Create a chatroom</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="refreshChatroomsBtn">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>90</y>
+      <width>131</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Refresh</string>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="chatroomsList">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>130</y>
+      <width>131</width>
+      <height>192</height>
+     </rect>
+    </property>
+   </widget>
   </widget>
  </widget>
  <resources/>

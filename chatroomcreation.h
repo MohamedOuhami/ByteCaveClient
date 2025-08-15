@@ -3,6 +3,7 @@
 
 #include <QDialog>
 
+using namespace std;
 namespace Ui {
 class chatroomCreation;
 }
@@ -14,6 +15,15 @@ class chatroomCreation : public QDialog
 public:
     explicit chatroomCreation(QWidget *parent = nullptr);
     ~chatroomCreation();
+
+
+private slots :
+    // Get the data when clicking accepted
+    void getChatroomData();
+
+// A signal that gets emitted when the user clicks on confirm in the dialog
+signals :
+    void chatroomDataReady(QString username,QString description);
 
 private:
     Ui::chatroomCreation *ui;

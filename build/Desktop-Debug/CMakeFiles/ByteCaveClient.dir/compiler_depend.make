@@ -4295,6 +4295,53 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
+  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/alloca.h \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -4534,11 +4581,20 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/exception.h \
   /usr/include/c++/15.1.1/bits/exception_defines.h \
   /usr/include/c++/15.1.1/bits/exception_ptr.h \
+  /usr/include/c++/15.1.1/bits/forward_list.h \
+  /usr/include/c++/15.1.1/bits/forward_list.tcc \
+  /usr/include/c++/15.1.1/bits/fs_dir.h \
+  /usr/include/c++/15.1.1/bits/fs_fwd.h \
+  /usr/include/c++/15.1.1/bits/fs_ops.h \
+  /usr/include/c++/15.1.1/bits/fs_path.h \
   /usr/include/c++/15.1.1/bits/functexcept.h \
   /usr/include/c++/15.1.1/bits/functional_hash.h \
+  /usr/include/c++/15.1.1/bits/gslice.h \
+  /usr/include/c++/15.1.1/bits/gslice_array.h \
   /usr/include/c++/15.1.1/bits/hash_bytes.h \
   /usr/include/c++/15.1.1/bits/hashtable.h \
   /usr/include/c++/15.1.1/bits/hashtable_policy.h \
+  /usr/include/c++/15.1.1/bits/indirect_array.h \
   /usr/include/c++/15.1.1/bits/invoke.h \
   /usr/include/c++/15.1.1/bits/ios_base.h \
   /usr/include/c++/15.1.1/bits/istream.tcc \
@@ -4551,6 +4607,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
+  /usr/include/c++/15.1.1/bits/mask_array.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
   /usr/include/c++/15.1.1/bits/monostate.h \
@@ -4565,6 +4622,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/quoted_string.h \
   /usr/include/c++/15.1.1/bits/random.h \
   /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
@@ -4573,6 +4631,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/slice_array.h \
   /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
@@ -4611,6 +4670,10 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/uses_allocator.h \
   /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
   /usr/include/c++/15.1.1/bits/utility.h \
+  /usr/include/c++/15.1.1/bits/valarray_after.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/15.1.1/bits/valarray_before.h \
   /usr/include/c++/15.1.1/bits/vector.tcc \
   /usr/include/c++/15.1.1/bits/version.h \
   /usr/include/c++/15.1.1/cassert \
@@ -4620,6 +4683,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
   /usr/include/c++/15.1.1/cmath \
+  /usr/include/c++/15.1.1/codecvt \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -4642,12 +4706,14 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/ext/numeric_traits.h \
   /usr/include/c++/15.1.1/ext/string_conversions.h \
   /usr/include/c++/15.1.1/ext/type_traits.h \
+  /usr/include/c++/15.1.1/filesystem \
+  /usr/include/c++/15.1.1/forward_list \
   /usr/include/c++/15.1.1/functional \
   /usr/include/c++/15.1.1/future \
   /usr/include/c++/15.1.1/initializer_list \
+  /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
-  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
@@ -4658,6 +4724,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/mutex \
   /usr/include/c++/15.1.1/new \
   /usr/include/c++/15.1.1/numeric \
+  /usr/include/c++/15.1.1/optional \
   /usr/include/c++/15.1.1/ostream \
   /usr/include/c++/15.1.1/pstl/execution_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h \
@@ -4691,6 +4758,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
+  /usr/include/c++/15.1.1/valarray \
   /usr/include/c++/15.1.1/variant \
   /usr/include/c++/15.1.1/vector \
   /usr/include/c++/15.1.1/version \
@@ -5892,6 +5960,92 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
 
 /usr/include/c++/15.1.1/iostream:
 
+/usr/include/c++/15.1.1/valarray:
+
+/usr/include/c++/15.1.1/iomanip:
+
+/usr/include/c++/15.1.1/filesystem:
+
+/usr/include/c++/15.1.1/codecvt:
+
+/usr/include/c++/15.1.1/bits/valarray_array.h:
+
+/usr/include/c++/15.1.1/bits/slice_array.h:
+
+/usr/include/c++/15.1.1/bits/quoted_string.h:
+
+/usr/include/c++/15.1.1/bits/mask_array.h:
+
+/usr/include/c++/15.1.1/bits/valarray_after.h:
+
+/usr/include/c++/15.1.1/bits/indirect_array.h:
+
+/usr/include/c++/15.1.1/bits/gslice_array.h:
+
+/usr/include/c++/15.1.1/bits/gslice.h:
+
+/usr/include/c++/15.1.1/bits/fs_path.h:
+
+/usr/include/c++/15.1.1/bits/fs_ops.h:
+
+/usr/include/c++/15.1.1/bits/fs_fwd.h:
+
+/usr/include/c++/15.1.1/bits/fs_dir.h:
+
+/usr/include/c++/15.1.1/bits/forward_list.tcc:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp:
+
 ByteCaveClient_autogen/include/ui_mainwindow.h:
 
 /usr/include/qt/QtWidgets/qpushbutton.h:
@@ -5947,6 +6101,8 @@ ByteCaveClient_autogen/include/ui_chatroomcreation.h:
 /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc:
 
 /usr/include/c++/15.1.1/tr1/hypergeometric.tcc:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp:
 
 /usr/include/c++/15.1.1/tr1/gamma.tcc:
 
@@ -6017,6 +6173,8 @@ ByteCaveClient_autogen/include/ui_chatroomcreation.h:
 /usr/include/alloca.h:
 
 ByteCaveClient_autogen/EWIEGA46WW/moc_hellowindow.cpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp:
 
 ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
@@ -6156,6 +6314,8 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/tss_ptr.hpp:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp:
+
 /usr/include/asm-generic/ioctl.h:
 
 /usr/include/c++/15.1.1/tr1/beta_function.tcc:
@@ -6177,6 +6337,8 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/writable_pipe.hpp:
 
 /usr/lib/libc.so:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp:
 
 /usr/include/asm-generic/bitsperlong.h:
 
@@ -6342,7 +6504,11 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/bits/types/struct_sched_param.h:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp:
+
 /usr/include/qt/QtCore/qatomic.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/seq_packet_protocol.hpp:
 
@@ -6490,6 +6656,10 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/new:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/seq_packet_protocol.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/query.hpp:
@@ -6542,7 +6712,11 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/executor_function.hpp:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wait_handler.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/reactive_socket_service_base.ipp:
 
@@ -6577,6 +6751,8 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/allocator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/conditionally_enabled_event.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/cancellation_type.hpp:
 
@@ -6755,6 +6931,8 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 /usr/include/boost/uuid/string_generator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/base_from_completion_cond.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/async_result.hpp:
 
@@ -6948,6 +7126,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket_acceptor.hpp:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp:
+
 /usr/include/c++/15.1.1/bits/ostream_insert.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/service_registry.ipp:
@@ -7001,6 +7181,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/c++/15.1.1/bits/stl_relops.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/concurrency_hint.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/json.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wrapped_handler.hpp:
 
@@ -7246,6 +7428,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp:
 
+/usr/include/c++/15.1.1/bits/forward_list.h:
+
 /usr/include/c++/15.1.1/bits/streambuf.tcc:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/timer_queue_ptime.hpp:
@@ -7364,6 +7548,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/bits/types/struct_osockaddr.h:
 
+/usr/include/c++/15.1.1/bits/valarray_array.tcc:
+
 /usr/include/bits/types/struct_sigstack.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/buffered_read_stream.hpp:
@@ -7379,6 +7565,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/boost/uuid/detail/chacha20.hpp:
 
 /usr/include/c++/15.1.1/bits/postypes.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp:
 
 /usr/include/bits/typesizes.h:
 
@@ -7512,6 +7700,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bit:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp:
+
 /usr/include/boost/uuid/namespaces.hpp:
 
 /usr/include/c++/15.1.1/bits/algorithmfwd.h:
@@ -7604,6 +7794,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/locale_facets.h:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp:
+
 /usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/awaitable.hpp:
@@ -7639,6 +7831,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
 
 /usr/include/c++/15.1.1/bits/ranges_algobase.h:
+
+/usr/include/c++/15.1.1/forward_list:
 
 /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h:
 
@@ -7892,6 +8086,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/features.h:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp:
+
 /usr/include/gnu/stubs.h:
 
 /usr/include/libintl.h:
@@ -7939,6 +8135,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/qt/QtCore/qglobal.h:
 
 /usr/include/qt/QtCore/qstringlist.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp:
 
 /usr/include/qt/QtCore/qhash.h:
 
@@ -8054,6 +8252,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/qt/QtWidgets/qwidget.h:
 
+/usr/include/c++/15.1.1/bits/valarray_before.h:
+
 /usr/include/stdio.h:
 
 /usr/include/string.h:
@@ -8133,6 +8333,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake:
 

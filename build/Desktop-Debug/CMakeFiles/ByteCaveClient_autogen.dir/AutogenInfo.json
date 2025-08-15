@@ -145,6 +145,8 @@
 		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio",
 		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces",
 		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services",
+		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs",
+		"/home/v01d/dev/libs/include/json/include",
 		"/usr/include/qt",
 		"/usr/include/qt/QtWidgets",
 		"/usr/include/qt/QtGui",

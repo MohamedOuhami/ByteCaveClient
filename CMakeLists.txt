@@ -42,6 +42,8 @@ else()
             services/bytecaveclient.h services/bytecaveclient.cpp
             hellowindow.h hellowindow.cpp hellowindow.ui
             chatroomcreation.h chatroomcreation.cpp chatroomcreation.ui
+            structs/Chatroom.h
+
 
 
         )
@@ -57,6 +59,8 @@ target_include_directories(
     ${CMAKE_SOURCE_DIR}/include/asio
     ${CMAKE_SOURCE_DIR}/interfaces
     ${CMAKE_SOURCE_DIR}/services
+    ${CMAKE_SOURCE_DIR}/structs
+    /home/v01d/dev/libs/include/json/include
 )
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an

@@ -6,6 +6,10 @@
 #include <string>
 #include <asio.hpp>
 #include <QTextBrowser>
+#include <boost/uuid.hpp>
+#include <asio.hpp>
+#include <string>
+
 
 using namespace std;
 using asio::ip::tcp;
@@ -28,10 +32,13 @@ public:
     ByteCaveClient(const string &host,const string &port,QTextBrowser *chatTB,QObject *parent = nullptr,const string username = "");
 
     // Method to send message to server
-    void sendMessage(string &message) override;
+    void sendMessage(const string &command,const string &data) override;
 
     // Method to read the messages in a loop
     void readMessagesLoop() override;
+
+    // Method to read the UUID
+    boost::uuids::uuid readUUID() override;
 
     void pollContext();
 

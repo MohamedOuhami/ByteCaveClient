@@ -105,15 +105,169 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /usr/include/c++/15.1.1/cstddef \
  /usr/include/c++/15.1.1/bits/uses_allocator.h \
  /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
- /usr/include/c++/15.1.1/tuple \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/config.hpp \
- /usr/include/c++/15.1.1/version /usr/include/unistd.h \
+ /usr/include/c++/15.1.1/tuple /usr/include/boost/uuid.hpp \
+ /usr/include/boost/uuid/uuid.hpp /usr/include/boost/uuid/uuid_clock.hpp \
+ /usr/include/c++/15.1.1/chrono /usr/include/c++/15.1.1/bits/chrono.h \
+ /usr/include/c++/15.1.1/ratio /usr/include/c++/15.1.1/cstdint \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/bits/stdint-least.h /usr/include/c++/15.1.1/limits \
+ /usr/include/c++/15.1.1/ctime /usr/include/time.h \
+ /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/types/struct_tm.h \
+ /usr/include/bits/types/struct_itimerspec.h \
+ /usr/include/c++/15.1.1/bits/parse_numbers.h \
+ /usr/include/boost/uuid/detail/endian.hpp \
+ /usr/include/c++/15.1.1/cstring /usr/include/string.h \
+ /usr/include/strings.h /usr/include/boost/uuid/detail/hash_mix.hpp \
+ /usr/include/boost/uuid/detail/config.hpp /usr/include/boost/config.hpp \
+ /usr/include/boost/config/user.hpp \
+ /usr/include/boost/config/detail/select_compiler_config.hpp \
+ /usr/include/boost/config/compiler/gcc.hpp \
+ /usr/include/boost/config/detail/select_stdlib_config.hpp \
+ /usr/include/c++/15.1.1/version \
+ /usr/include/boost/config/stdlib/libstdcpp3.hpp /usr/include/unistd.h \
  /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
  /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
  /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
- /usr/include/linux/close_range.h /usr/include/linux/version.h \
+ /usr/include/linux/close_range.h \
+ /usr/include/boost/config/detail/select_platform_config.hpp \
+ /usr/include/boost/config/platform/linux.hpp \
+ /usr/include/boost/config/detail/posix_features.hpp \
+ /usr/include/boost/config/detail/suffix.hpp \
+ /usr/include/boost/config/helper_macros.hpp \
+ /usr/include/boost/config/detail/cxx_composite.hpp \
+ /usr/include/boost/type_traits/integral_constant.hpp \
+ /usr/include/boost/detail/workaround.hpp \
+ /usr/include/boost/config/workaround.hpp /usr/include/c++/15.1.1/array \
+ /usr/include/c++/15.1.1/compare /usr/include/c++/15.1.1/typeindex \
+ /usr/include/c++/15.1.1/typeinfo \
+ /usr/include/boost/uuid/detail/uuid_x86.ipp \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+ /usr/include/c++/15.1.1/stdlib.h /usr/include/boost/uuid/uuid_io.hpp \
+ /usr/include/boost/uuid/detail/to_chars.hpp \
+ /usr/include/boost/uuid/detail/static_assert.hpp \
+ /usr/include/c++/15.1.1/istream /usr/include/c++/15.1.1/ios \
+ /usr/include/c++/15.1.1/exception \
+ /usr/include/c++/15.1.1/bits/exception_ptr.h \
+ /usr/include/c++/15.1.1/bits/cxxabi_init_exception.h \
+ /usr/include/c++/15.1.1/bits/nested_exception.h \
+ /usr/include/c++/15.1.1/bits/ios_base.h \
+ /usr/include/c++/15.1.1/ext/atomicity.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/linux/sched/types.h /usr/include/linux/types.h \
+ /usr/include/asm/types.h /usr/include/asm-generic/types.h \
+ /usr/include/asm-generic/int-ll64.h /usr/include/asm/bitsperlong.h \
+ /usr/include/asm-generic/bitsperlong.h /usr/include/linux/posix_types.h \
+ /usr/include/linux/stddef.h /usr/include/asm/posix_types.h \
+ /usr/include/asm/posix_types_64.h /usr/include/asm-generic/posix_types.h \
+ /usr/include/bits/types/struct_sched_param.h /usr/include/bits/cpu-set.h \
+ /usr/include/bits/setjmp.h \
+ /usr/include/bits/types/struct___jmp_buf_tag.h \
+ /usr/include/bits/pthread_stack_min-dynamic.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+ /usr/include/sys/single_threaded.h \
+ /usr/include/c++/15.1.1/bits/locale_classes.h \
+ /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+ /usr/include/c++/15.1.1/system_error \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+ /usr/include/c++/15.1.1/stdexcept /usr/include/c++/15.1.1/streambuf \
+ /usr/include/c++/15.1.1/bits/streambuf.tcc \
+ /usr/include/c++/15.1.1/bits/basic_ios.h \
+ /usr/include/c++/15.1.1/bits/locale_facets.h \
+ /usr/include/c++/15.1.1/cwctype /usr/include/wctype.h \
+ /usr/include/bits/wctype-wchar.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+ /usr/include/c++/15.1.1/bits/streambuf_iterator.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+ /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+ /usr/include/c++/15.1.1/bits/basic_ios.tcc \
+ /usr/include/c++/15.1.1/ostream /usr/include/c++/15.1.1/bits/ostream.h \
+ /usr/include/c++/15.1.1/bits/ostream.tcc \
+ /usr/include/c++/15.1.1/bits/istream.tcc /usr/include/c++/15.1.1/locale \
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/15.1.1/bits/codecvt.h \
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/15.1.1/bits/locale_conv.h \
+ /usr/include/c++/15.1.1/algorithm \
+ /usr/include/c++/15.1.1/bits/stl_algo.h \
+ /usr/include/c++/15.1.1/bits/algorithmfwd.h \
+ /usr/include/c++/15.1.1/bits/stl_heap.h \
+ /usr/include/c++/15.1.1/bits/uniform_int_dist.h \
+ /usr/include/c++/15.1.1/bits/stl_tempbuf.h \
+ /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h \
+ /usr/include/c++/15.1.1/pstl/execution_defs.h \
+ /usr/include/boost/uuid/uuid_generators.hpp \
+ /usr/include/boost/uuid/nil_generator.hpp \
+ /usr/include/boost/uuid/string_generator.hpp \
+ /usr/include/boost/throw_exception.hpp \
+ /usr/include/boost/exception/exception.hpp \
+ /usr/include/boost/assert/source_location.hpp \
+ /usr/include/boost/cstdint.hpp /usr/include/c++/15.1.1/utility \
+ /usr/include/c++/15.1.1/bits/stl_relops.h \
+ /usr/include/c++/15.1.1/iterator \
+ /usr/include/c++/15.1.1/bits/stream_iterator.h \
+ /usr/include/boost/uuid/name_generator.hpp \
+ /usr/include/boost/uuid/name_generator_md5.hpp \
+ /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+ /usr/include/boost/uuid/namespaces.hpp \
+ /usr/include/boost/uuid/detail/md5.hpp \
+ /usr/include/boost/uuid/detail/numeric_cast.hpp \
+ /usr/include/boost/uuid/name_generator_sha1.hpp \
+ /usr/include/boost/uuid/detail/sha1.hpp \
+ /usr/include/boost/uuid/random_generator.hpp \
+ /usr/include/boost/uuid/basic_random_generator.hpp \
+ /usr/include/boost/uuid/detail/random_provider.hpp \
+ /usr/include/boost/uuid/detail/random_device.hpp \
+ /usr/include/c++/15.1.1/random /usr/include/c++/15.1.1/cmath \
+ /usr/include/math.h /usr/include/bits/math-vector.h \
+ /usr/include/bits/libm-simd-decl-stubs.h \
+ /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
+ /usr/include/bits/fp-fast.h /usr/include/bits/mathcalls-macros.h \
+ /usr/include/bits/mathcalls-helper-functions.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathcalls-narrow.h \
+ /usr/include/bits/iscanonical.h /usr/include/c++/15.1.1/bits/specfun.h \
+ /usr/include/c++/15.1.1/tr1/gamma.tcc \
+ /usr/include/c++/15.1.1/tr1/special_function_util.h \
+ /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+ /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+ /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+ /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+ /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+ /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+ /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+ /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+ /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+ /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+ /usr/include/c++/15.1.1/bits/random.h /usr/include/c++/15.1.1/vector \
+ /usr/include/c++/15.1.1/bits/stl_uninitialized.h \
+ /usr/include/c++/15.1.1/bits/stl_vector.h \
+ /usr/include/c++/15.1.1/bits/stl_bvector.h \
+ /usr/include/c++/15.1.1/bits/vector.tcc \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h \
+ /usr/include/c++/15.1.1/bits/random.tcc /usr/include/c++/15.1.1/numeric \
+ /usr/include/c++/15.1.1/bits/stl_numeric.h \
+ /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
+ /usr/include/boost/assert.hpp /usr/include/assert.h \
+ /usr/include/boost/uuid/detail/chacha20.hpp \
+ /usr/include/boost/uuid/time_generator.hpp \
+ /usr/include/boost/uuid/time_generator_v1.hpp \
+ /usr/include/c++/15.1.1/atomic \
+ /usr/include/c++/15.1.1/bits/atomic_base.h \
+ /usr/include/c++/15.1.1/bits/atomic_lockfree_defines.h \
+ /usr/include/boost/uuid/time_generator_v6.hpp \
+ /usr/include/boost/uuid/time_generator_v7.hpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/config.hpp \
+ /usr/include/linux/version.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/allocator.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/type_traits.hpp \
@@ -127,24 +281,14 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/query_static_constexpr_member.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/static_query.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/any_executor.hpp \
- /usr/include/c++/15.1.1/typeinfo \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/assert.hpp \
- /usr/include/c++/15.1.1/cassert /usr/include/assert.h \
+ /usr/include/c++/15.1.1/cassert \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/atomic_count.hpp \
- /usr/include/c++/15.1.1/atomic \
- /usr/include/c++/15.1.1/bits/atomic_base.h \
- /usr/include/c++/15.1.1/bits/atomic_lockfree_defines.h \
- /usr/include/c++/15.1.1/cstdint \
- /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
- /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
- /usr/include/bits/stdint-least.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/cstddef.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/executor_function.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/handler_alloc_helpers.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/memory.hpp \
  /usr/include/c++/15.1.1/memory \
- /usr/include/c++/15.1.1/bits/stl_tempbuf.h \
- /usr/include/c++/15.1.1/bits/stl_uninitialized.h \
  /usr/include/c++/15.1.1/bits/stl_raw_storage_iter.h \
  /usr/include/c++/15.1.1/bits/align.h \
  /usr/include/c++/15.1.1/bits/unique_ptr.h \
@@ -152,33 +296,10 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
  /usr/include/c++/15.1.1/bits/allocated_ptr.h \
  /usr/include/c++/15.1.1/ext/aligned_buffer.h \
- /usr/include/c++/15.1.1/ext/atomicity.h \
- /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
- /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
- /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
- /usr/include/linux/sched/types.h /usr/include/linux/types.h \
- /usr/include/asm/types.h /usr/include/asm-generic/types.h \
- /usr/include/asm-generic/int-ll64.h /usr/include/asm/bitsperlong.h \
- /usr/include/asm-generic/bitsperlong.h /usr/include/linux/posix_types.h \
- /usr/include/linux/stddef.h /usr/include/asm/posix_types.h \
- /usr/include/asm/posix_types_64.h /usr/include/asm-generic/posix_types.h \
- /usr/include/bits/types/struct_sched_param.h /usr/include/bits/cpu-set.h \
- /usr/include/time.h /usr/include/bits/time.h /usr/include/bits/timex.h \
- /usr/include/bits/types/struct_tm.h \
- /usr/include/bits/types/struct_itimerspec.h /usr/include/bits/setjmp.h \
- /usr/include/bits/types/struct___jmp_buf_tag.h \
- /usr/include/bits/pthread_stack_min-dynamic.h \
- /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
- /usr/include/sys/single_threaded.h \
  /usr/include/c++/15.1.1/ext/concurrence.h \
- /usr/include/c++/15.1.1/exception \
- /usr/include/c++/15.1.1/bits/exception_ptr.h \
- /usr/include/c++/15.1.1/bits/cxxabi_init_exception.h \
- /usr/include/c++/15.1.1/bits/nested_exception.h \
  /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
  /usr/include/c++/15.1.1/backward/auto_ptr.h \
  /usr/include/c++/15.1.1/pstl/glue_memory_defs.h \
- /usr/include/c++/15.1.1/pstl/execution_defs.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/cstdint.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/throw_exception.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/noncopyable.hpp \
@@ -209,11 +330,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /usr/include/c++/15.1.1/bits/hashtable_policy.h \
  /usr/include/c++/15.1.1/bits/enable_special_members.h \
  /usr/include/c++/15.1.1/bits/node_handle.h \
- /usr/include/c++/15.1.1/bits/erase_if.h /usr/include/c++/15.1.1/vector \
- /usr/include/c++/15.1.1/bits/stl_vector.h \
- /usr/include/c++/15.1.1/bits/stl_bvector.h \
- /usr/include/c++/15.1.1/bits/vector.tcc /usr/include/c++/15.1.1/array \
- /usr/include/c++/15.1.1/compare \
+ /usr/include/c++/15.1.1/bits/erase_if.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/non_const_lvalue.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scoped_ptr.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/bad_executor.hpp \
@@ -235,12 +352,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_event.ipp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/throw_error.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/error_code.hpp \
- /usr/include/c++/15.1.1/system_error \
- /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
- /usr/include/c++/15.1.1/stdexcept \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/error_code.ipp \
- /usr/include/c++/15.1.1/cstring /usr/include/string.h \
- /usr/include/strings.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/local_free_on_block_exit.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/socket_types.hpp \
  /usr/include/sys/ioctl.h /usr/include/bits/ioctls.h \
@@ -297,8 +409,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/any_completion_executor.ipp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp \
- /usr/include/c++/15.1.1/utility \
- /usr/include/c++/15.1.1/bits/stl_relops.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_io_executor.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution_context.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/execution_context.hpp \
@@ -340,7 +450,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/scheduler.ipp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/concurrency_hint.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/limits.hpp \
- /usr/include/c++/15.1.1/limits \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler_thread_info.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_blocker.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_signal_blocker.hpp \
@@ -388,9 +497,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/io_object_impl.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/io_context.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/chrono.hpp \
- /usr/include/c++/15.1.1/chrono /usr/include/c++/15.1.1/bits/chrono.h \
- /usr/include/c++/15.1.1/ratio /usr/include/c++/15.1.1/ctime \
- /usr/include/c++/15.1.1/bits/parse_numbers.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wrapped_handler.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/bind_handler.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/io_context.hpp \
@@ -410,14 +516,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/array_fwd.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/string_view.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_contiguous_iterator.hpp \
- /usr/include/c++/15.1.1/iterator \
- /usr/include/c++/15.1.1/bits/stream_iterator.h \
- /usr/include/c++/15.1.1/bits/streambuf_iterator.h \
- /usr/include/c++/15.1.1/streambuf \
- /usr/include/c++/15.1.1/bits/ios_base.h \
- /usr/include/c++/15.1.1/bits/locale_classes.h \
- /usr/include/c++/15.1.1/bits/locale_classes.tcc \
- /usr/include/c++/15.1.1/bits/streambuf.tcc \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/is_buffer_sequence.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/buffer_sequence_adapter.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/registered_buffer.hpp \
@@ -474,18 +572,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket_acceptor.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket_iostream.hpp \
- /usr/include/c++/15.1.1/istream /usr/include/c++/15.1.1/ios \
- /usr/include/c++/15.1.1/bits/basic_ios.h \
- /usr/include/c++/15.1.1/bits/locale_facets.h \
- /usr/include/c++/15.1.1/cwctype /usr/include/wctype.h \
- /usr/include/bits/wctype-wchar.h \
- /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
- /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
- /usr/include/c++/15.1.1/bits/locale_facets.tcc \
- /usr/include/c++/15.1.1/bits/basic_ios.tcc \
- /usr/include/c++/15.1.1/ostream /usr/include/c++/15.1.1/bits/ostream.h \
- /usr/include/c++/15.1.1/bits/ostream.tcc \
- /usr/include/c++/15.1.1/bits/istream.tcc \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket_streambuf.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_socket.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/steady_timer.hpp \
@@ -503,12 +589,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_file.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_socket.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_streambuf.hpp \
- /usr/include/c++/15.1.1/algorithm \
- /usr/include/c++/15.1.1/bits/stl_algo.h \
- /usr/include/c++/15.1.1/bits/algorithmfwd.h \
- /usr/include/c++/15.1.1/bits/stl_heap.h \
- /usr/include/c++/15.1.1/bits/uniform_int_dist.h \
- /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_streambuf_fwd.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_waitable_timer.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_writable_pipe.hpp \
@@ -810,14 +890,11 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: \
  /usr/include/qt/QtCore/qobject.h /usr/include/qt/QtCore/qstring.h \
  /usr/include/qt/QtCore/qchar.h /usr/include/qt/QtCore/qbytearray.h \
  /usr/include/qt/QtCore/qrefcount.h /usr/include/qt/QtCore/qarraydata.h \
- /usr/include/c++/15.1.1/stdlib.h /usr/include/qt/QtCore/qstringliteral.h \
+ /usr/include/qt/QtCore/qstringliteral.h \
  /usr/include/qt/QtCore/qstringalgorithms.h \
  /usr/include/qt/QtCore/qstringview.h /usr/include/qt/QtCore/qlist.h \
  /usr/include/qt/QtCore/qalgorithms.h /usr/include/qt/QtCore/qiterator.h \
  /usr/include/qt/QtCore/qhashfunctions.h /usr/include/qt/QtCore/qpair.h \
- /usr/include/c++/15.1.1/numeric \
- /usr/include/c++/15.1.1/bits/stl_numeric.h \
- /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
  /usr/include/qt/QtCore/qvector.h \
  /usr/include/qt/QtCore/qcontainertools_impl.h \
  /usr/include/c++/15.1.1/list /usr/include/c++/15.1.1/bits/stl_list.h \

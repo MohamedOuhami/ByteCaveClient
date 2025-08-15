@@ -433,6 +433,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.ui \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
   /usr/bin/cmake \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -575,6 +576,52 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/bits/wchar.h \
   /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/boost/assert.hpp \
+  /usr/include/boost/assert/source_location.hpp \
+  /usr/include/boost/config.hpp \
+  /usr/include/boost/config/detail/cxx_composite.hpp \
+  /usr/include/boost/config/detail/select_compiler_config.hpp \
+  /usr/include/boost/config/detail/select_platform_config.hpp \
+  /usr/include/boost/config/detail/select_stdlib_config.hpp \
+  /usr/include/boost/config/detail/suffix.hpp \
+  /usr/include/boost/config/helper_macros.hpp \
+  /usr/include/boost/config/workaround.hpp \
+  /usr/include/boost/cstdint.hpp \
+  /usr/include/boost/detail/workaround.hpp \
+  /usr/include/boost/exception/exception.hpp \
+  /usr/include/boost/limits.hpp \
+  /usr/include/boost/throw_exception.hpp \
+  /usr/include/boost/type_traits/integral_constant.hpp \
+  /usr/include/boost/uuid.hpp \
+  /usr/include/boost/uuid/basic_random_generator.hpp \
+  /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+  /usr/include/boost/uuid/detail/chacha20.hpp \
+  /usr/include/boost/uuid/detail/config.hpp \
+  /usr/include/boost/uuid/detail/endian.hpp \
+  /usr/include/boost/uuid/detail/hash_mix.hpp \
+  /usr/include/boost/uuid/detail/md5.hpp \
+  /usr/include/boost/uuid/detail/numeric_cast.hpp \
+  /usr/include/boost/uuid/detail/random_device.hpp \
+  /usr/include/boost/uuid/detail/random_provider.hpp \
+  /usr/include/boost/uuid/detail/sha1.hpp \
+  /usr/include/boost/uuid/detail/static_assert.hpp \
+  /usr/include/boost/uuid/detail/to_chars.hpp \
+  /usr/include/boost/uuid/detail/uuid_x86.ipp \
+  /usr/include/boost/uuid/name_generator.hpp \
+  /usr/include/boost/uuid/name_generator_md5.hpp \
+  /usr/include/boost/uuid/name_generator_sha1.hpp \
+  /usr/include/boost/uuid/namespaces.hpp \
+  /usr/include/boost/uuid/nil_generator.hpp \
+  /usr/include/boost/uuid/random_generator.hpp \
+  /usr/include/boost/uuid/string_generator.hpp \
+  /usr/include/boost/uuid/time_generator.hpp \
+  /usr/include/boost/uuid/time_generator_v1.hpp \
+  /usr/include/boost/uuid/time_generator_v6.hpp \
+  /usr/include/boost/uuid/time_generator_v7.hpp \
+  /usr/include/boost/uuid/uuid.hpp \
+  /usr/include/boost/uuid/uuid_clock.hpp \
+  /usr/include/boost/uuid/uuid_generators.hpp \
+  /usr/include/boost/uuid/uuid_io.hpp \
   /usr/include/c++/15.1.1/algorithm \
   /usr/include/c++/15.1.1/any \
   /usr/include/c++/15.1.1/array \
@@ -597,6 +644,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/c++0x_warning.h \
   /usr/include/c++/15.1.1/bits/char_traits.h \
   /usr/include/c++/15.1.1/bits/charconv.h \
+  /usr/include/c++/15.1.1/bits/codecvt.h \
   /usr/include/c++/15.1.1/bits/concept_check.h \
   /usr/include/c++/15.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/15.1.1/bits/cxxabi_forced.h \
@@ -616,8 +664,11 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/list.tcc \
   /usr/include/c++/15.1.1/bits/locale_classes.h \
   /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/15.1.1/bits/locale_conv.h \
   /usr/include/c++/15.1.1/bits/locale_facets.h \
   /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
   /usr/include/c++/15.1.1/bits/max_size_type.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
@@ -700,6 +751,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/cstdio \
   /usr/include/c++/15.1.1/cstdlib \
   /usr/include/c++/15.1.1/cstring \
+  /usr/include/c++/15.1.1/ctime \
   /usr/include/c++/15.1.1/cwchar \
   /usr/include/c++/15.1.1/cwctype \
   /usr/include/c++/15.1.1/debug/assertions.h \
@@ -722,6 +774,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
   /usr/include/c++/15.1.1/list \
+  /usr/include/c++/15.1.1/locale \
   /usr/include/c++/15.1.1/map \
   /usr/include/c++/15.1.1/memory \
   /usr/include/c++/15.1.1/new \
@@ -731,6 +784,8 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/ostream \
   /usr/include/c++/15.1.1/pstl/execution_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
+  /usr/include/c++/15.1.1/random \
+  /usr/include/c++/15.1.1/ratio \
   /usr/include/c++/15.1.1/sstream \
   /usr/include/c++/15.1.1/stdexcept \
   /usr/include/c++/15.1.1/stdlib.h \
@@ -741,6 +796,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/text_encoding \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
+  /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
@@ -755,7 +811,9 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -764,6 +822,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/linux/errno.h \
   /usr/include/linux/falloc.h \
   /usr/include/linux/ioctl.h \
@@ -955,11 +1014,15 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake \
   /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
   /usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h \
   /usr/share/cmake/Modules/CMakeCXXInformation.cmake \
   /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \
   /usr/share/cmake/Modules/CMakeGenericSystem.cmake \
@@ -1518,15 +1581,25 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/bits/fcntl.h \
   /usr/include/bits/floatn-common.h \
   /usr/include/bits/floatn.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/fp-logb.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/in.h \
   /usr/include/bits/ioctl-types.h \
   /usr/include/bits/ioctls.h \
+  /usr/include/bits/iscanonical.h \
   /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
   /usr/include/bits/local_lim.h \
   /usr/include/bits/locale.h \
   /usr/include/bits/long-double.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls-macros.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/mathcalls.h \
   /usr/include/bits/netdb.h \
   /usr/include/bits/poll.h \
   /usr/include/bits/posix1_lim.h \
@@ -1629,6 +1702,56 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
   /usr/include/bits/xopen_lim.h \
+  /usr/include/boost/assert.hpp \
+  /usr/include/boost/assert/source_location.hpp \
+  /usr/include/boost/config.hpp \
+  /usr/include/boost/config/compiler/gcc.hpp \
+  /usr/include/boost/config/detail/cxx_composite.hpp \
+  /usr/include/boost/config/detail/posix_features.hpp \
+  /usr/include/boost/config/detail/select_compiler_config.hpp \
+  /usr/include/boost/config/detail/select_platform_config.hpp \
+  /usr/include/boost/config/detail/select_stdlib_config.hpp \
+  /usr/include/boost/config/detail/suffix.hpp \
+  /usr/include/boost/config/helper_macros.hpp \
+  /usr/include/boost/config/platform/linux.hpp \
+  /usr/include/boost/config/stdlib/libstdcpp3.hpp \
+  /usr/include/boost/config/user.hpp \
+  /usr/include/boost/config/workaround.hpp \
+  /usr/include/boost/cstdint.hpp \
+  /usr/include/boost/detail/workaround.hpp \
+  /usr/include/boost/exception/exception.hpp \
+  /usr/include/boost/throw_exception.hpp \
+  /usr/include/boost/type_traits/integral_constant.hpp \
+  /usr/include/boost/uuid.hpp \
+  /usr/include/boost/uuid/basic_random_generator.hpp \
+  /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+  /usr/include/boost/uuid/detail/chacha20.hpp \
+  /usr/include/boost/uuid/detail/config.hpp \
+  /usr/include/boost/uuid/detail/endian.hpp \
+  /usr/include/boost/uuid/detail/hash_mix.hpp \
+  /usr/include/boost/uuid/detail/md5.hpp \
+  /usr/include/boost/uuid/detail/numeric_cast.hpp \
+  /usr/include/boost/uuid/detail/random_device.hpp \
+  /usr/include/boost/uuid/detail/random_provider.hpp \
+  /usr/include/boost/uuid/detail/sha1.hpp \
+  /usr/include/boost/uuid/detail/static_assert.hpp \
+  /usr/include/boost/uuid/detail/to_chars.hpp \
+  /usr/include/boost/uuid/detail/uuid_x86.ipp \
+  /usr/include/boost/uuid/name_generator.hpp \
+  /usr/include/boost/uuid/name_generator_md5.hpp \
+  /usr/include/boost/uuid/name_generator_sha1.hpp \
+  /usr/include/boost/uuid/namespaces.hpp \
+  /usr/include/boost/uuid/nil_generator.hpp \
+  /usr/include/boost/uuid/random_generator.hpp \
+  /usr/include/boost/uuid/string_generator.hpp \
+  /usr/include/boost/uuid/time_generator.hpp \
+  /usr/include/boost/uuid/time_generator_v1.hpp \
+  /usr/include/boost/uuid/time_generator_v6.hpp \
+  /usr/include/boost/uuid/time_generator_v7.hpp \
+  /usr/include/boost/uuid/uuid.hpp \
+  /usr/include/boost/uuid/uuid_clock.hpp \
+  /usr/include/boost/uuid/uuid_generators.hpp \
+  /usr/include/boost/uuid/uuid_io.hpp \
   /usr/include/c++/15.1.1/algorithm \
   /usr/include/c++/15.1.1/any \
   /usr/include/c++/15.1.1/array \
@@ -1651,6 +1774,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/char_traits.h \
   /usr/include/c++/15.1.1/bits/charconv.h \
   /usr/include/c++/15.1.1/bits/chrono.h \
+  /usr/include/c++/15.1.1/bits/codecvt.h \
   /usr/include/c++/15.1.1/bits/concept_check.h \
   /usr/include/c++/15.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/15.1.1/bits/cxxabi_forced.h \
@@ -1671,8 +1795,11 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/list.tcc \
   /usr/include/c++/15.1.1/bits/locale_classes.h \
   /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/15.1.1/bits/locale_conv.h \
   /usr/include/c++/15.1.1/bits/locale_facets.h \
   /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
@@ -1688,12 +1815,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/random.h \
+  /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
   /usr/include/c++/15.1.1/bits/refwrap.h \
   /usr/include/c++/15.1.1/bits/requires_hosted.h \
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
   /usr/include/c++/15.1.1/bits/std_function.h \
@@ -1739,6 +1869,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/chrono \
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
+  /usr/include/c++/15.1.1/cmath \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -1770,6 +1901,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
   /usr/include/c++/15.1.1/list \
+  /usr/include/c++/15.1.1/locale \
   /usr/include/c++/15.1.1/map \
   /usr/include/c++/15.1.1/memory \
   /usr/include/c++/15.1.1/mutex \
@@ -1781,6 +1913,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/pstl/glue_memory_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
   /usr/include/c++/15.1.1/pstl/pstl_config.h \
+  /usr/include/c++/15.1.1/random \
   /usr/include/c++/15.1.1/ratio \
   /usr/include/c++/15.1.1/sstream \
   /usr/include/c++/15.1.1/stdexcept \
@@ -1789,8 +1922,21 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/string \
   /usr/include/c++/15.1.1/string_view \
   /usr/include/c++/15.1.1/system_error \
+  /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/gamma.tcc \
+  /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/15.1.1/tr1/special_function_util.h \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
+  /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
@@ -1807,7 +1953,10 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -1816,6 +1965,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/limits.h \
   /usr/include/linux/close_range.h \
   /usr/include/linux/errno.h \
@@ -1830,6 +1980,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/linux/types.h \
   /usr/include/linux/version.h \
   /usr/include/locale.h \
+  /usr/include/math.h \
   /usr/include/net/if.h \
   /usr/include/netdb.h \
   /usr/include/netinet/in.h \
@@ -1965,11 +2116,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp \
   ByteCaveClient_autogen/include/ui_chatroomcreation.h \
@@ -2799,15 +2954,25 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/bits/fcntl.h \
   /usr/include/bits/floatn-common.h \
   /usr/include/bits/floatn.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/fp-logb.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/in.h \
   /usr/include/bits/ioctl-types.h \
   /usr/include/bits/ioctls.h \
+  /usr/include/bits/iscanonical.h \
   /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
   /usr/include/bits/local_lim.h \
   /usr/include/bits/locale.h \
   /usr/include/bits/long-double.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls-macros.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/mathcalls.h \
   /usr/include/bits/netdb.h \
   /usr/include/bits/poll.h \
   /usr/include/bits/posix1_lim.h \
@@ -2910,6 +3075,56 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
   /usr/include/bits/xopen_lim.h \
+  /usr/include/boost/assert.hpp \
+  /usr/include/boost/assert/source_location.hpp \
+  /usr/include/boost/config.hpp \
+  /usr/include/boost/config/compiler/gcc.hpp \
+  /usr/include/boost/config/detail/cxx_composite.hpp \
+  /usr/include/boost/config/detail/posix_features.hpp \
+  /usr/include/boost/config/detail/select_compiler_config.hpp \
+  /usr/include/boost/config/detail/select_platform_config.hpp \
+  /usr/include/boost/config/detail/select_stdlib_config.hpp \
+  /usr/include/boost/config/detail/suffix.hpp \
+  /usr/include/boost/config/helper_macros.hpp \
+  /usr/include/boost/config/platform/linux.hpp \
+  /usr/include/boost/config/stdlib/libstdcpp3.hpp \
+  /usr/include/boost/config/user.hpp \
+  /usr/include/boost/config/workaround.hpp \
+  /usr/include/boost/cstdint.hpp \
+  /usr/include/boost/detail/workaround.hpp \
+  /usr/include/boost/exception/exception.hpp \
+  /usr/include/boost/throw_exception.hpp \
+  /usr/include/boost/type_traits/integral_constant.hpp \
+  /usr/include/boost/uuid.hpp \
+  /usr/include/boost/uuid/basic_random_generator.hpp \
+  /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+  /usr/include/boost/uuid/detail/chacha20.hpp \
+  /usr/include/boost/uuid/detail/config.hpp \
+  /usr/include/boost/uuid/detail/endian.hpp \
+  /usr/include/boost/uuid/detail/hash_mix.hpp \
+  /usr/include/boost/uuid/detail/md5.hpp \
+  /usr/include/boost/uuid/detail/numeric_cast.hpp \
+  /usr/include/boost/uuid/detail/random_device.hpp \
+  /usr/include/boost/uuid/detail/random_provider.hpp \
+  /usr/include/boost/uuid/detail/sha1.hpp \
+  /usr/include/boost/uuid/detail/static_assert.hpp \
+  /usr/include/boost/uuid/detail/to_chars.hpp \
+  /usr/include/boost/uuid/detail/uuid_x86.ipp \
+  /usr/include/boost/uuid/name_generator.hpp \
+  /usr/include/boost/uuid/name_generator_md5.hpp \
+  /usr/include/boost/uuid/name_generator_sha1.hpp \
+  /usr/include/boost/uuid/namespaces.hpp \
+  /usr/include/boost/uuid/nil_generator.hpp \
+  /usr/include/boost/uuid/random_generator.hpp \
+  /usr/include/boost/uuid/string_generator.hpp \
+  /usr/include/boost/uuid/time_generator.hpp \
+  /usr/include/boost/uuid/time_generator_v1.hpp \
+  /usr/include/boost/uuid/time_generator_v6.hpp \
+  /usr/include/boost/uuid/time_generator_v7.hpp \
+  /usr/include/boost/uuid/uuid.hpp \
+  /usr/include/boost/uuid/uuid_clock.hpp \
+  /usr/include/boost/uuid/uuid_generators.hpp \
+  /usr/include/boost/uuid/uuid_io.hpp \
   /usr/include/c++/15.1.1/algorithm \
   /usr/include/c++/15.1.1/any \
   /usr/include/c++/15.1.1/array \
@@ -2932,6 +3147,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/char_traits.h \
   /usr/include/c++/15.1.1/bits/charconv.h \
   /usr/include/c++/15.1.1/bits/chrono.h \
+  /usr/include/c++/15.1.1/bits/codecvt.h \
   /usr/include/c++/15.1.1/bits/concept_check.h \
   /usr/include/c++/15.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/15.1.1/bits/cxxabi_forced.h \
@@ -2952,8 +3168,11 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/list.tcc \
   /usr/include/c++/15.1.1/bits/locale_classes.h \
   /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/15.1.1/bits/locale_conv.h \
   /usr/include/c++/15.1.1/bits/locale_facets.h \
   /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
@@ -2969,12 +3188,15 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/random.h \
+  /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
   /usr/include/c++/15.1.1/bits/refwrap.h \
   /usr/include/c++/15.1.1/bits/requires_hosted.h \
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
   /usr/include/c++/15.1.1/bits/std_function.h \
@@ -3020,6 +3242,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/chrono \
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
+  /usr/include/c++/15.1.1/cmath \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -3051,6 +3274,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
   /usr/include/c++/15.1.1/list \
+  /usr/include/c++/15.1.1/locale \
   /usr/include/c++/15.1.1/map \
   /usr/include/c++/15.1.1/memory \
   /usr/include/c++/15.1.1/mutex \
@@ -3062,6 +3286,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/pstl/glue_memory_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
   /usr/include/c++/15.1.1/pstl/pstl_config.h \
+  /usr/include/c++/15.1.1/random \
   /usr/include/c++/15.1.1/ratio \
   /usr/include/c++/15.1.1/sstream \
   /usr/include/c++/15.1.1/stdexcept \
@@ -3070,8 +3295,21 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/string \
   /usr/include/c++/15.1.1/string_view \
   /usr/include/c++/15.1.1/system_error \
+  /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/gamma.tcc \
+  /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/15.1.1/tr1/special_function_util.h \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
+  /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
@@ -3088,7 +3326,10 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -3097,6 +3338,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/limits.h \
   /usr/include/linux/close_range.h \
   /usr/include/linux/errno.h \
@@ -3111,6 +3353,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/linux/types.h \
   /usr/include/linux/version.h \
   /usr/include/locale.h \
+  /usr/include/math.h \
   /usr/include/net/if.h \
   /usr/include/netdb.h \
   /usr/include/netinet/in.h \
@@ -3261,11 +3504,15 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/main.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h \
@@ -4084,15 +4331,25 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/bits/fcntl.h \
   /usr/include/bits/floatn-common.h \
   /usr/include/bits/floatn.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/fp-logb.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/in.h \
   /usr/include/bits/ioctl-types.h \
   /usr/include/bits/ioctls.h \
+  /usr/include/bits/iscanonical.h \
   /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
   /usr/include/bits/local_lim.h \
   /usr/include/bits/locale.h \
   /usr/include/bits/long-double.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls-macros.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/mathcalls.h \
   /usr/include/bits/netdb.h \
   /usr/include/bits/poll.h \
   /usr/include/bits/posix1_lim.h \
@@ -4195,6 +4452,56 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
   /usr/include/bits/xopen_lim.h \
+  /usr/include/boost/assert.hpp \
+  /usr/include/boost/assert/source_location.hpp \
+  /usr/include/boost/config.hpp \
+  /usr/include/boost/config/compiler/gcc.hpp \
+  /usr/include/boost/config/detail/cxx_composite.hpp \
+  /usr/include/boost/config/detail/posix_features.hpp \
+  /usr/include/boost/config/detail/select_compiler_config.hpp \
+  /usr/include/boost/config/detail/select_platform_config.hpp \
+  /usr/include/boost/config/detail/select_stdlib_config.hpp \
+  /usr/include/boost/config/detail/suffix.hpp \
+  /usr/include/boost/config/helper_macros.hpp \
+  /usr/include/boost/config/platform/linux.hpp \
+  /usr/include/boost/config/stdlib/libstdcpp3.hpp \
+  /usr/include/boost/config/user.hpp \
+  /usr/include/boost/config/workaround.hpp \
+  /usr/include/boost/cstdint.hpp \
+  /usr/include/boost/detail/workaround.hpp \
+  /usr/include/boost/exception/exception.hpp \
+  /usr/include/boost/throw_exception.hpp \
+  /usr/include/boost/type_traits/integral_constant.hpp \
+  /usr/include/boost/uuid.hpp \
+  /usr/include/boost/uuid/basic_random_generator.hpp \
+  /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+  /usr/include/boost/uuid/detail/chacha20.hpp \
+  /usr/include/boost/uuid/detail/config.hpp \
+  /usr/include/boost/uuid/detail/endian.hpp \
+  /usr/include/boost/uuid/detail/hash_mix.hpp \
+  /usr/include/boost/uuid/detail/md5.hpp \
+  /usr/include/boost/uuid/detail/numeric_cast.hpp \
+  /usr/include/boost/uuid/detail/random_device.hpp \
+  /usr/include/boost/uuid/detail/random_provider.hpp \
+  /usr/include/boost/uuid/detail/sha1.hpp \
+  /usr/include/boost/uuid/detail/static_assert.hpp \
+  /usr/include/boost/uuid/detail/to_chars.hpp \
+  /usr/include/boost/uuid/detail/uuid_x86.ipp \
+  /usr/include/boost/uuid/name_generator.hpp \
+  /usr/include/boost/uuid/name_generator_md5.hpp \
+  /usr/include/boost/uuid/name_generator_sha1.hpp \
+  /usr/include/boost/uuid/namespaces.hpp \
+  /usr/include/boost/uuid/nil_generator.hpp \
+  /usr/include/boost/uuid/random_generator.hpp \
+  /usr/include/boost/uuid/string_generator.hpp \
+  /usr/include/boost/uuid/time_generator.hpp \
+  /usr/include/boost/uuid/time_generator_v1.hpp \
+  /usr/include/boost/uuid/time_generator_v6.hpp \
+  /usr/include/boost/uuid/time_generator_v7.hpp \
+  /usr/include/boost/uuid/uuid.hpp \
+  /usr/include/boost/uuid/uuid_clock.hpp \
+  /usr/include/boost/uuid/uuid_generators.hpp \
+  /usr/include/boost/uuid/uuid_io.hpp \
   /usr/include/c++/15.1.1/algorithm \
   /usr/include/c++/15.1.1/any \
   /usr/include/c++/15.1.1/array \
@@ -4217,6 +4524,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/char_traits.h \
   /usr/include/c++/15.1.1/bits/charconv.h \
   /usr/include/c++/15.1.1/bits/chrono.h \
+  /usr/include/c++/15.1.1/bits/codecvt.h \
   /usr/include/c++/15.1.1/bits/concept_check.h \
   /usr/include/c++/15.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/15.1.1/bits/cxxabi_forced.h \
@@ -4237,8 +4545,11 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/list.tcc \
   /usr/include/c++/15.1.1/bits/locale_classes.h \
   /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/15.1.1/bits/locale_conv.h \
   /usr/include/c++/15.1.1/bits/locale_facets.h \
   /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
@@ -4254,12 +4565,15 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/random.h \
+  /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
   /usr/include/c++/15.1.1/bits/refwrap.h \
   /usr/include/c++/15.1.1/bits/requires_hosted.h \
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
   /usr/include/c++/15.1.1/bits/std_function.h \
@@ -4305,6 +4619,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/chrono \
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
+  /usr/include/c++/15.1.1/cmath \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -4332,10 +4647,12 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/initializer_list \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
+  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
   /usr/include/c++/15.1.1/list \
+  /usr/include/c++/15.1.1/locale \
   /usr/include/c++/15.1.1/map \
   /usr/include/c++/15.1.1/memory \
   /usr/include/c++/15.1.1/mutex \
@@ -4347,6 +4664,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/pstl/glue_memory_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
   /usr/include/c++/15.1.1/pstl/pstl_config.h \
+  /usr/include/c++/15.1.1/random \
   /usr/include/c++/15.1.1/ratio \
   /usr/include/c++/15.1.1/sstream \
   /usr/include/c++/15.1.1/stdexcept \
@@ -4355,8 +4673,21 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/string \
   /usr/include/c++/15.1.1/string_view \
   /usr/include/c++/15.1.1/system_error \
+  /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/gamma.tcc \
+  /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/15.1.1/tr1/special_function_util.h \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
+  /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
@@ -4373,7 +4704,10 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -4382,6 +4716,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/limits.h \
   /usr/include/linux/close_range.h \
   /usr/include/linux/errno.h \
@@ -4396,13 +4731,13 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/linux/types.h \
   /usr/include/linux/version.h \
   /usr/include/locale.h \
+  /usr/include/math.h \
   /usr/include/net/if.h \
   /usr/include/netdb.h \
   /usr/include/netinet/in.h \
   /usr/include/netinet/tcp.h \
   /usr/include/poll.h \
   /usr/include/pthread.h \
-  /usr/include/qt/QtCore/QDebug \
   /usr/include/qt/QtCore/QVariant \
   /usr/include/qt/QtCore/qalgorithms.h \
   /usr/include/qt/QtCore/qarraydata.h \
@@ -4417,11 +4752,9 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtCore/qconfig.h \
   /usr/include/qt/QtCore/qcontainerfwd.h \
   /usr/include/qt/QtCore/qcontainertools_impl.h \
-  /usr/include/qt/QtCore/qcontiguouscache.h \
   /usr/include/qt/QtCore/qcoreapplication.h \
   /usr/include/qt/QtCore/qcoreevent.h \
   /usr/include/qt/QtCore/qdatastream.h \
-  /usr/include/qt/QtCore/qdebug.h \
   /usr/include/qt/QtCore/qeventloop.h \
   /usr/include/qt/QtCore/qflags.h \
   /usr/include/qt/QtCore/qgenericatomic.h \
@@ -4451,7 +4784,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtCore/qrefcount.h \
   /usr/include/qt/QtCore/qregexp.h \
   /usr/include/qt/QtCore/qscopedpointer.h \
-  /usr/include/qt/QtCore/qset.h \
   /usr/include/qt/QtCore/qshareddata.h \
   /usr/include/qt/QtCore/qsharedpointer.h \
   /usr/include/qt/QtCore/qsharedpointer_impl.h \
@@ -4465,7 +4797,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtCore/qsysinfo.h \
   /usr/include/qt/QtCore/qsystemdetection.h \
   /usr/include/qt/QtCore/qtcore-config.h \
-  /usr/include/qt/QtCore/qtextstream.h \
   /usr/include/qt/QtCore/qtimer.h \
   /usr/include/qt/QtCore/qtypeinfo.h \
   /usr/include/qt/QtCore/qurl.h \
@@ -4507,7 +4838,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QLineEdit \
   /usr/include/qt/QtWidgets/QMainWindow \
-  /usr/include/qt/QtWidgets/QMessageBox \
   /usr/include/qt/QtWidgets/QPushButton \
   /usr/include/qt/QtWidgets/QTextBrowser \
   /usr/include/qt/QtWidgets/QWidget \
@@ -4519,7 +4849,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qlineedit.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
-  /usr/include/qt/QtWidgets/qmessagebox.h \
   /usr/include/qt/QtWidgets/qpushbutton.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
@@ -4557,11 +4886,15 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
@@ -5016,15 +5349,25 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/bits/fcntl.h \
   /usr/include/bits/floatn-common.h \
   /usr/include/bits/floatn.h \
+  /usr/include/bits/flt-eval-method.h \
+  /usr/include/bits/fp-fast.h \
+  /usr/include/bits/fp-logb.h \
   /usr/include/bits/getopt_core.h \
   /usr/include/bits/getopt_posix.h \
   /usr/include/bits/in.h \
   /usr/include/bits/ioctl-types.h \
   /usr/include/bits/ioctls.h \
+  /usr/include/bits/iscanonical.h \
   /usr/include/bits/libc-header-start.h \
+  /usr/include/bits/libm-simd-decl-stubs.h \
   /usr/include/bits/local_lim.h \
   /usr/include/bits/locale.h \
   /usr/include/bits/long-double.h \
+  /usr/include/bits/math-vector.h \
+  /usr/include/bits/mathcalls-helper-functions.h \
+  /usr/include/bits/mathcalls-macros.h \
+  /usr/include/bits/mathcalls-narrow.h \
+  /usr/include/bits/mathcalls.h \
   /usr/include/bits/netdb.h \
   /usr/include/bits/poll.h \
   /usr/include/bits/posix1_lim.h \
@@ -5127,6 +5470,56 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
   /usr/include/bits/xopen_lim.h \
+  /usr/include/boost/assert.hpp \
+  /usr/include/boost/assert/source_location.hpp \
+  /usr/include/boost/config.hpp \
+  /usr/include/boost/config/compiler/gcc.hpp \
+  /usr/include/boost/config/detail/cxx_composite.hpp \
+  /usr/include/boost/config/detail/posix_features.hpp \
+  /usr/include/boost/config/detail/select_compiler_config.hpp \
+  /usr/include/boost/config/detail/select_platform_config.hpp \
+  /usr/include/boost/config/detail/select_stdlib_config.hpp \
+  /usr/include/boost/config/detail/suffix.hpp \
+  /usr/include/boost/config/helper_macros.hpp \
+  /usr/include/boost/config/platform/linux.hpp \
+  /usr/include/boost/config/stdlib/libstdcpp3.hpp \
+  /usr/include/boost/config/user.hpp \
+  /usr/include/boost/config/workaround.hpp \
+  /usr/include/boost/cstdint.hpp \
+  /usr/include/boost/detail/workaround.hpp \
+  /usr/include/boost/exception/exception.hpp \
+  /usr/include/boost/throw_exception.hpp \
+  /usr/include/boost/type_traits/integral_constant.hpp \
+  /usr/include/boost/uuid.hpp \
+  /usr/include/boost/uuid/basic_random_generator.hpp \
+  /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+  /usr/include/boost/uuid/detail/chacha20.hpp \
+  /usr/include/boost/uuid/detail/config.hpp \
+  /usr/include/boost/uuid/detail/endian.hpp \
+  /usr/include/boost/uuid/detail/hash_mix.hpp \
+  /usr/include/boost/uuid/detail/md5.hpp \
+  /usr/include/boost/uuid/detail/numeric_cast.hpp \
+  /usr/include/boost/uuid/detail/random_device.hpp \
+  /usr/include/boost/uuid/detail/random_provider.hpp \
+  /usr/include/boost/uuid/detail/sha1.hpp \
+  /usr/include/boost/uuid/detail/static_assert.hpp \
+  /usr/include/boost/uuid/detail/to_chars.hpp \
+  /usr/include/boost/uuid/detail/uuid_x86.ipp \
+  /usr/include/boost/uuid/name_generator.hpp \
+  /usr/include/boost/uuid/name_generator_md5.hpp \
+  /usr/include/boost/uuid/name_generator_sha1.hpp \
+  /usr/include/boost/uuid/namespaces.hpp \
+  /usr/include/boost/uuid/nil_generator.hpp \
+  /usr/include/boost/uuid/random_generator.hpp \
+  /usr/include/boost/uuid/string_generator.hpp \
+  /usr/include/boost/uuid/time_generator.hpp \
+  /usr/include/boost/uuid/time_generator_v1.hpp \
+  /usr/include/boost/uuid/time_generator_v6.hpp \
+  /usr/include/boost/uuid/time_generator_v7.hpp \
+  /usr/include/boost/uuid/uuid.hpp \
+  /usr/include/boost/uuid/uuid_clock.hpp \
+  /usr/include/boost/uuid/uuid_generators.hpp \
+  /usr/include/boost/uuid/uuid_io.hpp \
   /usr/include/c++/15.1.1/algorithm \
   /usr/include/c++/15.1.1/any \
   /usr/include/c++/15.1.1/array \
@@ -5149,6 +5542,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/char_traits.h \
   /usr/include/c++/15.1.1/bits/charconv.h \
   /usr/include/c++/15.1.1/bits/chrono.h \
+  /usr/include/c++/15.1.1/bits/codecvt.h \
   /usr/include/c++/15.1.1/bits/concept_check.h \
   /usr/include/c++/15.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/15.1.1/bits/cxxabi_forced.h \
@@ -5169,8 +5563,11 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/list.tcc \
   /usr/include/c++/15.1.1/bits/locale_classes.h \
   /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/15.1.1/bits/locale_conv.h \
   /usr/include/c++/15.1.1/bits/locale_facets.h \
   /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
@@ -5186,12 +5583,15 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/random.h \
+  /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
   /usr/include/c++/15.1.1/bits/refwrap.h \
   /usr/include/c++/15.1.1/bits/requires_hosted.h \
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
   /usr/include/c++/15.1.1/bits/std_function.h \
@@ -5237,6 +5637,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/chrono \
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
+  /usr/include/c++/15.1.1/cmath \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -5269,6 +5670,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
   /usr/include/c++/15.1.1/list \
+  /usr/include/c++/15.1.1/locale \
   /usr/include/c++/15.1.1/map \
   /usr/include/c++/15.1.1/memory \
   /usr/include/c++/15.1.1/mutex \
@@ -5280,6 +5682,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/pstl/glue_memory_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
   /usr/include/c++/15.1.1/pstl/pstl_config.h \
+  /usr/include/c++/15.1.1/random \
   /usr/include/c++/15.1.1/ratio \
   /usr/include/c++/15.1.1/sstream \
   /usr/include/c++/15.1.1/stdexcept \
@@ -5288,8 +5691,21 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/string \
   /usr/include/c++/15.1.1/string_view \
   /usr/include/c++/15.1.1/system_error \
+  /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/gamma.tcc \
+  /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/15.1.1/tr1/special_function_util.h \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
+  /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
@@ -5306,7 +5722,10 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -5315,6 +5734,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/limits.h \
   /usr/include/linux/close_range.h \
   /usr/include/linux/errno.h \
@@ -5329,6 +5749,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/linux/types.h \
   /usr/include/linux/version.h \
   /usr/include/locale.h \
+  /usr/include/math.h \
   /usr/include/net/if.h \
   /usr/include/netdb.h \
   /usr/include/netinet/in.h \
@@ -5458,24 +5879,18 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 
 /usr/include/c++/15.1.1/iostream:
-
-/usr/include/qt/QtWidgets/qmessagebox.h:
-
-/usr/include/qt/QtCore/qset.h:
-
-/usr/include/qt/QtCore/qdebug.h:
-
-/usr/include/qt/QtCore/qcontiguouscache.h:
-
-/usr/include/qt/QtCore/QDebug:
 
 ByteCaveClient_autogen/include/ui_mainwindow.h:
 
@@ -5487,9 +5902,147 @@ ByteCaveClient_autogen/include/ui_mainwindow.h:
 
 ByteCaveClient_autogen/include/ui_hellowindow.h:
 
+/usr/include/qt/QtWidgets/qlabel.h:
+
+/usr/include/qt/QtWidgets/qapplication.h:
+
+/usr/include/qt/QtWidgets/QLineEdit:
+
+/usr/include/qt/QtWidgets/QDialogButtonBox:
+
+/usr/include/qt/QtGui/qinputmethod.h:
+
+/usr/include/qt/QtGui/qguiapplication.h:
+
+/usr/include/qt/QtCore/qeventloop.h:
+
+/usr/include/qt/QtCore/qcoreevent.h:
+
+/usr/include/qt/QtCore/QVariant:
+
+ByteCaveClient_autogen/include/ui_chatroomcreation.h:
+
+/usr/include/sys/single_threaded.h:
+
+/usr/include/stdint.h:
+
+/usr/include/linux/stat.h:
+
+/usr/include/linux/sched/types.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/limits.h:
+
+/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h:
+
+/usr/include/c++/15.1.1/version:
+
+/usr/include/c++/15.1.1/variant:
+
+/usr/include/c++/15.1.1/tr1/riemann_zeta.tcc:
+
+/usr/include/c++/15.1.1/tr1/poly_laguerre.tcc:
+
+/usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc:
+
+/usr/include/c++/15.1.1/tr1/hypergeometric.tcc:
+
+/usr/include/c++/15.1.1/tr1/gamma.tcc:
+
+/usr/include/c++/15.1.1/tr1/exp_integral.tcc:
+
+/usr/include/c++/15.1.1/tr1/ell_integral.tcc:
+
+/usr/include/c++/15.1.1/tr1/bessel_function.tcc:
+
+/usr/include/c++/15.1.1/pstl/pstl_config.h:
+
+/usr/include/c++/15.1.1/pstl/glue_memory_defs.h:
+
+/usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h:
+
+/usr/include/c++/15.1.1/cmath:
+
+/usr/include/c++/15.1.1/bits/unordered_map.h:
+
+/usr/include/c++/15.1.1/bits/std_thread.h:
+
+/usr/include/c++/15.1.1/bits/random.tcc:
+
+/usr/include/c++/15.1.1/bits/random.h:
+
+/usr/include/c++/15.1.1/bits/parse_numbers.h:
+
+/usr/include/c++/15.1.1/bits/hashtable_policy.h:
+
+/usr/include/c++/15.1.1/bits/hashtable.h:
+
+/usr/include/qt/QtWidgets/QPushButton:
+
+/usr/include/c++/15.1.1/bits/enable_special_members.h:
+
+/usr/include/c++/15.1.1/bits/chrono.h:
+
+/usr/include/c++/15.1.1/bits/atomic_futex.h:
+
+/usr/include/boost/config/stdlib/libstdcpp3.hpp:
+
+/usr/include/boost/config/platform/linux.hpp:
+
+/usr/include/boost/config/detail/posix_features.hpp:
+
+/usr/include/boost/config/compiler/gcc.hpp:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/bits/stdint-least.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathcalls-helper-functions.h:
+
+/usr/include/bits/math-vector.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/bits/libm-simd-decl-stubs.h:
+
+/usr/include/bits/iscanonical.h:
+
+/usr/include/bits/flt-eval-method.h:
+
+/usr/include/alloca.h:
+
+ByteCaveClient_autogen/EWIEGA46WW/moc_hellowindow.cpp:
+
+ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
+
+ByteCaveClient_autogen/3BYFHCGL5U/moc_bytecaveclient.cpp:
+
+ByteCaveClient_autogen/mocs_compilation.cpp:
+
+CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
+
+CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o:
+
+CMakeFiles/ByteCaveClient.dir/main.cpp.o:
+
+CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
+
+CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
+
+/usr/lib32/libz.so.1:
+
 /usr/include/bits/types/clock_t.h:
 
 /usr/include/qt/QtCore/qpair.h:
+
+/usr/include/stdlib.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v4.hpp:
 
 /usr/include/bits/types.h:
 
@@ -5500,6 +6053,10 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_set_service.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/prefer_only.hpp:
+
+/usr/include/bits/mathcalls-macros.h:
+
+/usr/include/bits/fp-logb.h:
 
 /usr/include/bits/termios-struct.h:
 
@@ -5513,13 +6070,7 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 
 /usr/include/sys/ttydefaults.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read.hpp:
-
-/usr/include/bits/termios-c_lflag.h:
-
 /usr/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake:
-
-/usr/include/c++/15.1.1/bits/atomic_futex.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffers_iterator.hpp:
 
@@ -5538,8 +6089,6 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 /usr/lib/libX11.so.6:
 
 /usr/include/bits/siginfo-consts.h:
-
-/usr/include/c++/15.1.1/bits/chrono.h:
 
 /usr/include/bits/sigcontext.h:
 
@@ -5609,6 +6158,8 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 
 /usr/include/asm-generic/ioctl.h:
 
+/usr/include/c++/15.1.1/tr1/beta_function.tcc:
+
 /usr/include/sys/uio.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/functional.hpp:
@@ -5619,13 +6170,9 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 
 /usr/include/c++/15.1.1/bits/c++0x_warning.h:
 
-/usr/include/sys/single_threaded.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactor.hpp:
 
 /usr/include/asm-generic/errno-base.h:
-
-/usr/include/qt/QtCore/QVariant:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/writable_pipe.hpp:
 
@@ -5637,6 +6184,8 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 
 /usr/bin/cmake:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp:
@@ -5645,9 +6194,15 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 
 /usr/include/bits/sigstksz.h:
 
-/usr/include/alloca.h:
+/usr/include/qt/QtWidgets/qdialogbuttonbox.h:
+
+/usr/include/bits/siginfo-consts-arch.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/overlapped_ptr.hpp:
+
+/usr/include/bits/posix2_lim.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_write_stream.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/object_handle.hpp:
 
@@ -5687,8 +6242,6 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/connect_pipe.hpp:
 
-/usr/include/qt/QtCore/qeventloop.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/query_static_constexpr_member.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/handler_continuation_hook.hpp:
@@ -5706,8 +6259,6 @@ ByteCaveClient_autogen/include/ui_hellowindow.h:
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake:
 
 /usr/lib/libQt5Gui.so.5.15.17:
-
-ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /usr/include/bits/ioctls.h:
 
@@ -5747,8 +6298,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_serial_port_service.ipp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/signal_set_base.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/date_time_fwd.hpp:
 
 /usr/include/bits/signum-generic.h:
@@ -5760,6 +6309,8 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/serial_port_base.hpp:
 
 /usr/include/bits/types/wint_t.h:
+
+/usr/include/boost/uuid/random_generator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/detail/impl/endpoint.ipp:
 
@@ -5777,8 +6328,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /usr/include/bits/stdio_lim.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_waitable_timer.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/prefer.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/descriptor.hpp:
@@ -5793,8 +6342,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /usr/include/bits/types/struct_sched_param.h:
 
-/usr/include/qt/QtWidgets/QMessageBox:
-
 /usr/include/qt/QtCore/qatomic.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/seq_packet_protocol.hpp:
@@ -5805,9 +6352,11 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /usr/include/c++/15.1.1/cstdint:
 
-/usr/include/linux/sched/types.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_write_buffered.hpp:
+
+ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/v6_only.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/udp.hpp:
 
@@ -5824,8 +6373,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /usr/include/bits/socket_type.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/descriptor_base.hpp:
-
-/usr/include/c++/15.1.1/pstl/glue_memory_defs.h:
 
 /usr/include/asm-generic/int-ll64.h:
 
@@ -5844,8 +6391,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/basic_object_handle.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v6_range.hpp:
-
-/usr/include/bits/types/clockid_t.h:
 
 /usr/include/bits/stdint-intn.h:
 
@@ -5867,8 +6412,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/detail/impl/endpoint.ipp:
 
-/usr/include/qt/QtCore/qtextstream.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v6.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/basic_resolver_results.hpp:
@@ -5883,13 +6426,9 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/basic_resolver_query.hpp:
 
-/usr/include/qt/QtCore/qcoreevent.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v4_range.hpp:
 
 /usr/include/c++/15.1.1/bits/locale_classes.h:
-
-/usr/include/c++/15.1.1/bits/parse_numbers.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/io_service_strand.hpp:
 
@@ -5905,6 +6444,8 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/thread_pool.ipp:
 
+/usr/include/boost/config/detail/select_stdlib_config.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/strand_service.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/error_code.ipp:
@@ -5914,8 +6455,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/error.ipp:
 
 /usr/include/c++/15.1.1/bits/sstream.tcc:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/string_view.hpp:
 
 /usr/include/bits/termios.h:
 
@@ -5932,6 +6471,10 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /usr/include/c++/15.1.1/cstddef:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/detached.hpp:
+
+/usr/include/c++/15.1.1/bits/unique_lock.h:
+
+/usr/include/c++/15.1.1/ext/alloc_traits.h:
 
 /usr/include/c++/15.1.1/bits/locale_classes.tcc:
 
@@ -5961,9 +6504,7 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_handler.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_write_stream.hpp:
-
-/usr/include/bits/posix2_lim.h:
+/usr/include/boost/uuid/name_generator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/stream_protocol.hpp:
 
@@ -5978,6 +6519,8 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /usr/include/c++/15.1.1/cctype:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/global.hpp:
+
+/usr/include/boost/uuid/uuid_generators.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/cancellation_state.hpp:
 
@@ -6006,8 +6549,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /usr/include/c++/15.1.1/bits/stl_iterator_base_types.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/epoll_reactor.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scoped_ptr.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/descriptor_ops.ipp:
 
@@ -6046,8 +6587,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/connect_pair.hpp:
 
 /usr/include/c++/15.1.1/bits/locale_facets.tcc:
-
-/usr/lib32/libz.so.1:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/associated_cancellation_slot.hpp:
 
@@ -6099,13 +6638,15 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
 
 /usr/lib/libz.so.1:
 
-CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_random_access_file.hpp:
 
 /usr/include/c++/15.1.1/csignal:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/execute_member.hpp:
+
+CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/event.hpp:
 
 /usr/include/sys/timerfd.h:
 
@@ -6155,11 +6696,11 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/descriptor_ops.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/awaitable.hpp:
+/usr/lib32/libzstd.so.1:
+
+/usr/include/qt/QtGui/qbrush.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/overlapped_handle.hpp:
-
-CMakeFiles/ByteCaveClient.dir/main.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/cstddef.hpp:
 
@@ -6205,19 +6746,13 @@ CMakeFiles/ByteCaveClient.dir/main.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/error_code.hpp:
 
-/usr/include/qt/QtWidgets/QPushButton:
-
-/usr/include/c++/15.1.1/bits/enable_special_members.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/epoll_reactor.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/handler_tracking.ipp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler_thread_info.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/call_stack.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/buffered_stream_storage.hpp:
+
+/usr/include/boost/uuid/string_generator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/base_from_completion_cond.hpp:
 
@@ -6255,11 +6790,11 @@ CMakeFiles/ByteCaveClient.dir/main.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/dispatch.hpp:
 
+/usr/include/boost/uuid/uuid_clock.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_serial_port.hpp:
 
 /usr/include/bits/termios-c_iflag.h:
-
-/usr/include/bits/sigthread.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/steady_timer.hpp:
 
@@ -6281,11 +6816,7 @@ CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
 
 /usr/include/qt/QtWidgets/QDialog:
 
-/usr/include/bits/local_lim.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/append.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp:
 
 /usr/include/c++/15.1.1/bits/refwrap.h:
 
@@ -6329,8 +6860,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/asm/posix_types.h:
 
-CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
-
 /usr/include/bits/atomic_wide_counter.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/redirect_error.hpp:
@@ -6338,8 +6867,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/signal.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/completion_handler.hpp:
-
-/usr/include/bits/time64.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read_until.hpp:
 
@@ -6377,6 +6904,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_socket.hpp:
 
+/usr/include/boost/uuid/detail/md5.hpp:
+
 /usr/include/bits/signum-arch.h:
 
 /usr/include/c++/15.1.1/bits/memoryfwd.h:
@@ -6384,8 +6913,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/bits/socket.h:
 
 /usr/include/bits/in.h:
-
-/usr/include/qt/QtWidgets/QDialogButtonBox:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_thread.hpp:
 
@@ -6489,6 +7016,10 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/bits/types/struct_statx.h:
 
+/usr/include/qt/QtCore/qlocale.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/resolver_service_base.ipp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/buffer_resize_guard.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/raw_protocol.hpp:
@@ -6555,6 +7086,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_event.hpp:
 
+/usr/include/c++/15.1.1/locale:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/connect_pipe.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/blocking_adaptation.hpp:
@@ -6584,8 +7117,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_mutex.hpp:
 
 /usr/include/c++/15.1.1/bits/exception_defines.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/socket_ops.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/atomic_count.hpp:
 
@@ -6635,7 +7166,19 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/resolver_service_base.hpp:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read.hpp:
+
+/usr/include/bits/termios-c_lflag.h:
+
+/usr/include/boost/cstdint.hpp:
+
 /usr/include/qt/QtCore/qvarlengtharray.h:
+
+/usr/include/bits/waitflags.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/basic_endpoint.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/consign.hpp:
 
@@ -6667,6 +7210,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_thread.ipp:
 
+/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/throw_exception.hpp:
 
 /usr/include/c++/15.1.1/bits/erase_if.h:
@@ -6693,6 +7238,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/occupancy.hpp:
 
+/usr/include/boost/uuid.hpp:
+
 /usr/include/asm/ioctl.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/stream_descriptor.hpp:
@@ -6708,6 +7255,12 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/network_v6.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/static_require_concept.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/epoll_reactor.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/handler_tracking.ipp:
+
+/usr/include/boost/config/detail/cxx_composite.hpp:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake:
 
@@ -6730,8 +7283,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/reactive_descriptor_service.ipp:
 
 /usr/include/c++/15.1.1/bits/stl_construct.h:
-
-/usr/include/c++/15.1.1/pstl/pstl_config.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/basic_overlapped_handle.hpp:
 
@@ -6761,8 +7312,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/locale.h:
 
-/usr/lib/libpcre2-16.so.0:
-
 /usr/include/bits/types/struct_itimerspec.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/basic_resolver_entry.hpp:
@@ -6771,15 +7320,13 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/qt/QtGui/qpalette.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/resolver_service_base.ipp:
-
-/usr/include/qt/QtCore/qlocale.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/executor.hpp:
 
 /usr/include/bits/struct_stat.h:
 
 /usr/include/c++/15.1.1/bits/ios_base.h:
+
+/usr/include/bits/types/clockid_t.h:
 
 /usr/include/bits/types/error_t.h:
 
@@ -6793,13 +7340,15 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/bits/types/sigevent_t.h:
 
-/usr/include/c++/15.1.1/bits/hashtable_policy.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/deferred.hpp:
 
 /usr/include/bits/types/sigset_t.h:
 
 /usr/include/bits/types/sigval_t.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scoped_ptr.hpp:
+
+/usr/include/boost/config.hpp:
 
 /usr/include/qt/QtGui/qpixelformat.h:
 
@@ -6812,8 +7361,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/bits/types/struct___jmp_buf_tag.h:
 
 /usr/include/bits/types/struct_iovec.h:
-
-/usr/include/qt/QtWidgets/qlabel.h:
 
 /usr/include/bits/types/struct_osockaddr.h:
 
@@ -6829,9 +7376,13 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/bits/types/timer_t.h:
 
+/usr/include/boost/uuid/detail/chacha20.hpp:
+
 /usr/include/c++/15.1.1/bits/postypes.h:
 
 /usr/include/bits/typesizes.h:
+
+/usr/include/boost/config/user.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread_group.hpp:
 
@@ -6853,6 +7404,102 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/bits/wchar.h:
 
+/usr/include/bits/posix1_lim.h:
+
+/usr/share/cmake/Modules/CMakeParseArguments.cmake:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/boost/assert.hpp:
+
+/usr/include/boost/assert/source_location.hpp:
+
+/usr/include/boost/config/detail/select_compiler_config.hpp:
+
+/usr/include/boost/config/detail/select_platform_config.hpp:
+
+/usr/include/boost/config/detail/suffix.hpp:
+
+/usr/include/boost/config/workaround.hpp:
+
+/usr/include/boost/detail/workaround.hpp:
+
+/usr/include/boost/limits.hpp:
+
+/usr/include/boost/throw_exception.hpp:
+
+/usr/include/boost/type_traits/integral_constant.hpp:
+
+/usr/include/bits/time64.h:
+
+/usr/include/boost/uuid/basic_random_generator.hpp:
+
+/usr/lib/libpcre2-16.so.0:
+
+/usr/include/boost/uuid/detail/basic_name_generator.hpp:
+
+/usr/include/boost/uuid/detail/config.hpp:
+
+/usr/include/boost/uuid/detail/endian.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/prefer_free.hpp:
+
+/usr/share/cmake/Modules/Linker/GNU.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_waitable_timer.hpp:
+
+/usr/include/boost/uuid/detail/hash_mix.hpp:
+
+/usr/include/boost/uuid/detail/numeric_cast.hpp:
+
+/usr/include/boost/uuid/detail/random_device.hpp:
+
+/usr/include/boost/uuid/detail/random_provider.hpp:
+
+/usr/include/boost/uuid/detail/sha1.hpp:
+
+/usr/include/c++/15.1.1/bits/atomic_lockfree_defines.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/signal_set_base.hpp:
+
+/usr/include/boost/uuid/detail/static_assert.hpp:
+
+/usr/include/boost/uuid/detail/to_chars.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/string_view.hpp:
+
+/usr/include/boost/uuid/detail/uuid_x86.ipp:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
+
+/usr/lib/libgcc_s.so:
+
+/usr/include/bits/sigthread.h:
+
+/usr/include/boost/uuid/name_generator_md5.hpp:
+
+/usr/include/boost/uuid/name_generator_sha1.hpp:
+
+/usr/include/boost/uuid/nil_generator.hpp:
+
+/usr/include/boost/uuid/time_generator.hpp:
+
+/usr/include/netinet/tcp.h:
+
+/usr/include/boost/uuid/time_generator_v1.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/socket_ops.hpp:
+
+/usr/include/boost/uuid/time_generator_v6.hpp:
+
+/usr/include/boost/uuid/time_generator_v7.hpp:
+
+/usr/include/c++/15.1.1/list:
+
+/usr/include/boost/uuid/uuid.hpp:
+
+/usr/include/boost/uuid/uuid_io.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_signal_blocker.hpp:
 
 /usr/include/c++/15.1.1/algorithm:
@@ -6864,6 +7511,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/bits/istream.tcc:
 
 /usr/include/c++/15.1.1/bit:
+
+/usr/include/boost/uuid/namespaces.hpp:
 
 /usr/include/c++/15.1.1/bits/algorithmfwd.h:
 
@@ -6885,8 +7534,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/c++/15.1.1/bits/atomic_base.h:
 
-/usr/include/c++/15.1.1/bits/atomic_lockfree_defines.h:
-
 /usr/include/c++/15.1.1/bits/atomic_wait.h:
 
 /usr/include/c++/15.1.1/cwctype:
@@ -6899,8 +7546,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/c++/15.1.1/bits/basic_string.tcc:
 
-/usr/include/bits/waitstatus.h:
-
 /usr/include/c++/15.1.1/bits/char_traits.h:
 
 /usr/lib/crti.o:
@@ -6910,6 +7555,10 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/bits/shared_ptr.h:
 
 /usr/include/c++/15.1.1/bits/charconv.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp:
+
+/usr/include/c++/15.1.1/bits/codecvt.h:
 
 /usr/include/bits/setjmp.h:
 
@@ -6947,9 +7596,21 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/lib32/libicudata.so.76:
 
+/usr/include/c++/15.1.1/bits/locale_conv.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/work_dispatcher.hpp:
+
+/usr/include/c++/15.1.1/bits/requires_hosted.h:
+
 /usr/include/c++/15.1.1/bits/locale_facets.h:
 
 /usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/awaitable.hpp:
+
+/usr/include/c++/15.1.1/bits/locale_facets_nonio.h:
+
+/usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc:
 
 /usr/include/c++/15.1.1/bits/localefwd.h:
 
@@ -6966,8 +7627,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/bits/nested_exception.h:
 
 /usr/include/stdc-predef.h:
-
-/usr/include/c++/15.1.1/bits/new_allocator.h:
 
 /usr/include/c++/15.1.1/type_traits:
 
@@ -6995,10 +7654,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/lib32/libxcb.so.1:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/work_dispatcher.hpp:
-
-/usr/include/c++/15.1.1/bits/requires_hosted.h:
-
 /usr/include/c++/15.1.1/bits/std_abs.h:
 
 /usr/include/c++/15.1.1/bits/stl_algobase.h:
@@ -7025,9 +7680,13 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/c++/15.1.1/future:
 
+/usr/include/boost/config/helper_macros.hpp:
+
 /usr/include/c++/15.1.1/bits/stl_pair.h:
 
 /usr/include/c++/15.1.1/bits/stl_tempbuf.h:
+
+/usr/include/bits/fp-fast.h:
 
 /usr/include/c++/15.1.1/bits/stl_tree.h:
 
@@ -7054,6 +7713,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/bits/string_view.tcc:
 
 /usr/include/c++/15.1.1/bits/uniform_int_dist.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h:
 
 /usr/include/c++/15.1.1/bits/utility.h:
 
@@ -7085,6 +7746,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/c++/15.1.1/concepts:
 
+/usr/include/c++/15.1.1/ctime:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp:
 
 /usr/include/c++/15.1.1/cwchar:
@@ -7092,6 +7755,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/debug/assertions.h:
 
 /usr/include/sys/ioctl.h:
+
+/usr/include/c++/15.1.1/tr1/poly_hermite.tcc:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_socket_recv_op.hpp:
 
@@ -7106,6 +7771,10 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/thread_context.ipp:
 
 /usr/include/c++/15.1.1/ext/atomicity.h:
+
+/usr/include/qt/QtCore/qcoreapplication.h:
+
+/usr/include/c++/15.1.1/ext/concurrence.h:
 
 /usr/include/c++/15.1.1/ext/numeric_traits.h:
 
@@ -7125,8 +7794,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/c++/15.1.1/limits:
 
-/usr/include/c++/15.1.1/list:
-
 /usr/include/c++/15.1.1/map:
 
 /usr/include/qt/QtWidgets/QTextBrowser:
@@ -7141,6 +7808,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h:
 
+/usr/include/c++/15.1.1/random:
+
 /usr/include/c++/15.1.1/sstream:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/epoll_reactor.ipp:
@@ -7152,6 +7821,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/string_view:
 
 /usr/include/c++/15.1.1/system_error:
+
+/usr/include/bits/mathcalls-narrow.h:
 
 /usr/include/qt/QtCore/qbytearray.h:
 
@@ -7166,6 +7837,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/c++/15.1.1/tuple:
 
 /usr/include/c++/15.1.1/vector:
+
+/usr/include/c++/15.1.1/typeindex:
 
 /usr/include/qt/QtCore/qstringmatcher.h:
 
@@ -7199,6 +7872,12 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/share/cmake/Modules/CMakeLanguageInformation.cmake:
 
+/usr/include/c++/15.1.1/tr1/legendre_function.tcc:
+
+/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h:
+
+/usr/lib/libcap.so.2:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/recycling_allocator.hpp:
 
 /usr/include/endian.h:
@@ -7215,6 +7894,8 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/gnu/stubs.h:
 
+/usr/include/libintl.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/any_executor.hpp:
 
 /usr/include/linux/ioctl.h:
@@ -7224,12 +7905,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 /usr/include/linux/posix_types.h:
 
 /usr/include/linux/sockios.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/basic_endpoint.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler.hpp:
-
-/usr/include/bits/waitflags.h:
 
 /usr/include/linux/types.h:
 
@@ -7245,11 +7920,11 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/netinet/in.h:
 
-/usr/include/netinet/tcp.h:
-
 /usr/include/poll.h:
 
 /usr/include/qt/QtCore/qarraydata.h:
+
+/usr/include/math.h:
 
 /usr/include/qt/QtCore/qbasicatomic.h:
 
@@ -7273,8 +7948,6 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/lib/crtn.o:
 
-/usr/include/linux/limits.h:
-
 /usr/include/qt/QtGui/qfontinfo.h:
 
 /usr/include/qt/QtCore/qiterator.h:
@@ -7289,19 +7962,11 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake:
 
-/usr/include/linux/stat.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_stream_fwd.hpp:
 
 /usr/include/qt/QtCore/qobject.h:
 
 /usr/include/qt/QtCore/qpoint.h:
-
-/usr/share/cmake/Modules/CMakeParseArguments.cmake:
-
-/usr/include/bits/wordsize.h:
-
-/usr/include/bits/posix1_lim.h:
 
 /usr/include/bits/types/struct_timespec.h:
 
@@ -7335,9 +8000,9 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o:
 
 /usr/include/qt/QtCore/qsystemdetection.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/event.hpp:
+/usr/include/qt/QtGui/qtgui-config.h:
 
-CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o:
+/usr/include/qt/QtCore/qurl.h:
 
 /usr/include/bits/pthreadtypes.h:
 
@@ -7365,15 +8030,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o:
 
 /usr/include/qt/QtWidgets/qmainwindow.h:
 
-/usr/include/qt/QtCore/qurl.h:
-
-/usr/include/qt/QtGui/qtgui-config.h:
-
 /usr/include/qt/QtGui/qtransform.h:
-
-CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
-
-/usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h:
 
 /usr/include/qt/QtGui/qwindowdefs.h:
 
@@ -7382,6 +8039,8 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 /usr/include/qt/QtWidgets/qframe.h:
 
 /usr/include/qt/QtWidgets/qsizepolicy.h:
+
+/usr/include/c++/15.1.1/tr1/special_function_util.h:
 
 /usr/include/qt/QtWidgets/qtextbrowser.h:
 
@@ -7399,9 +8058,9 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /usr/include/string.h:
 
-/usr/include/c++/15.1.1/bits/stl_iterator_base_funcs.h:
-
 /usr/include/c++/15.1.1/mutex:
+
+/usr/include/c++/15.1.1/bits/stl_iterator_base_funcs.h:
 
 /usr/include/strings.h:
 
@@ -7415,8 +8074,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /usr/include/sys/poll.h:
 
-/usr/include/qt/QtGui/qguiapplication.h:
-
 /usr/include/bits/types/__sigval_t.h:
 
 /usr/include/sys/select.h:
@@ -7424,8 +8081,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 /usr/include/qt/QtGui/qrgb.h:
 
 /usr/include/sys/socket.h:
-
-/usr/include/limits.h:
 
 /usr/include/sys/stat.h:
 
@@ -7450,8 +8105,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/packaged_task.hpp:
 
 /usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake:
-
-/usr/include/c++/15.1.1/bits/std_thread.h:
 
 /usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake:
 
@@ -7511,19 +8164,19 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake:
 
-/usr/include/c++/15.1.1/bits/unordered_map.h:
-
 /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake:
-
-/usr/include/c++/15.1.1/backward/auto_ptr.h:
-
-/usr/lib/libdouble-conversion.so.3:
 
 /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/system_context.ipp:
 
 /usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h:
+
+/usr/include/c++/15.1.1/bits/new_allocator.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h:
 
 /usr/include/rpc/netdb.h:
 
@@ -7532,6 +8185,12 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 /usr/include/qt/QtCore/qobjectdefs.h:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h:
+
+/usr/include/c++/15.1.1/backward/auto_ptr.h:
+
+/usr/lib/libdouble-conversion.so.3:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h:
 
 /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake:
 
@@ -7551,15 +8210,17 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /usr/share/cmake/Modules/Linker/GNU-CXX.cmake:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/prefer_free.hpp:
-
-/usr/share/cmake/Modules/Linker/GNU.cmake:
-
 /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake:
 
 /usr/include/c++/15.1.1/bits/stringfwd.h:
 
 /usr/share/cmake/Modules/Platform/Linux-GNU.cmake:
+
+/usr/include/bits/stdlib-float.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/detail/endpoint.hpp:
+
+/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/co_spawn.hpp:
 
@@ -7572,10 +8233,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 /usr/include/bits/signal_ext.h:
 
 /usr/share/cmake/Modules/Platform/UnixPaths.cmake:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
-
-/usr/lib/libgcc_s.so:
 
 /usr/lib/libm.so:
 
@@ -7593,6 +8250,12 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /usr/lib/libGLX.so.0:
 
+/usr/include/qt/QtWidgets/QApplication:
+
+/usr/include/bits/types/__locale_t.h:
+
+/usr/lib/libGLdispatch.so.0:
+
 /usr/lib/libQt5Widgets.so.5.15.17:
 
 /usr/lib/libXau.so.6:
@@ -7606,8 +8269,6 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/execution_context.hpp:
 
 /usr/lib/libbrotlidec.so.1:
-
-/usr/lib/libcap.so.2:
 
 /usr/include/qt/QtCore/qsize.h:
 
@@ -7635,13 +8296,11 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /usr/lib32/libGLdispatch.so.0:
 
+/usr/include/c++/15.1.1/bits/specfun.h:
+
 /usr/lib32/libbrotlicommon.so.1:
 
 /usr/lib32/libbrotlidec.so.1:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v4.hpp:
-
-/usr/include/stdlib.h:
 
 /usr/lib32/libcap.so.2:
 
@@ -7651,68 +8310,8 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/read.hpp:
 
+/usr/include/boost/exception/exception.hpp:
+
 /usr/lib32/libpcre2-8.so.0:
 
 /usr/lib32/libsystemd.so.0:
-
-/usr/include/qt/QtGui/qbrush.h:
-
-/usr/lib32/libzstd.so.1:
-
-CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
-
-ByteCaveClient_autogen/mocs_compilation.cpp:
-
-ByteCaveClient_autogen/3BYFHCGL5U/moc_bytecaveclient.cpp:
-
-ByteCaveClient_autogen/EWIEGA46WW/moc_hellowindow.cpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/v6_only.hpp:
-
-ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
-
-/usr/include/bits/stdint-least.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/detail/endpoint.hpp:
-
-/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake:
-
-/usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/xopen_lim.h:
-
-/usr/include/c++/15.1.1/bits/hashtable.h:
-
-/usr/include/c++/15.1.1/ext/alloc_traits.h:
-
-/usr/include/c++/15.1.1/bits/unique_lock.h:
-
-/usr/include/c++/15.1.1/ctime:
-
-/usr/include/c++/15.1.1/variant:
-
-/usr/include/c++/15.1.1/version:
-
-/usr/include/stdint.h:
-
-/usr/include/qt/QtGui/qinputmethod.h:
-
-ByteCaveClient_autogen/include/ui_chatroomcreation.h:
-
-/usr/include/c++/15.1.1/ext/concurrence.h:
-
-/usr/include/qt/QtCore/qcoreapplication.h:
-
-/usr/include/bits/types/__locale_t.h:
-
-/usr/lib/libGLdispatch.so.0:
-
-/usr/include/qt/QtWidgets/QApplication:
-
-/usr/include/qt/QtWidgets/QLineEdit:
-
-/usr/include/qt/QtWidgets/qapplication.h:
-
-/usr/include/bits/siginfo-consts-arch.h:
-
-/usr/include/qt/QtWidgets/qdialogbuttonbox.h:

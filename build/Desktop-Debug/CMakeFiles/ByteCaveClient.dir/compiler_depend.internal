@@ -434,6 +434,7 @@
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.ui
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h
  /usr/bin/cmake
  /usr/include/arpa/inet.h
  /usr/include/asm-generic/bitsperlong.h
@@ -576,6 +577,52 @@
  /usr/include/bits/wchar.h
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
+ /usr/include/boost/assert.hpp
+ /usr/include/boost/assert/source_location.hpp
+ /usr/include/boost/config.hpp
+ /usr/include/boost/config/detail/cxx_composite.hpp
+ /usr/include/boost/config/detail/select_compiler_config.hpp
+ /usr/include/boost/config/detail/select_platform_config.hpp
+ /usr/include/boost/config/detail/select_stdlib_config.hpp
+ /usr/include/boost/config/detail/suffix.hpp
+ /usr/include/boost/config/helper_macros.hpp
+ /usr/include/boost/config/workaround.hpp
+ /usr/include/boost/cstdint.hpp
+ /usr/include/boost/detail/workaround.hpp
+ /usr/include/boost/exception/exception.hpp
+ /usr/include/boost/limits.hpp
+ /usr/include/boost/throw_exception.hpp
+ /usr/include/boost/type_traits/integral_constant.hpp
+ /usr/include/boost/uuid.hpp
+ /usr/include/boost/uuid/basic_random_generator.hpp
+ /usr/include/boost/uuid/detail/basic_name_generator.hpp
+ /usr/include/boost/uuid/detail/chacha20.hpp
+ /usr/include/boost/uuid/detail/config.hpp
+ /usr/include/boost/uuid/detail/endian.hpp
+ /usr/include/boost/uuid/detail/hash_mix.hpp
+ /usr/include/boost/uuid/detail/md5.hpp
+ /usr/include/boost/uuid/detail/numeric_cast.hpp
+ /usr/include/boost/uuid/detail/random_device.hpp
+ /usr/include/boost/uuid/detail/random_provider.hpp
+ /usr/include/boost/uuid/detail/sha1.hpp
+ /usr/include/boost/uuid/detail/static_assert.hpp
+ /usr/include/boost/uuid/detail/to_chars.hpp
+ /usr/include/boost/uuid/detail/uuid_x86.ipp
+ /usr/include/boost/uuid/name_generator.hpp
+ /usr/include/boost/uuid/name_generator_md5.hpp
+ /usr/include/boost/uuid/name_generator_sha1.hpp
+ /usr/include/boost/uuid/namespaces.hpp
+ /usr/include/boost/uuid/nil_generator.hpp
+ /usr/include/boost/uuid/random_generator.hpp
+ /usr/include/boost/uuid/string_generator.hpp
+ /usr/include/boost/uuid/time_generator.hpp
+ /usr/include/boost/uuid/time_generator_v1.hpp
+ /usr/include/boost/uuid/time_generator_v6.hpp
+ /usr/include/boost/uuid/time_generator_v7.hpp
+ /usr/include/boost/uuid/uuid.hpp
+ /usr/include/boost/uuid/uuid_clock.hpp
+ /usr/include/boost/uuid/uuid_generators.hpp
+ /usr/include/boost/uuid/uuid_io.hpp
  /usr/include/c++/15.1.1/algorithm
  /usr/include/c++/15.1.1/any
  /usr/include/c++/15.1.1/array
@@ -598,6 +645,7 @@
  /usr/include/c++/15.1.1/bits/c++0x_warning.h
  /usr/include/c++/15.1.1/bits/char_traits.h
  /usr/include/c++/15.1.1/bits/charconv.h
+ /usr/include/c++/15.1.1/bits/codecvt.h
  /usr/include/c++/15.1.1/bits/concept_check.h
  /usr/include/c++/15.1.1/bits/cpp_type_traits.h
  /usr/include/c++/15.1.1/bits/cxxabi_forced.h
@@ -617,8 +665,11 @@
  /usr/include/c++/15.1.1/bits/list.tcc
  /usr/include/c++/15.1.1/bits/locale_classes.h
  /usr/include/c++/15.1.1/bits/locale_classes.tcc
+ /usr/include/c++/15.1.1/bits/locale_conv.h
  /usr/include/c++/15.1.1/bits/locale_facets.h
  /usr/include/c++/15.1.1/bits/locale_facets.tcc
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.h
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  /usr/include/c++/15.1.1/bits/localefwd.h
  /usr/include/c++/15.1.1/bits/max_size_type.h
  /usr/include/c++/15.1.1/bits/memory_resource.h
@@ -701,6 +752,7 @@
  /usr/include/c++/15.1.1/cstdio
  /usr/include/c++/15.1.1/cstdlib
  /usr/include/c++/15.1.1/cstring
+ /usr/include/c++/15.1.1/ctime
  /usr/include/c++/15.1.1/cwchar
  /usr/include/c++/15.1.1/cwctype
  /usr/include/c++/15.1.1/debug/assertions.h
@@ -723,6 +775,7 @@
  /usr/include/c++/15.1.1/iterator
  /usr/include/c++/15.1.1/limits
  /usr/include/c++/15.1.1/list
+ /usr/include/c++/15.1.1/locale
  /usr/include/c++/15.1.1/map
  /usr/include/c++/15.1.1/memory
  /usr/include/c++/15.1.1/new
@@ -732,6 +785,8 @@
  /usr/include/c++/15.1.1/ostream
  /usr/include/c++/15.1.1/pstl/execution_defs.h
  /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h
+ /usr/include/c++/15.1.1/random
+ /usr/include/c++/15.1.1/ratio
  /usr/include/c++/15.1.1/sstream
  /usr/include/c++/15.1.1/stdexcept
  /usr/include/c++/15.1.1/stdlib.h
@@ -742,6 +797,7 @@
  /usr/include/c++/15.1.1/text_encoding
  /usr/include/c++/15.1.1/tuple
  /usr/include/c++/15.1.1/type_traits
+ /usr/include/c++/15.1.1/typeindex
  /usr/include/c++/15.1.1/typeinfo
  /usr/include/c++/15.1.1/unordered_map
  /usr/include/c++/15.1.1/utility
@@ -756,7 +812,9 @@
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h
  /usr/include/ctype.h
  /usr/include/endian.h
  /usr/include/errno.h
@@ -765,6 +823,7 @@
  /usr/include/features.h
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
+ /usr/include/libintl.h
  /usr/include/linux/errno.h
  /usr/include/linux/falloc.h
  /usr/include/linux/ioctl.h
@@ -956,11 +1015,15 @@
  /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake
  /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
  /usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
  /usr/share/cmake/Modules/CMakeCXXInformation.cmake
  /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake
  /usr/share/cmake/Modules/CMakeGenericSystem.cmake
@@ -1521,15 +1584,25 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/bits/fcntl.h
  /usr/include/bits/floatn-common.h
  /usr/include/bits/floatn.h
+ /usr/include/bits/flt-eval-method.h
+ /usr/include/bits/fp-fast.h
+ /usr/include/bits/fp-logb.h
  /usr/include/bits/getopt_core.h
  /usr/include/bits/getopt_posix.h
  /usr/include/bits/in.h
  /usr/include/bits/ioctl-types.h
  /usr/include/bits/ioctls.h
+ /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
+ /usr/include/bits/libm-simd-decl-stubs.h
  /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
+ /usr/include/bits/math-vector.h
+ /usr/include/bits/mathcalls-helper-functions.h
+ /usr/include/bits/mathcalls-macros.h
+ /usr/include/bits/mathcalls-narrow.h
+ /usr/include/bits/mathcalls.h
  /usr/include/bits/netdb.h
  /usr/include/bits/poll.h
  /usr/include/bits/posix1_lim.h
@@ -1632,6 +1705,56 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
  /usr/include/bits/xopen_lim.h
+ /usr/include/boost/assert.hpp
+ /usr/include/boost/assert/source_location.hpp
+ /usr/include/boost/config.hpp
+ /usr/include/boost/config/compiler/gcc.hpp
+ /usr/include/boost/config/detail/cxx_composite.hpp
+ /usr/include/boost/config/detail/posix_features.hpp
+ /usr/include/boost/config/detail/select_compiler_config.hpp
+ /usr/include/boost/config/detail/select_platform_config.hpp
+ /usr/include/boost/config/detail/select_stdlib_config.hpp
+ /usr/include/boost/config/detail/suffix.hpp
+ /usr/include/boost/config/helper_macros.hpp
+ /usr/include/boost/config/platform/linux.hpp
+ /usr/include/boost/config/stdlib/libstdcpp3.hpp
+ /usr/include/boost/config/user.hpp
+ /usr/include/boost/config/workaround.hpp
+ /usr/include/boost/cstdint.hpp
+ /usr/include/boost/detail/workaround.hpp
+ /usr/include/boost/exception/exception.hpp
+ /usr/include/boost/throw_exception.hpp
+ /usr/include/boost/type_traits/integral_constant.hpp
+ /usr/include/boost/uuid.hpp
+ /usr/include/boost/uuid/basic_random_generator.hpp
+ /usr/include/boost/uuid/detail/basic_name_generator.hpp
+ /usr/include/boost/uuid/detail/chacha20.hpp
+ /usr/include/boost/uuid/detail/config.hpp
+ /usr/include/boost/uuid/detail/endian.hpp
+ /usr/include/boost/uuid/detail/hash_mix.hpp
+ /usr/include/boost/uuid/detail/md5.hpp
+ /usr/include/boost/uuid/detail/numeric_cast.hpp
+ /usr/include/boost/uuid/detail/random_device.hpp
+ /usr/include/boost/uuid/detail/random_provider.hpp
+ /usr/include/boost/uuid/detail/sha1.hpp
+ /usr/include/boost/uuid/detail/static_assert.hpp
+ /usr/include/boost/uuid/detail/to_chars.hpp
+ /usr/include/boost/uuid/detail/uuid_x86.ipp
+ /usr/include/boost/uuid/name_generator.hpp
+ /usr/include/boost/uuid/name_generator_md5.hpp
+ /usr/include/boost/uuid/name_generator_sha1.hpp
+ /usr/include/boost/uuid/namespaces.hpp
+ /usr/include/boost/uuid/nil_generator.hpp
+ /usr/include/boost/uuid/random_generator.hpp
+ /usr/include/boost/uuid/string_generator.hpp
+ /usr/include/boost/uuid/time_generator.hpp
+ /usr/include/boost/uuid/time_generator_v1.hpp
+ /usr/include/boost/uuid/time_generator_v6.hpp
+ /usr/include/boost/uuid/time_generator_v7.hpp
+ /usr/include/boost/uuid/uuid.hpp
+ /usr/include/boost/uuid/uuid_clock.hpp
+ /usr/include/boost/uuid/uuid_generators.hpp
+ /usr/include/boost/uuid/uuid_io.hpp
  /usr/include/c++/15.1.1/algorithm
  /usr/include/c++/15.1.1/any
  /usr/include/c++/15.1.1/array
@@ -1654,6 +1777,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/bits/char_traits.h
  /usr/include/c++/15.1.1/bits/charconv.h
  /usr/include/c++/15.1.1/bits/chrono.h
+ /usr/include/c++/15.1.1/bits/codecvt.h
  /usr/include/c++/15.1.1/bits/concept_check.h
  /usr/include/c++/15.1.1/bits/cpp_type_traits.h
  /usr/include/c++/15.1.1/bits/cxxabi_forced.h
@@ -1674,8 +1798,11 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/bits/list.tcc
  /usr/include/c++/15.1.1/bits/locale_classes.h
  /usr/include/c++/15.1.1/bits/locale_classes.tcc
+ /usr/include/c++/15.1.1/bits/locale_conv.h
  /usr/include/c++/15.1.1/bits/locale_facets.h
  /usr/include/c++/15.1.1/bits/locale_facets.tcc
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.h
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  /usr/include/c++/15.1.1/bits/localefwd.h
  /usr/include/c++/15.1.1/bits/memory_resource.h
  /usr/include/c++/15.1.1/bits/memoryfwd.h
@@ -1691,12 +1818,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/bits/postypes.h
  /usr/include/c++/15.1.1/bits/predefined_ops.h
  /usr/include/c++/15.1.1/bits/ptr_traits.h
+ /usr/include/c++/15.1.1/bits/random.h
+ /usr/include/c++/15.1.1/bits/random.tcc
  /usr/include/c++/15.1.1/bits/range_access.h
  /usr/include/c++/15.1.1/bits/refwrap.h
  /usr/include/c++/15.1.1/bits/requires_hosted.h
  /usr/include/c++/15.1.1/bits/shared_ptr.h
  /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h
  /usr/include/c++/15.1.1/bits/shared_ptr_base.h
+ /usr/include/c++/15.1.1/bits/specfun.h
  /usr/include/c++/15.1.1/bits/sstream.tcc
  /usr/include/c++/15.1.1/bits/std_abs.h
  /usr/include/c++/15.1.1/bits/std_function.h
@@ -1742,6 +1872,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/chrono
  /usr/include/c++/15.1.1/climits
  /usr/include/c++/15.1.1/clocale
+ /usr/include/c++/15.1.1/cmath
  /usr/include/c++/15.1.1/compare
  /usr/include/c++/15.1.1/concepts
  /usr/include/c++/15.1.1/condition_variable
@@ -1773,6 +1904,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/iterator
  /usr/include/c++/15.1.1/limits
  /usr/include/c++/15.1.1/list
+ /usr/include/c++/15.1.1/locale
  /usr/include/c++/15.1.1/map
  /usr/include/c++/15.1.1/memory
  /usr/include/c++/15.1.1/mutex
@@ -1784,6 +1916,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/pstl/glue_memory_defs.h
  /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h
  /usr/include/c++/15.1.1/pstl/pstl_config.h
+ /usr/include/c++/15.1.1/random
  /usr/include/c++/15.1.1/ratio
  /usr/include/c++/15.1.1/sstream
  /usr/include/c++/15.1.1/stdexcept
@@ -1792,8 +1925,21 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/string
  /usr/include/c++/15.1.1/string_view
  /usr/include/c++/15.1.1/system_error
+ /usr/include/c++/15.1.1/tr1/bessel_function.tcc
+ /usr/include/c++/15.1.1/tr1/beta_function.tcc
+ /usr/include/c++/15.1.1/tr1/ell_integral.tcc
+ /usr/include/c++/15.1.1/tr1/exp_integral.tcc
+ /usr/include/c++/15.1.1/tr1/gamma.tcc
+ /usr/include/c++/15.1.1/tr1/hypergeometric.tcc
+ /usr/include/c++/15.1.1/tr1/legendre_function.tcc
+ /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc
+ /usr/include/c++/15.1.1/tr1/poly_hermite.tcc
+ /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc
+ /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc
+ /usr/include/c++/15.1.1/tr1/special_function_util.h
  /usr/include/c++/15.1.1/tuple
  /usr/include/c++/15.1.1/type_traits
+ /usr/include/c++/15.1.1/typeindex
  /usr/include/c++/15.1.1/typeinfo
  /usr/include/c++/15.1.1/unordered_map
  /usr/include/c++/15.1.1/utility
@@ -1810,7 +1956,10 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h
  /usr/include/ctype.h
  /usr/include/endian.h
  /usr/include/errno.h
@@ -1819,6 +1968,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/features.h
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
+ /usr/include/libintl.h
  /usr/include/limits.h
  /usr/include/linux/close_range.h
  /usr/include/linux/errno.h
@@ -1833,6 +1983,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/linux/types.h
  /usr/include/linux/version.h
  /usr/include/locale.h
+ /usr/include/math.h
  /usr/include/net/if.h
  /usr/include/netdb.h
  /usr/include/netinet/in.h
@@ -1968,11 +2119,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
  /usr/include/unistd.h
  /usr/include/wchar.h
  /usr/include/wctype.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp
@@ -2804,15 +2959,25 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/bits/fcntl.h
  /usr/include/bits/floatn-common.h
  /usr/include/bits/floatn.h
+ /usr/include/bits/flt-eval-method.h
+ /usr/include/bits/fp-fast.h
+ /usr/include/bits/fp-logb.h
  /usr/include/bits/getopt_core.h
  /usr/include/bits/getopt_posix.h
  /usr/include/bits/in.h
  /usr/include/bits/ioctl-types.h
  /usr/include/bits/ioctls.h
+ /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
+ /usr/include/bits/libm-simd-decl-stubs.h
  /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
+ /usr/include/bits/math-vector.h
+ /usr/include/bits/mathcalls-helper-functions.h
+ /usr/include/bits/mathcalls-macros.h
+ /usr/include/bits/mathcalls-narrow.h
+ /usr/include/bits/mathcalls.h
  /usr/include/bits/netdb.h
  /usr/include/bits/poll.h
  /usr/include/bits/posix1_lim.h
@@ -2915,6 +3080,56 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
  /usr/include/bits/xopen_lim.h
+ /usr/include/boost/assert.hpp
+ /usr/include/boost/assert/source_location.hpp
+ /usr/include/boost/config.hpp
+ /usr/include/boost/config/compiler/gcc.hpp
+ /usr/include/boost/config/detail/cxx_composite.hpp
+ /usr/include/boost/config/detail/posix_features.hpp
+ /usr/include/boost/config/detail/select_compiler_config.hpp
+ /usr/include/boost/config/detail/select_platform_config.hpp
+ /usr/include/boost/config/detail/select_stdlib_config.hpp
+ /usr/include/boost/config/detail/suffix.hpp
+ /usr/include/boost/config/helper_macros.hpp
+ /usr/include/boost/config/platform/linux.hpp
+ /usr/include/boost/config/stdlib/libstdcpp3.hpp
+ /usr/include/boost/config/user.hpp
+ /usr/include/boost/config/workaround.hpp
+ /usr/include/boost/cstdint.hpp
+ /usr/include/boost/detail/workaround.hpp
+ /usr/include/boost/exception/exception.hpp
+ /usr/include/boost/throw_exception.hpp
+ /usr/include/boost/type_traits/integral_constant.hpp
+ /usr/include/boost/uuid.hpp
+ /usr/include/boost/uuid/basic_random_generator.hpp
+ /usr/include/boost/uuid/detail/basic_name_generator.hpp
+ /usr/include/boost/uuid/detail/chacha20.hpp
+ /usr/include/boost/uuid/detail/config.hpp
+ /usr/include/boost/uuid/detail/endian.hpp
+ /usr/include/boost/uuid/detail/hash_mix.hpp
+ /usr/include/boost/uuid/detail/md5.hpp
+ /usr/include/boost/uuid/detail/numeric_cast.hpp
+ /usr/include/boost/uuid/detail/random_device.hpp
+ /usr/include/boost/uuid/detail/random_provider.hpp
+ /usr/include/boost/uuid/detail/sha1.hpp
+ /usr/include/boost/uuid/detail/static_assert.hpp
+ /usr/include/boost/uuid/detail/to_chars.hpp
+ /usr/include/boost/uuid/detail/uuid_x86.ipp
+ /usr/include/boost/uuid/name_generator.hpp
+ /usr/include/boost/uuid/name_generator_md5.hpp
+ /usr/include/boost/uuid/name_generator_sha1.hpp
+ /usr/include/boost/uuid/namespaces.hpp
+ /usr/include/boost/uuid/nil_generator.hpp
+ /usr/include/boost/uuid/random_generator.hpp
+ /usr/include/boost/uuid/string_generator.hpp
+ /usr/include/boost/uuid/time_generator.hpp
+ /usr/include/boost/uuid/time_generator_v1.hpp
+ /usr/include/boost/uuid/time_generator_v6.hpp
+ /usr/include/boost/uuid/time_generator_v7.hpp
+ /usr/include/boost/uuid/uuid.hpp
+ /usr/include/boost/uuid/uuid_clock.hpp
+ /usr/include/boost/uuid/uuid_generators.hpp
+ /usr/include/boost/uuid/uuid_io.hpp
  /usr/include/c++/15.1.1/algorithm
  /usr/include/c++/15.1.1/any
  /usr/include/c++/15.1.1/array
@@ -2937,6 +3152,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/bits/char_traits.h
  /usr/include/c++/15.1.1/bits/charconv.h
  /usr/include/c++/15.1.1/bits/chrono.h
+ /usr/include/c++/15.1.1/bits/codecvt.h
  /usr/include/c++/15.1.1/bits/concept_check.h
  /usr/include/c++/15.1.1/bits/cpp_type_traits.h
  /usr/include/c++/15.1.1/bits/cxxabi_forced.h
@@ -2957,8 +3173,11 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/bits/list.tcc
  /usr/include/c++/15.1.1/bits/locale_classes.h
  /usr/include/c++/15.1.1/bits/locale_classes.tcc
+ /usr/include/c++/15.1.1/bits/locale_conv.h
  /usr/include/c++/15.1.1/bits/locale_facets.h
  /usr/include/c++/15.1.1/bits/locale_facets.tcc
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.h
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  /usr/include/c++/15.1.1/bits/localefwd.h
  /usr/include/c++/15.1.1/bits/memory_resource.h
  /usr/include/c++/15.1.1/bits/memoryfwd.h
@@ -2974,12 +3193,15 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/bits/postypes.h
  /usr/include/c++/15.1.1/bits/predefined_ops.h
  /usr/include/c++/15.1.1/bits/ptr_traits.h
+ /usr/include/c++/15.1.1/bits/random.h
+ /usr/include/c++/15.1.1/bits/random.tcc
  /usr/include/c++/15.1.1/bits/range_access.h
  /usr/include/c++/15.1.1/bits/refwrap.h
  /usr/include/c++/15.1.1/bits/requires_hosted.h
  /usr/include/c++/15.1.1/bits/shared_ptr.h
  /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h
  /usr/include/c++/15.1.1/bits/shared_ptr_base.h
+ /usr/include/c++/15.1.1/bits/specfun.h
  /usr/include/c++/15.1.1/bits/sstream.tcc
  /usr/include/c++/15.1.1/bits/std_abs.h
  /usr/include/c++/15.1.1/bits/std_function.h
@@ -3025,6 +3247,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/chrono
  /usr/include/c++/15.1.1/climits
  /usr/include/c++/15.1.1/clocale
+ /usr/include/c++/15.1.1/cmath
  /usr/include/c++/15.1.1/compare
  /usr/include/c++/15.1.1/concepts
  /usr/include/c++/15.1.1/condition_variable
@@ -3056,6 +3279,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/iterator
  /usr/include/c++/15.1.1/limits
  /usr/include/c++/15.1.1/list
+ /usr/include/c++/15.1.1/locale
  /usr/include/c++/15.1.1/map
  /usr/include/c++/15.1.1/memory
  /usr/include/c++/15.1.1/mutex
@@ -3067,6 +3291,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/pstl/glue_memory_defs.h
  /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h
  /usr/include/c++/15.1.1/pstl/pstl_config.h
+ /usr/include/c++/15.1.1/random
  /usr/include/c++/15.1.1/ratio
  /usr/include/c++/15.1.1/sstream
  /usr/include/c++/15.1.1/stdexcept
@@ -3075,8 +3300,21 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/string
  /usr/include/c++/15.1.1/string_view
  /usr/include/c++/15.1.1/system_error
+ /usr/include/c++/15.1.1/tr1/bessel_function.tcc
+ /usr/include/c++/15.1.1/tr1/beta_function.tcc
+ /usr/include/c++/15.1.1/tr1/ell_integral.tcc
+ /usr/include/c++/15.1.1/tr1/exp_integral.tcc
+ /usr/include/c++/15.1.1/tr1/gamma.tcc
+ /usr/include/c++/15.1.1/tr1/hypergeometric.tcc
+ /usr/include/c++/15.1.1/tr1/legendre_function.tcc
+ /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc
+ /usr/include/c++/15.1.1/tr1/poly_hermite.tcc
+ /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc
+ /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc
+ /usr/include/c++/15.1.1/tr1/special_function_util.h
  /usr/include/c++/15.1.1/tuple
  /usr/include/c++/15.1.1/type_traits
+ /usr/include/c++/15.1.1/typeindex
  /usr/include/c++/15.1.1/typeinfo
  /usr/include/c++/15.1.1/unordered_map
  /usr/include/c++/15.1.1/utility
@@ -3093,7 +3331,10 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h
  /usr/include/ctype.h
  /usr/include/endian.h
  /usr/include/errno.h
@@ -3102,6 +3343,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/features.h
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
+ /usr/include/libintl.h
  /usr/include/limits.h
  /usr/include/linux/close_range.h
  /usr/include/linux/errno.h
@@ -3116,6 +3358,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/linux/types.h
  /usr/include/linux/version.h
  /usr/include/locale.h
+ /usr/include/math.h
  /usr/include/net/if.h
  /usr/include/netdb.h
  /usr/include/netinet/in.h
@@ -3266,11 +3509,15 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
  /usr/include/unistd.h
  /usr/include/wchar.h
  /usr/include/wctype.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/main.cpp.o
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp
@@ -4091,15 +4338,25 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/bits/fcntl.h
  /usr/include/bits/floatn-common.h
  /usr/include/bits/floatn.h
+ /usr/include/bits/flt-eval-method.h
+ /usr/include/bits/fp-fast.h
+ /usr/include/bits/fp-logb.h
  /usr/include/bits/getopt_core.h
  /usr/include/bits/getopt_posix.h
  /usr/include/bits/in.h
  /usr/include/bits/ioctl-types.h
  /usr/include/bits/ioctls.h
+ /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
+ /usr/include/bits/libm-simd-decl-stubs.h
  /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
+ /usr/include/bits/math-vector.h
+ /usr/include/bits/mathcalls-helper-functions.h
+ /usr/include/bits/mathcalls-macros.h
+ /usr/include/bits/mathcalls-narrow.h
+ /usr/include/bits/mathcalls.h
  /usr/include/bits/netdb.h
  /usr/include/bits/poll.h
  /usr/include/bits/posix1_lim.h
@@ -4202,6 +4459,56 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
  /usr/include/bits/xopen_lim.h
+ /usr/include/boost/assert.hpp
+ /usr/include/boost/assert/source_location.hpp
+ /usr/include/boost/config.hpp
+ /usr/include/boost/config/compiler/gcc.hpp
+ /usr/include/boost/config/detail/cxx_composite.hpp
+ /usr/include/boost/config/detail/posix_features.hpp
+ /usr/include/boost/config/detail/select_compiler_config.hpp
+ /usr/include/boost/config/detail/select_platform_config.hpp
+ /usr/include/boost/config/detail/select_stdlib_config.hpp
+ /usr/include/boost/config/detail/suffix.hpp
+ /usr/include/boost/config/helper_macros.hpp
+ /usr/include/boost/config/platform/linux.hpp
+ /usr/include/boost/config/stdlib/libstdcpp3.hpp
+ /usr/include/boost/config/user.hpp
+ /usr/include/boost/config/workaround.hpp
+ /usr/include/boost/cstdint.hpp
+ /usr/include/boost/detail/workaround.hpp
+ /usr/include/boost/exception/exception.hpp
+ /usr/include/boost/throw_exception.hpp
+ /usr/include/boost/type_traits/integral_constant.hpp
+ /usr/include/boost/uuid.hpp
+ /usr/include/boost/uuid/basic_random_generator.hpp
+ /usr/include/boost/uuid/detail/basic_name_generator.hpp
+ /usr/include/boost/uuid/detail/chacha20.hpp
+ /usr/include/boost/uuid/detail/config.hpp
+ /usr/include/boost/uuid/detail/endian.hpp
+ /usr/include/boost/uuid/detail/hash_mix.hpp
+ /usr/include/boost/uuid/detail/md5.hpp
+ /usr/include/boost/uuid/detail/numeric_cast.hpp
+ /usr/include/boost/uuid/detail/random_device.hpp
+ /usr/include/boost/uuid/detail/random_provider.hpp
+ /usr/include/boost/uuid/detail/sha1.hpp
+ /usr/include/boost/uuid/detail/static_assert.hpp
+ /usr/include/boost/uuid/detail/to_chars.hpp
+ /usr/include/boost/uuid/detail/uuid_x86.ipp
+ /usr/include/boost/uuid/name_generator.hpp
+ /usr/include/boost/uuid/name_generator_md5.hpp
+ /usr/include/boost/uuid/name_generator_sha1.hpp
+ /usr/include/boost/uuid/namespaces.hpp
+ /usr/include/boost/uuid/nil_generator.hpp
+ /usr/include/boost/uuid/random_generator.hpp
+ /usr/include/boost/uuid/string_generator.hpp
+ /usr/include/boost/uuid/time_generator.hpp
+ /usr/include/boost/uuid/time_generator_v1.hpp
+ /usr/include/boost/uuid/time_generator_v6.hpp
+ /usr/include/boost/uuid/time_generator_v7.hpp
+ /usr/include/boost/uuid/uuid.hpp
+ /usr/include/boost/uuid/uuid_clock.hpp
+ /usr/include/boost/uuid/uuid_generators.hpp
+ /usr/include/boost/uuid/uuid_io.hpp
  /usr/include/c++/15.1.1/algorithm
  /usr/include/c++/15.1.1/any
  /usr/include/c++/15.1.1/array
@@ -4224,6 +4531,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/bits/char_traits.h
  /usr/include/c++/15.1.1/bits/charconv.h
  /usr/include/c++/15.1.1/bits/chrono.h
+ /usr/include/c++/15.1.1/bits/codecvt.h
  /usr/include/c++/15.1.1/bits/concept_check.h
  /usr/include/c++/15.1.1/bits/cpp_type_traits.h
  /usr/include/c++/15.1.1/bits/cxxabi_forced.h
@@ -4244,8 +4552,11 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/bits/list.tcc
  /usr/include/c++/15.1.1/bits/locale_classes.h
  /usr/include/c++/15.1.1/bits/locale_classes.tcc
+ /usr/include/c++/15.1.1/bits/locale_conv.h
  /usr/include/c++/15.1.1/bits/locale_facets.h
  /usr/include/c++/15.1.1/bits/locale_facets.tcc
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.h
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  /usr/include/c++/15.1.1/bits/localefwd.h
  /usr/include/c++/15.1.1/bits/memory_resource.h
  /usr/include/c++/15.1.1/bits/memoryfwd.h
@@ -4261,12 +4572,15 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/bits/postypes.h
  /usr/include/c++/15.1.1/bits/predefined_ops.h
  /usr/include/c++/15.1.1/bits/ptr_traits.h
+ /usr/include/c++/15.1.1/bits/random.h
+ /usr/include/c++/15.1.1/bits/random.tcc
  /usr/include/c++/15.1.1/bits/range_access.h
  /usr/include/c++/15.1.1/bits/refwrap.h
  /usr/include/c++/15.1.1/bits/requires_hosted.h
  /usr/include/c++/15.1.1/bits/shared_ptr.h
  /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h
  /usr/include/c++/15.1.1/bits/shared_ptr_base.h
+ /usr/include/c++/15.1.1/bits/specfun.h
  /usr/include/c++/15.1.1/bits/sstream.tcc
  /usr/include/c++/15.1.1/bits/std_abs.h
  /usr/include/c++/15.1.1/bits/std_function.h
@@ -4312,6 +4626,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/chrono
  /usr/include/c++/15.1.1/climits
  /usr/include/c++/15.1.1/clocale
+ /usr/include/c++/15.1.1/cmath
  /usr/include/c++/15.1.1/compare
  /usr/include/c++/15.1.1/concepts
  /usr/include/c++/15.1.1/condition_variable
@@ -4339,10 +4654,12 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/initializer_list
  /usr/include/c++/15.1.1/ios
  /usr/include/c++/15.1.1/iosfwd
+ /usr/include/c++/15.1.1/iostream
  /usr/include/c++/15.1.1/istream
  /usr/include/c++/15.1.1/iterator
  /usr/include/c++/15.1.1/limits
  /usr/include/c++/15.1.1/list
+ /usr/include/c++/15.1.1/locale
  /usr/include/c++/15.1.1/map
  /usr/include/c++/15.1.1/memory
  /usr/include/c++/15.1.1/mutex
@@ -4354,6 +4671,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/pstl/glue_memory_defs.h
  /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h
  /usr/include/c++/15.1.1/pstl/pstl_config.h
+ /usr/include/c++/15.1.1/random
  /usr/include/c++/15.1.1/ratio
  /usr/include/c++/15.1.1/sstream
  /usr/include/c++/15.1.1/stdexcept
@@ -4362,8 +4680,21 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/string
  /usr/include/c++/15.1.1/string_view
  /usr/include/c++/15.1.1/system_error
+ /usr/include/c++/15.1.1/tr1/bessel_function.tcc
+ /usr/include/c++/15.1.1/tr1/beta_function.tcc
+ /usr/include/c++/15.1.1/tr1/ell_integral.tcc
+ /usr/include/c++/15.1.1/tr1/exp_integral.tcc
+ /usr/include/c++/15.1.1/tr1/gamma.tcc
+ /usr/include/c++/15.1.1/tr1/hypergeometric.tcc
+ /usr/include/c++/15.1.1/tr1/legendre_function.tcc
+ /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc
+ /usr/include/c++/15.1.1/tr1/poly_hermite.tcc
+ /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc
+ /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc
+ /usr/include/c++/15.1.1/tr1/special_function_util.h
  /usr/include/c++/15.1.1/tuple
  /usr/include/c++/15.1.1/type_traits
+ /usr/include/c++/15.1.1/typeindex
  /usr/include/c++/15.1.1/typeinfo
  /usr/include/c++/15.1.1/unordered_map
  /usr/include/c++/15.1.1/utility
@@ -4380,7 +4711,10 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h
  /usr/include/ctype.h
  /usr/include/endian.h
  /usr/include/errno.h
@@ -4389,6 +4723,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/features.h
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
+ /usr/include/libintl.h
  /usr/include/limits.h
  /usr/include/linux/close_range.h
  /usr/include/linux/errno.h
@@ -4403,13 +4738,13 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/linux/types.h
  /usr/include/linux/version.h
  /usr/include/locale.h
+ /usr/include/math.h
  /usr/include/net/if.h
  /usr/include/netdb.h
  /usr/include/netinet/in.h
  /usr/include/netinet/tcp.h
  /usr/include/poll.h
  /usr/include/pthread.h
- /usr/include/qt/QtCore/QDebug
  /usr/include/qt/QtCore/QVariant
  /usr/include/qt/QtCore/qalgorithms.h
  /usr/include/qt/QtCore/qarraydata.h
@@ -4424,11 +4759,9 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/qt/QtCore/qconfig.h
  /usr/include/qt/QtCore/qcontainerfwd.h
  /usr/include/qt/QtCore/qcontainertools_impl.h
- /usr/include/qt/QtCore/qcontiguouscache.h
  /usr/include/qt/QtCore/qcoreapplication.h
  /usr/include/qt/QtCore/qcoreevent.h
  /usr/include/qt/QtCore/qdatastream.h
- /usr/include/qt/QtCore/qdebug.h
  /usr/include/qt/QtCore/qeventloop.h
  /usr/include/qt/QtCore/qflags.h
  /usr/include/qt/QtCore/qgenericatomic.h
@@ -4458,7 +4791,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/qt/QtCore/qrefcount.h
  /usr/include/qt/QtCore/qregexp.h
  /usr/include/qt/QtCore/qscopedpointer.h
- /usr/include/qt/QtCore/qset.h
  /usr/include/qt/QtCore/qshareddata.h
  /usr/include/qt/QtCore/qsharedpointer.h
  /usr/include/qt/QtCore/qsharedpointer_impl.h
@@ -4472,7 +4804,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/qt/QtCore/qsysinfo.h
  /usr/include/qt/QtCore/qsystemdetection.h
  /usr/include/qt/QtCore/qtcore-config.h
- /usr/include/qt/QtCore/qtextstream.h
  /usr/include/qt/QtCore/qtimer.h
  /usr/include/qt/QtCore/qtypeinfo.h
  /usr/include/qt/QtCore/qurl.h
@@ -4514,7 +4845,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/qt/QtWidgets/QLabel
  /usr/include/qt/QtWidgets/QLineEdit
  /usr/include/qt/QtWidgets/QMainWindow
- /usr/include/qt/QtWidgets/QMessageBox
  /usr/include/qt/QtWidgets/QPushButton
  /usr/include/qt/QtWidgets/QTextBrowser
  /usr/include/qt/QtWidgets/QWidget
@@ -4526,7 +4856,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/qt/QtWidgets/qlabel.h
  /usr/include/qt/QtWidgets/qlineedit.h
  /usr/include/qt/QtWidgets/qmainwindow.h
- /usr/include/qt/QtWidgets/qmessagebox.h
  /usr/include/qt/QtWidgets/qpushbutton.h
  /usr/include/qt/QtWidgets/qsizepolicy.h
  /usr/include/qt/QtWidgets/qtabwidget.h
@@ -4564,11 +4893,15 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
  /usr/include/unistd.h
  /usr/include/wchar.h
  /usr/include/wctype.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp
@@ -5024,15 +5357,25 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/bits/fcntl.h
  /usr/include/bits/floatn-common.h
  /usr/include/bits/floatn.h
+ /usr/include/bits/flt-eval-method.h
+ /usr/include/bits/fp-fast.h
+ /usr/include/bits/fp-logb.h
  /usr/include/bits/getopt_core.h
  /usr/include/bits/getopt_posix.h
  /usr/include/bits/in.h
  /usr/include/bits/ioctl-types.h
  /usr/include/bits/ioctls.h
+ /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
+ /usr/include/bits/libm-simd-decl-stubs.h
  /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
+ /usr/include/bits/math-vector.h
+ /usr/include/bits/mathcalls-helper-functions.h
+ /usr/include/bits/mathcalls-macros.h
+ /usr/include/bits/mathcalls-narrow.h
+ /usr/include/bits/mathcalls.h
  /usr/include/bits/netdb.h
  /usr/include/bits/poll.h
  /usr/include/bits/posix1_lim.h
@@ -5135,6 +5478,56 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
  /usr/include/bits/xopen_lim.h
+ /usr/include/boost/assert.hpp
+ /usr/include/boost/assert/source_location.hpp
+ /usr/include/boost/config.hpp
+ /usr/include/boost/config/compiler/gcc.hpp
+ /usr/include/boost/config/detail/cxx_composite.hpp
+ /usr/include/boost/config/detail/posix_features.hpp
+ /usr/include/boost/config/detail/select_compiler_config.hpp
+ /usr/include/boost/config/detail/select_platform_config.hpp
+ /usr/include/boost/config/detail/select_stdlib_config.hpp
+ /usr/include/boost/config/detail/suffix.hpp
+ /usr/include/boost/config/helper_macros.hpp
+ /usr/include/boost/config/platform/linux.hpp
+ /usr/include/boost/config/stdlib/libstdcpp3.hpp
+ /usr/include/boost/config/user.hpp
+ /usr/include/boost/config/workaround.hpp
+ /usr/include/boost/cstdint.hpp
+ /usr/include/boost/detail/workaround.hpp
+ /usr/include/boost/exception/exception.hpp
+ /usr/include/boost/throw_exception.hpp
+ /usr/include/boost/type_traits/integral_constant.hpp
+ /usr/include/boost/uuid.hpp
+ /usr/include/boost/uuid/basic_random_generator.hpp
+ /usr/include/boost/uuid/detail/basic_name_generator.hpp
+ /usr/include/boost/uuid/detail/chacha20.hpp
+ /usr/include/boost/uuid/detail/config.hpp
+ /usr/include/boost/uuid/detail/endian.hpp
+ /usr/include/boost/uuid/detail/hash_mix.hpp
+ /usr/include/boost/uuid/detail/md5.hpp
+ /usr/include/boost/uuid/detail/numeric_cast.hpp
+ /usr/include/boost/uuid/detail/random_device.hpp
+ /usr/include/boost/uuid/detail/random_provider.hpp
+ /usr/include/boost/uuid/detail/sha1.hpp
+ /usr/include/boost/uuid/detail/static_assert.hpp
+ /usr/include/boost/uuid/detail/to_chars.hpp
+ /usr/include/boost/uuid/detail/uuid_x86.ipp
+ /usr/include/boost/uuid/name_generator.hpp
+ /usr/include/boost/uuid/name_generator_md5.hpp
+ /usr/include/boost/uuid/name_generator_sha1.hpp
+ /usr/include/boost/uuid/namespaces.hpp
+ /usr/include/boost/uuid/nil_generator.hpp
+ /usr/include/boost/uuid/random_generator.hpp
+ /usr/include/boost/uuid/string_generator.hpp
+ /usr/include/boost/uuid/time_generator.hpp
+ /usr/include/boost/uuid/time_generator_v1.hpp
+ /usr/include/boost/uuid/time_generator_v6.hpp
+ /usr/include/boost/uuid/time_generator_v7.hpp
+ /usr/include/boost/uuid/uuid.hpp
+ /usr/include/boost/uuid/uuid_clock.hpp
+ /usr/include/boost/uuid/uuid_generators.hpp
+ /usr/include/boost/uuid/uuid_io.hpp
  /usr/include/c++/15.1.1/algorithm
  /usr/include/c++/15.1.1/any
  /usr/include/c++/15.1.1/array
@@ -5157,6 +5550,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/bits/char_traits.h
  /usr/include/c++/15.1.1/bits/charconv.h
  /usr/include/c++/15.1.1/bits/chrono.h
+ /usr/include/c++/15.1.1/bits/codecvt.h
  /usr/include/c++/15.1.1/bits/concept_check.h
  /usr/include/c++/15.1.1/bits/cpp_type_traits.h
  /usr/include/c++/15.1.1/bits/cxxabi_forced.h
@@ -5177,8 +5571,11 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/bits/list.tcc
  /usr/include/c++/15.1.1/bits/locale_classes.h
  /usr/include/c++/15.1.1/bits/locale_classes.tcc
+ /usr/include/c++/15.1.1/bits/locale_conv.h
  /usr/include/c++/15.1.1/bits/locale_facets.h
  /usr/include/c++/15.1.1/bits/locale_facets.tcc
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.h
+ /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  /usr/include/c++/15.1.1/bits/localefwd.h
  /usr/include/c++/15.1.1/bits/memory_resource.h
  /usr/include/c++/15.1.1/bits/memoryfwd.h
@@ -5194,12 +5591,15 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/bits/postypes.h
  /usr/include/c++/15.1.1/bits/predefined_ops.h
  /usr/include/c++/15.1.1/bits/ptr_traits.h
+ /usr/include/c++/15.1.1/bits/random.h
+ /usr/include/c++/15.1.1/bits/random.tcc
  /usr/include/c++/15.1.1/bits/range_access.h
  /usr/include/c++/15.1.1/bits/refwrap.h
  /usr/include/c++/15.1.1/bits/requires_hosted.h
  /usr/include/c++/15.1.1/bits/shared_ptr.h
  /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h
  /usr/include/c++/15.1.1/bits/shared_ptr_base.h
+ /usr/include/c++/15.1.1/bits/specfun.h
  /usr/include/c++/15.1.1/bits/sstream.tcc
  /usr/include/c++/15.1.1/bits/std_abs.h
  /usr/include/c++/15.1.1/bits/std_function.h
@@ -5245,6 +5645,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/chrono
  /usr/include/c++/15.1.1/climits
  /usr/include/c++/15.1.1/clocale
+ /usr/include/c++/15.1.1/cmath
  /usr/include/c++/15.1.1/compare
  /usr/include/c++/15.1.1/concepts
  /usr/include/c++/15.1.1/condition_variable
@@ -5277,6 +5678,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/iterator
  /usr/include/c++/15.1.1/limits
  /usr/include/c++/15.1.1/list
+ /usr/include/c++/15.1.1/locale
  /usr/include/c++/15.1.1/map
  /usr/include/c++/15.1.1/memory
  /usr/include/c++/15.1.1/mutex
@@ -5288,6 +5690,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/pstl/glue_memory_defs.h
  /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h
  /usr/include/c++/15.1.1/pstl/pstl_config.h
+ /usr/include/c++/15.1.1/random
  /usr/include/c++/15.1.1/ratio
  /usr/include/c++/15.1.1/sstream
  /usr/include/c++/15.1.1/stdexcept
@@ -5296,8 +5699,21 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/string
  /usr/include/c++/15.1.1/string_view
  /usr/include/c++/15.1.1/system_error
+ /usr/include/c++/15.1.1/tr1/bessel_function.tcc
+ /usr/include/c++/15.1.1/tr1/beta_function.tcc
+ /usr/include/c++/15.1.1/tr1/ell_integral.tcc
+ /usr/include/c++/15.1.1/tr1/exp_integral.tcc
+ /usr/include/c++/15.1.1/tr1/gamma.tcc
+ /usr/include/c++/15.1.1/tr1/hypergeometric.tcc
+ /usr/include/c++/15.1.1/tr1/legendre_function.tcc
+ /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc
+ /usr/include/c++/15.1.1/tr1/poly_hermite.tcc
+ /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc
+ /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc
+ /usr/include/c++/15.1.1/tr1/special_function_util.h
  /usr/include/c++/15.1.1/tuple
  /usr/include/c++/15.1.1/type_traits
+ /usr/include/c++/15.1.1/typeindex
  /usr/include/c++/15.1.1/typeinfo
  /usr/include/c++/15.1.1/unordered_map
  /usr/include/c++/15.1.1/utility
@@ -5314,7 +5730,10 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/opt_random.h
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h
  /usr/include/ctype.h
  /usr/include/endian.h
  /usr/include/errno.h
@@ -5323,6 +5742,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/features.h
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
+ /usr/include/libintl.h
  /usr/include/limits.h
  /usr/include/linux/close_range.h
  /usr/include/linux/errno.h
@@ -5337,6 +5757,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/linux/types.h
  /usr/include/linux/version.h
  /usr/include/locale.h
+ /usr/include/math.h
  /usr/include/net/if.h
  /usr/include/netdb.h
  /usr/include/netinet/in.h
@@ -5466,9 +5887,13 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
  /usr/include/unistd.h
  /usr/include/wchar.h
  /usr/include/wctype.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 

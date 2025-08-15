@@ -121,6 +121,12 @@
 			"MU",
 			"3BYFHCGL5U/moc_bytecaveclient.cpp",
 			null
+		],
+		[
+			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h",
+			"MU",
+			"DN6AR5NCAW/moc_Chatroom.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],

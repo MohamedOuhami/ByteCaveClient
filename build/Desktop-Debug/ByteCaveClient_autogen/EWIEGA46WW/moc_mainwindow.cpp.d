@@ -557,6 +557,52 @@
   /usr/include/bits/wchar.h \
   /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
+  /usr/include/boost/assert.hpp \
+  /usr/include/boost/assert/source_location.hpp \
+  /usr/include/boost/config.hpp \
+  /usr/include/boost/config/detail/cxx_composite.hpp \
+  /usr/include/boost/config/detail/select_compiler_config.hpp \
+  /usr/include/boost/config/detail/select_platform_config.hpp \
+  /usr/include/boost/config/detail/select_stdlib_config.hpp \
+  /usr/include/boost/config/detail/suffix.hpp \
+  /usr/include/boost/config/helper_macros.hpp \
+  /usr/include/boost/config/workaround.hpp \
+  /usr/include/boost/cstdint.hpp \
+  /usr/include/boost/detail/workaround.hpp \
+  /usr/include/boost/exception/exception.hpp \
+  /usr/include/boost/limits.hpp \
+  /usr/include/boost/throw_exception.hpp \
+  /usr/include/boost/type_traits/integral_constant.hpp \
+  /usr/include/boost/uuid.hpp \
+  /usr/include/boost/uuid/basic_random_generator.hpp \
+  /usr/include/boost/uuid/detail/basic_name_generator.hpp \
+  /usr/include/boost/uuid/detail/chacha20.hpp \
+  /usr/include/boost/uuid/detail/config.hpp \
+  /usr/include/boost/uuid/detail/endian.hpp \
+  /usr/include/boost/uuid/detail/hash_mix.hpp \
+  /usr/include/boost/uuid/detail/md5.hpp \
+  /usr/include/boost/uuid/detail/numeric_cast.hpp \
+  /usr/include/boost/uuid/detail/random_device.hpp \
+  /usr/include/boost/uuid/detail/random_provider.hpp \
+  /usr/include/boost/uuid/detail/sha1.hpp \
+  /usr/include/boost/uuid/detail/static_assert.hpp \
+  /usr/include/boost/uuid/detail/to_chars.hpp \
+  /usr/include/boost/uuid/detail/uuid_x86.ipp \
+  /usr/include/boost/uuid/name_generator.hpp \
+  /usr/include/boost/uuid/name_generator_md5.hpp \
+  /usr/include/boost/uuid/name_generator_sha1.hpp \
+  /usr/include/boost/uuid/namespaces.hpp \
+  /usr/include/boost/uuid/nil_generator.hpp \
+  /usr/include/boost/uuid/random_generator.hpp \
+  /usr/include/boost/uuid/string_generator.hpp \
+  /usr/include/boost/uuid/time_generator.hpp \
+  /usr/include/boost/uuid/time_generator_v1.hpp \
+  /usr/include/boost/uuid/time_generator_v6.hpp \
+  /usr/include/boost/uuid/time_generator_v7.hpp \
+  /usr/include/boost/uuid/uuid.hpp \
+  /usr/include/boost/uuid/uuid_clock.hpp \
+  /usr/include/boost/uuid/uuid_generators.hpp \
+  /usr/include/boost/uuid/uuid_io.hpp \
   /usr/include/c++/15.1.1/algorithm \
   /usr/include/c++/15.1.1/any \
   /usr/include/c++/15.1.1/array \
@@ -579,6 +625,7 @@
   /usr/include/c++/15.1.1/bits/c++0x_warning.h \
   /usr/include/c++/15.1.1/bits/char_traits.h \
   /usr/include/c++/15.1.1/bits/charconv.h \
+  /usr/include/c++/15.1.1/bits/codecvt.h \
   /usr/include/c++/15.1.1/bits/concept_check.h \
   /usr/include/c++/15.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/15.1.1/bits/cxxabi_forced.h \
@@ -598,8 +645,11 @@
   /usr/include/c++/15.1.1/bits/list.tcc \
   /usr/include/c++/15.1.1/bits/locale_classes.h \
   /usr/include/c++/15.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/15.1.1/bits/locale_conv.h \
   /usr/include/c++/15.1.1/bits/locale_facets.h \
   /usr/include/c++/15.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
   /usr/include/c++/15.1.1/bits/max_size_type.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
@@ -682,6 +732,7 @@
   /usr/include/c++/15.1.1/cstdio \
   /usr/include/c++/15.1.1/cstdlib \
   /usr/include/c++/15.1.1/cstring \
+  /usr/include/c++/15.1.1/ctime \
   /usr/include/c++/15.1.1/cwchar \
   /usr/include/c++/15.1.1/cwctype \
   /usr/include/c++/15.1.1/debug/assertions.h \
@@ -704,6 +755,7 @@
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
   /usr/include/c++/15.1.1/list \
+  /usr/include/c++/15.1.1/locale \
   /usr/include/c++/15.1.1/map \
   /usr/include/c++/15.1.1/memory \
   /usr/include/c++/15.1.1/new \
@@ -713,6 +765,8 @@
   /usr/include/c++/15.1.1/ostream \
   /usr/include/c++/15.1.1/pstl/execution_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
+  /usr/include/c++/15.1.1/random \
+  /usr/include/c++/15.1.1/ratio \
   /usr/include/c++/15.1.1/sstream \
   /usr/include/c++/15.1.1/stdexcept \
   /usr/include/c++/15.1.1/stdlib.h \
@@ -723,6 +777,7 @@
   /usr/include/c++/15.1.1/text_encoding \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
+  /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
@@ -737,7 +792,9 @@
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -746,6 +803,7 @@
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/linux/errno.h \
   /usr/include/linux/falloc.h \
   /usr/include/linux/ioctl.h \
@@ -887,8 +945,12 @@
   /usr/include/unistd.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h

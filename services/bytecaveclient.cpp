@@ -1,8 +1,9 @@
 #include "bytecaveclient.h"
+#include <iostream>
 
 using namespace std;
 // The constructor
-ByteCaveClient::ByteCaveClient(const string &host, const string &port,QTextBrowser *chatTB,QObject *parent,const string username):
+ByteCaveClient::ByteCaveClient(const string &host, const string &port,QTextBrowser *chatTB,QObject *parent):
     QObject(parent),resolver(io_context),socket(io_context),chatTB(chatTB)
 {
 
@@ -19,31 +20,26 @@ void ByteCaveClient::sendMessage(const string &command,const string &data){
 
     // Build message with length
     std::ostringstream oss;
-    oss << "CREATE_CHATROOM\n" << data.size() << "\n" << data;
+    oss << command << "\n" << data.size() << "\n" << data;
 
     asio::write(socket,asio::buffer(oss.str()));
 }
+
+void ByteCaveClient::sendMessage(const string &data){
+
+    // Build message with length
+    asio::write(socket,asio::buffer(data));
+}
+
 
 // Poll the context
 void ByteCaveClient::pollContext(){
     io_context.poll();
 }
 
-// Method to read the UUID from the server
-boost::uuids::uuid ByteCaveClient::readUUID() {
-    std::array<char, 36> buffer;
-    size_t length = socket.read_some(asio::buffer(buffer));
-
-    string data = buffer.data();
-    std::string uuid_str(buffer.data(), length);
-
-    boost::uuids::string_generator gen;
-    return gen(uuid_str);
-}
-
 
 // Loop to keep reading incoming messages
-void ByteCaveClient::readMessagesLoop(){
+void ByteCaveClient::readMessagesLoop(Ui::MainWindow ui){
 
     // Create the buffer that we will fill with our messages
     // It is shared so the lambda function can use It
@@ -53,19 +49,80 @@ void ByteCaveClient::readMessagesLoop(){
         // The buffer to read to
         asio::buffer(*buffer),
         // The callback to perform when receiving a message
-        [this,buffer](error_code ec,size_t length){
+        [this,buffer,ui](error_code ec,size_t length){
             if(!ec){
 
                 // If the
                 string msg(buffer->data(),length);
 
-                cout << msg;
+                auto commandEnd = msg.find("\n");
+                if(commandEnd != string::npos){
+                    // Stripe the command name from the message
+                    string command = msg.substr(0,commandEnd);
+                    // Find the size line
+                    auto sizeEnd = msg.find("\n",commandEnd+1);
+                    if(sizeEnd != string::npos){
+                        size_t jsonSize = stoul(msg.substr(commandEnd+1,sizeEnd-commandEnd+1));
 
-                // Append the new message to the textBrowser
-                chatTB.append(QString::fromStdString(msg));
+                        // Get the paylaod
+                        string jsonPayload = msg.substr(sizeEnd+1);
+
+                        // Make sure that we have no missing or incomplete data
+                        if (jsonPayload.size() >= jsonSize){
+
+                            // When getting a message
+                            if(command == "MESSAGE_SENT"){
+                                // Append the new message to the textBrowser
+
+
+                                chatTB.append(QString::fromStdString(jsonPayload));
+                            }
+
+                            // When fetching the chatrooms
+                            else if (command == "LIST_CHATROOMS"){
+
+
+                                // Parse the json
+                                json j = json::parse(jsonPayload);
+                                ui.chatroomsList->clear();
+                                for (auto &chatroom : j["chatrooms"]){
+                                    // Add the name to the list of chatrooms in the UI
+                                    ui.chatroomsList->addItem(QString::fromStdString(chatroom.get<string>()));
+                                }
+                            }
+
+
+                            // When listing the users of a chatrooms
+                            else if (command == "LIST_USERS"){
+                                // Parse the json
+
+                                json j = json::parse(jsonPayload);
+                                ui.chatroomsList->clear();
+                                for (auto &user : j["users"]){
+                                    // Add the name to the list of chatrooms in the UI
+                                    ui.usersList->addItem(QString::fromStdString(user.get<string>()));
+                                }
+                            }
+
+                            // WHen setting a username
+                            else if (command == "USER_CREATED"){
+                                // Parse the json
+                                json j = json::parse(jsonPayload);
+
+                                // Set the username
+                                username = QString::fromStdString(j["username"].get<string>());
+
+                                // Set the uuid
+                                boost::uuids::string_generator gen;
+                                uuid = gen(j["uuid"].get<string>());
+
+                            }
+                        }
+                    }
+                }
 
                 // Redo the loop
-                readMessagesLoop();
+                readMessagesLoop(ui);
             }
             else {
                 // Return that there was an error

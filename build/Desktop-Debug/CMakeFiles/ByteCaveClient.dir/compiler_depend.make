@@ -434,6 +434,52 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
+  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/bin/cmake \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -656,7 +702,10 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/formatfwd.h \
   /usr/include/c++/15.1.1/bits/functexcept.h \
   /usr/include/c++/15.1.1/bits/functional_hash.h \
+  /usr/include/c++/15.1.1/bits/gslice.h \
+  /usr/include/c++/15.1.1/bits/gslice_array.h \
   /usr/include/c++/15.1.1/bits/hash_bytes.h \
+  /usr/include/c++/15.1.1/bits/indirect_array.h \
   /usr/include/c++/15.1.1/bits/invoke.h \
   /usr/include/c++/15.1.1/bits/ios_base.h \
   /usr/include/c++/15.1.1/bits/istream.tcc \
@@ -670,6 +719,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
+  /usr/include/c++/15.1.1/bits/mask_array.h \
   /usr/include/c++/15.1.1/bits/max_size_type.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
@@ -687,6 +737,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/quoted_string.h \
   /usr/include/c++/15.1.1/bits/range_access.h \
   /usr/include/c++/15.1.1/bits/ranges_algo.h \
   /usr/include/c++/15.1.1/bits/ranges_algobase.h \
@@ -700,6 +751,8 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/slice_array.h \
+  /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
   /usr/include/c++/15.1.1/bits/std_function.h \
@@ -734,6 +787,10 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/bits/uses_allocator.h \
   /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
   /usr/include/c++/15.1.1/bits/utility.h \
+  /usr/include/c++/15.1.1/bits/valarray_after.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/15.1.1/bits/valarray_before.h \
   /usr/include/c++/15.1.1/bits/vector.tcc \
   /usr/include/c++/15.1.1/bits/version.h \
   /usr/include/c++/15.1.1/cassert \
@@ -743,6 +800,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/chrono \
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
+  /usr/include/c++/15.1.1/cmath \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/csignal \
@@ -765,11 +823,14 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/ext/string_conversions.h \
   /usr/include/c++/15.1.1/ext/type_traits.h \
   /usr/include/c++/15.1.1/format \
+  /usr/include/c++/15.1.1/forward_list \
   /usr/include/c++/15.1.1/functional \
   /usr/include/c++/15.1.1/future \
   /usr/include/c++/15.1.1/initializer_list \
+  /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
+  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
@@ -794,12 +855,25 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/c++/15.1.1/string_view \
   /usr/include/c++/15.1.1/system_error \
   /usr/include/c++/15.1.1/text_encoding \
+  /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/gamma.tcc \
+  /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/15.1.1/tr1/special_function_util.h \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
   /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
+  /usr/include/c++/15.1.1/valarray \
   /usr/include/c++/15.1.1/vector \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
@@ -843,6 +917,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/qt/QtCore/qatomic.h \
   /usr/include/qt/QtCore/qatomic_cxx11.h \
   /usr/include/qt/QtCore/qbasicatomic.h \
+  /usr/include/qt/QtCore/qbasictimer.h \
   /usr/include/qt/QtCore/qbytearray.h \
   /usr/include/qt/QtCore/qbytearraylist.h \
   /usr/include/qt/QtCore/qchar.h \
@@ -891,6 +966,7 @@ ByteCaveClient_autogen/timestamp: /home/v01d/Documents/Programming/PersonalProje
   /usr/include/qt/QtCore/qsysinfo.h \
   /usr/include/qt/QtCore/qsystemdetection.h \
   /usr/include/qt/QtCore/qtcore-config.h \
+  /usr/include/qt/QtCore/qtimer.h \
   /usr/include/qt/QtCore/qtypeinfo.h \
   /usr/include/qt/QtCore/qurl.h \
   /usr/include/qt/QtCore/qvariant.h \
@@ -1129,6 +1205,8 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp \
   ByteCaveClient_autogen/EWIEGA46WW/moc_hellowindow.cpp \
   ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+  ByteCaveClient_autogen/include/ui_mainwindow.h \
+  ByteCaveClient_autogen/include/ui_mainwindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp \
@@ -1545,6 +1623,53 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/write_at.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
+  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/alloca.h \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -1784,11 +1909,20 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/exception.h \
   /usr/include/c++/15.1.1/bits/exception_defines.h \
   /usr/include/c++/15.1.1/bits/exception_ptr.h \
+  /usr/include/c++/15.1.1/bits/forward_list.h \
+  /usr/include/c++/15.1.1/bits/forward_list.tcc \
+  /usr/include/c++/15.1.1/bits/fs_dir.h \
+  /usr/include/c++/15.1.1/bits/fs_fwd.h \
+  /usr/include/c++/15.1.1/bits/fs_ops.h \
+  /usr/include/c++/15.1.1/bits/fs_path.h \
   /usr/include/c++/15.1.1/bits/functexcept.h \
   /usr/include/c++/15.1.1/bits/functional_hash.h \
+  /usr/include/c++/15.1.1/bits/gslice.h \
+  /usr/include/c++/15.1.1/bits/gslice_array.h \
   /usr/include/c++/15.1.1/bits/hash_bytes.h \
   /usr/include/c++/15.1.1/bits/hashtable.h \
   /usr/include/c++/15.1.1/bits/hashtable_policy.h \
+  /usr/include/c++/15.1.1/bits/indirect_array.h \
   /usr/include/c++/15.1.1/bits/invoke.h \
   /usr/include/c++/15.1.1/bits/ios_base.h \
   /usr/include/c++/15.1.1/bits/istream.tcc \
@@ -1801,6 +1935,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
+  /usr/include/c++/15.1.1/bits/mask_array.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
   /usr/include/c++/15.1.1/bits/monostate.h \
@@ -1815,6 +1950,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/quoted_string.h \
   /usr/include/c++/15.1.1/bits/random.h \
   /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
@@ -1823,6 +1959,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/slice_array.h \
   /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
@@ -1861,6 +1998,10 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/bits/uses_allocator.h \
   /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
   /usr/include/c++/15.1.1/bits/utility.h \
+  /usr/include/c++/15.1.1/bits/valarray_after.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/15.1.1/bits/valarray_before.h \
   /usr/include/c++/15.1.1/bits/vector.tcc \
   /usr/include/c++/15.1.1/bits/version.h \
   /usr/include/c++/15.1.1/cassert \
@@ -1870,6 +2011,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
   /usr/include/c++/15.1.1/cmath \
+  /usr/include/c++/15.1.1/codecvt \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -1892,11 +2034,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/ext/numeric_traits.h \
   /usr/include/c++/15.1.1/ext/string_conversions.h \
   /usr/include/c++/15.1.1/ext/type_traits.h \
+  /usr/include/c++/15.1.1/filesystem \
+  /usr/include/c++/15.1.1/forward_list \
   /usr/include/c++/15.1.1/functional \
   /usr/include/c++/15.1.1/future \
   /usr/include/c++/15.1.1/initializer_list \
+  /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
+  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
@@ -1907,6 +2053,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/mutex \
   /usr/include/c++/15.1.1/new \
   /usr/include/c++/15.1.1/numeric \
+  /usr/include/c++/15.1.1/optional \
   /usr/include/c++/15.1.1/ostream \
   /usr/include/c++/15.1.1/pstl/execution_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h \
@@ -1940,6 +2087,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
+  /usr/include/c++/15.1.1/valarray \
   /usr/include/c++/15.1.1/variant \
   /usr/include/c++/15.1.1/vector \
   /usr/include/c++/15.1.1/version \
@@ -1987,11 +2135,14 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/netinet/tcp.h \
   /usr/include/poll.h \
   /usr/include/pthread.h \
+  /usr/include/qt/QtCore/QVariant \
+  /usr/include/qt/QtCore/qabstractitemmodel.h \
   /usr/include/qt/QtCore/qalgorithms.h \
   /usr/include/qt/QtCore/qarraydata.h \
   /usr/include/qt/QtCore/qatomic.h \
   /usr/include/qt/QtCore/qatomic_cxx11.h \
   /usr/include/qt/QtCore/qbasicatomic.h \
+  /usr/include/qt/QtCore/qbasictimer.h \
   /usr/include/qt/QtCore/qbytearray.h \
   /usr/include/qt/QtCore/qbytearraylist.h \
   /usr/include/qt/QtCore/qchar.h \
@@ -1999,7 +2150,10 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/qt/QtCore/qconfig.h \
   /usr/include/qt/QtCore/qcontainerfwd.h \
   /usr/include/qt/QtCore/qcontainertools_impl.h \
+  /usr/include/qt/QtCore/qcoreapplication.h \
+  /usr/include/qt/QtCore/qcoreevent.h \
   /usr/include/qt/QtCore/qdatastream.h \
+  /usr/include/qt/QtCore/qeventloop.h \
   /usr/include/qt/QtCore/qflags.h \
   /usr/include/qt/QtCore/qgenericatomic.h \
   /usr/include/qt/QtCore/qglobal.h \
@@ -2007,9 +2161,11 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/qt/QtCore/qhash.h \
   /usr/include/qt/QtCore/qhashfunctions.h \
   /usr/include/qt/QtCore/qiodevice.h \
+  /usr/include/qt/QtCore/qitemselectionmodel.h \
   /usr/include/qt/QtCore/qiterator.h \
   /usr/include/qt/QtCore/qline.h \
   /usr/include/qt/QtCore/qlist.h \
+  /usr/include/qt/QtCore/qlocale.h \
   /usr/include/qt/QtCore/qlogging.h \
   /usr/include/qt/QtCore/qmap.h \
   /usr/include/qt/QtCore/qmargins.h \
@@ -2026,7 +2182,9 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/qt/QtCore/qrect.h \
   /usr/include/qt/QtCore/qrefcount.h \
   /usr/include/qt/QtCore/qregexp.h \
+  /usr/include/qt/QtCore/qregularexpression.h \
   /usr/include/qt/QtCore/qscopedpointer.h \
+  /usr/include/qt/QtCore/qset.h \
   /usr/include/qt/QtCore/qshareddata.h \
   /usr/include/qt/QtCore/qsharedpointer.h \
   /usr/include/qt/QtCore/qsharedpointer_impl.h \
@@ -2040,6 +2198,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/qt/QtCore/qsysinfo.h \
   /usr/include/qt/QtCore/qsystemdetection.h \
   /usr/include/qt/QtCore/qtcore-config.h \
+  /usr/include/qt/QtCore/qtimer.h \
   /usr/include/qt/QtCore/qtypeinfo.h \
   /usr/include/qt/QtCore/qurl.h \
   /usr/include/qt/QtCore/qvariant.h \
@@ -2052,8 +2211,10 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/qt/QtGui/qfont.h \
   /usr/include/qt/QtGui/qfontinfo.h \
   /usr/include/qt/QtGui/qfontmetrics.h \
+  /usr/include/qt/QtGui/qguiapplication.h \
   /usr/include/qt/QtGui/qicon.h \
   /usr/include/qt/QtGui/qimage.h \
+  /usr/include/qt/QtGui/qinputmethod.h \
   /usr/include/qt/QtGui/qkeysequence.h \
   /usr/include/qt/QtGui/qmatrix.h \
   /usr/include/qt/QtGui/qpaintdevice.h \
@@ -2072,15 +2233,38 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o: Byt
   /usr/include/qt/QtGui/qtgui-config.h \
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
+  /usr/include/qt/QtGui/qvalidator.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
+  /usr/include/qt/QtWidgets/QApplication \
   /usr/include/qt/QtWidgets/QDialog \
+  /usr/include/qt/QtWidgets/QLabel \
+  /usr/include/qt/QtWidgets/QLineEdit \
+  /usr/include/qt/QtWidgets/QListWidget \
   /usr/include/qt/QtWidgets/QMainWindow \
+  /usr/include/qt/QtWidgets/QPushButton \
   /usr/include/qt/QtWidgets/QTextBrowser \
+  /usr/include/qt/QtWidgets/QWidget \
+  /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qabstractitemdelegate.h \
+  /usr/include/qt/QtWidgets/qabstractitemview.h \
   /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+  /usr/include/qt/QtWidgets/qabstractslider.h \
+  /usr/include/qt/QtWidgets/qabstractspinbox.h \
+  /usr/include/qt/QtWidgets/qapplication.h \
   /usr/include/qt/QtWidgets/qdialog.h \
   /usr/include/qt/QtWidgets/qframe.h \
+  /usr/include/qt/QtWidgets/qlabel.h \
+  /usr/include/qt/QtWidgets/qlineedit.h \
+  /usr/include/qt/QtWidgets/qlistview.h \
+  /usr/include/qt/QtWidgets/qlistwidget.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
+  /usr/include/qt/QtWidgets/qpushbutton.h \
+  /usr/include/qt/QtWidgets/qrubberband.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
+  /usr/include/qt/QtWidgets/qslider.h \
+  /usr/include/qt/QtWidgets/qstyle.h \
+  /usr/include/qt/QtWidgets/qstyleoption.h \
+  /usr/include/qt/QtWidgets/qtabbar.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtextbrowser.h \
   /usr/include/qt/QtWidgets/qtextedit.h \
@@ -2499,7 +2683,10 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o: /home/v01d/Documents/Progr
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
 
 CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp \
+  ByteCaveClient_autogen/include/ui_mainwindow.h \
   ByteCaveClient_autogen/include/ui_hellowindow.h \
+  ByteCaveClient_autogen/include/ui_mainwindow.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
@@ -2918,6 +3105,53 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
+  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/alloca.h \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -3157,11 +3391,20 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/exception.h \
   /usr/include/c++/15.1.1/bits/exception_defines.h \
   /usr/include/c++/15.1.1/bits/exception_ptr.h \
+  /usr/include/c++/15.1.1/bits/forward_list.h \
+  /usr/include/c++/15.1.1/bits/forward_list.tcc \
+  /usr/include/c++/15.1.1/bits/fs_dir.h \
+  /usr/include/c++/15.1.1/bits/fs_fwd.h \
+  /usr/include/c++/15.1.1/bits/fs_ops.h \
+  /usr/include/c++/15.1.1/bits/fs_path.h \
   /usr/include/c++/15.1.1/bits/functexcept.h \
   /usr/include/c++/15.1.1/bits/functional_hash.h \
+  /usr/include/c++/15.1.1/bits/gslice.h \
+  /usr/include/c++/15.1.1/bits/gslice_array.h \
   /usr/include/c++/15.1.1/bits/hash_bytes.h \
   /usr/include/c++/15.1.1/bits/hashtable.h \
   /usr/include/c++/15.1.1/bits/hashtable_policy.h \
+  /usr/include/c++/15.1.1/bits/indirect_array.h \
   /usr/include/c++/15.1.1/bits/invoke.h \
   /usr/include/c++/15.1.1/bits/ios_base.h \
   /usr/include/c++/15.1.1/bits/istream.tcc \
@@ -3174,6 +3417,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
+  /usr/include/c++/15.1.1/bits/mask_array.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
   /usr/include/c++/15.1.1/bits/monostate.h \
@@ -3188,6 +3432,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/quoted_string.h \
   /usr/include/c++/15.1.1/bits/random.h \
   /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
@@ -3196,6 +3441,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/slice_array.h \
   /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
@@ -3234,6 +3480,10 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/bits/uses_allocator.h \
   /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
   /usr/include/c++/15.1.1/bits/utility.h \
+  /usr/include/c++/15.1.1/bits/valarray_after.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/15.1.1/bits/valarray_before.h \
   /usr/include/c++/15.1.1/bits/vector.tcc \
   /usr/include/c++/15.1.1/bits/version.h \
   /usr/include/c++/15.1.1/cassert \
@@ -3243,6 +3493,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
   /usr/include/c++/15.1.1/cmath \
+  /usr/include/c++/15.1.1/codecvt \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -3265,11 +3516,15 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/ext/numeric_traits.h \
   /usr/include/c++/15.1.1/ext/string_conversions.h \
   /usr/include/c++/15.1.1/ext/type_traits.h \
+  /usr/include/c++/15.1.1/filesystem \
+  /usr/include/c++/15.1.1/forward_list \
   /usr/include/c++/15.1.1/functional \
   /usr/include/c++/15.1.1/future \
   /usr/include/c++/15.1.1/initializer_list \
+  /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
+  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
@@ -3280,6 +3535,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/mutex \
   /usr/include/c++/15.1.1/new \
   /usr/include/c++/15.1.1/numeric \
+  /usr/include/c++/15.1.1/optional \
   /usr/include/c++/15.1.1/ostream \
   /usr/include/c++/15.1.1/pstl/execution_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h \
@@ -3313,6 +3569,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
+  /usr/include/c++/15.1.1/valarray \
   /usr/include/c++/15.1.1/variant \
   /usr/include/c++/15.1.1/vector \
   /usr/include/c++/15.1.1/version \
@@ -3361,11 +3618,13 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/poll.h \
   /usr/include/pthread.h \
   /usr/include/qt/QtCore/QVariant \
+  /usr/include/qt/QtCore/qabstractitemmodel.h \
   /usr/include/qt/QtCore/qalgorithms.h \
   /usr/include/qt/QtCore/qarraydata.h \
   /usr/include/qt/QtCore/qatomic.h \
   /usr/include/qt/QtCore/qatomic_cxx11.h \
   /usr/include/qt/QtCore/qbasicatomic.h \
+  /usr/include/qt/QtCore/qbasictimer.h \
   /usr/include/qt/QtCore/qbytearray.h \
   /usr/include/qt/QtCore/qbytearraylist.h \
   /usr/include/qt/QtCore/qchar.h \
@@ -3384,6 +3643,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/qt/QtCore/qhash.h \
   /usr/include/qt/QtCore/qhashfunctions.h \
   /usr/include/qt/QtCore/qiodevice.h \
+  /usr/include/qt/QtCore/qitemselectionmodel.h \
   /usr/include/qt/QtCore/qiterator.h \
   /usr/include/qt/QtCore/qline.h \
   /usr/include/qt/QtCore/qlist.h \
@@ -3404,7 +3664,9 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/qt/QtCore/qrect.h \
   /usr/include/qt/QtCore/qrefcount.h \
   /usr/include/qt/QtCore/qregexp.h \
+  /usr/include/qt/QtCore/qregularexpression.h \
   /usr/include/qt/QtCore/qscopedpointer.h \
+  /usr/include/qt/QtCore/qset.h \
   /usr/include/qt/QtCore/qshareddata.h \
   /usr/include/qt/QtCore/qsharedpointer.h \
   /usr/include/qt/QtCore/qsharedpointer_impl.h \
@@ -3418,6 +3680,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/qt/QtCore/qsysinfo.h \
   /usr/include/qt/QtCore/qsystemdetection.h \
   /usr/include/qt/QtCore/qtcore-config.h \
+  /usr/include/qt/QtCore/qtimer.h \
   /usr/include/qt/QtCore/qtypeinfo.h \
   /usr/include/qt/QtCore/qurl.h \
   /usr/include/qt/QtCore/qvariant.h \
@@ -3452,23 +3715,38 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programmin
   /usr/include/qt/QtGui/qtgui-config.h \
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
+  /usr/include/qt/QtGui/qvalidator.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
   /usr/include/qt/QtWidgets/QApplication \
+  /usr/include/qt/QtWidgets/QDialog \
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QLineEdit \
+  /usr/include/qt/QtWidgets/QListWidget \
   /usr/include/qt/QtWidgets/QMainWindow \
   /usr/include/qt/QtWidgets/QPushButton \
   /usr/include/qt/QtWidgets/QTextBrowser \
   /usr/include/qt/QtWidgets/QWidget \
   /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qabstractitemdelegate.h \
+  /usr/include/qt/QtWidgets/qabstractitemview.h \
   /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+  /usr/include/qt/QtWidgets/qabstractslider.h \
+  /usr/include/qt/QtWidgets/qabstractspinbox.h \
   /usr/include/qt/QtWidgets/qapplication.h \
+  /usr/include/qt/QtWidgets/qdialog.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qlineedit.h \
+  /usr/include/qt/QtWidgets/qlistview.h \
+  /usr/include/qt/QtWidgets/qlistwidget.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
   /usr/include/qt/QtWidgets/qpushbutton.h \
+  /usr/include/qt/QtWidgets/qrubberband.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
+  /usr/include/qt/QtWidgets/qslider.h \
+  /usr/include/qt/QtWidgets/qstyle.h \
+  /usr/include/qt/QtWidgets/qstyleoption.h \
+  /usr/include/qt/QtWidgets/qtabbar.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtextbrowser.h \
   /usr/include/qt/QtWidgets/qtextedit.h \
@@ -3876,6 +4154,7 @@ CMakeFiles/ByteCaveClient.dir/main.cpp.o: /home/v01d/Documents/Programming/Perso
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
 
 CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp \
+  ByteCaveClient_autogen/include/ui_mainwindow.h \
   ByteCaveClient_autogen/include/ui_mainwindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
@@ -4714,6 +4993,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
+  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
@@ -4807,6 +5087,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/poll.h \
   /usr/include/pthread.h \
   /usr/include/qt/QtCore/QVariant \
+  /usr/include/qt/QtCore/qabstractitemmodel.h \
   /usr/include/qt/QtCore/qalgorithms.h \
   /usr/include/qt/QtCore/qarraydata.h \
   /usr/include/qt/QtCore/qatomic.h \
@@ -4831,6 +5112,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtCore/qhash.h \
   /usr/include/qt/QtCore/qhashfunctions.h \
   /usr/include/qt/QtCore/qiodevice.h \
+  /usr/include/qt/QtCore/qitemselectionmodel.h \
   /usr/include/qt/QtCore/qiterator.h \
   /usr/include/qt/QtCore/qline.h \
   /usr/include/qt/QtCore/qlist.h \
@@ -4851,7 +5133,9 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtCore/qrect.h \
   /usr/include/qt/QtCore/qrefcount.h \
   /usr/include/qt/QtCore/qregexp.h \
+  /usr/include/qt/QtCore/qregularexpression.h \
   /usr/include/qt/QtCore/qscopedpointer.h \
+  /usr/include/qt/QtCore/qset.h \
   /usr/include/qt/QtCore/qshareddata.h \
   /usr/include/qt/QtCore/qsharedpointer.h \
   /usr/include/qt/QtCore/qsharedpointer_impl.h \
@@ -4900,25 +5184,38 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/include/qt/QtGui/qtgui-config.h \
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
+  /usr/include/qt/QtGui/qvalidator.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
   /usr/include/qt/QtWidgets/QApplication \
   /usr/include/qt/QtWidgets/QDialog \
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QLineEdit \
+  /usr/include/qt/QtWidgets/QListWidget \
   /usr/include/qt/QtWidgets/QMainWindow \
   /usr/include/qt/QtWidgets/QPushButton \
   /usr/include/qt/QtWidgets/QTextBrowser \
   /usr/include/qt/QtWidgets/QWidget \
   /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qabstractitemdelegate.h \
+  /usr/include/qt/QtWidgets/qabstractitemview.h \
   /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+  /usr/include/qt/QtWidgets/qabstractslider.h \
+  /usr/include/qt/QtWidgets/qabstractspinbox.h \
   /usr/include/qt/QtWidgets/qapplication.h \
   /usr/include/qt/QtWidgets/qdialog.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qlineedit.h \
+  /usr/include/qt/QtWidgets/qlistview.h \
+  /usr/include/qt/QtWidgets/qlistwidget.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
   /usr/include/qt/QtWidgets/qpushbutton.h \
+  /usr/include/qt/QtWidgets/qrubberband.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
+  /usr/include/qt/QtWidgets/qslider.h \
+  /usr/include/qt/QtWidgets/qstyle.h \
+  /usr/include/qt/QtWidgets/qstyleoption.h \
+  /usr/include/qt/QtWidgets/qtabbar.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtextbrowser.h \
   /usr/include/qt/QtWidgets/qtextedit.h \
@@ -4965,6 +5262,7 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: /home/v01d/Documents/Programming
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp \
+  ByteCaveClient_autogen/include/ui_mainwindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp \
@@ -5381,6 +5679,52 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/write_at.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
+  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/alloca.h \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -5620,11 +5964,20 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/exception.h \
   /usr/include/c++/15.1.1/bits/exception_defines.h \
   /usr/include/c++/15.1.1/bits/exception_ptr.h \
+  /usr/include/c++/15.1.1/bits/forward_list.h \
+  /usr/include/c++/15.1.1/bits/forward_list.tcc \
+  /usr/include/c++/15.1.1/bits/fs_dir.h \
+  /usr/include/c++/15.1.1/bits/fs_fwd.h \
+  /usr/include/c++/15.1.1/bits/fs_ops.h \
+  /usr/include/c++/15.1.1/bits/fs_path.h \
   /usr/include/c++/15.1.1/bits/functexcept.h \
   /usr/include/c++/15.1.1/bits/functional_hash.h \
+  /usr/include/c++/15.1.1/bits/gslice.h \
+  /usr/include/c++/15.1.1/bits/gslice_array.h \
   /usr/include/c++/15.1.1/bits/hash_bytes.h \
   /usr/include/c++/15.1.1/bits/hashtable.h \
   /usr/include/c++/15.1.1/bits/hashtable_policy.h \
+  /usr/include/c++/15.1.1/bits/indirect_array.h \
   /usr/include/c++/15.1.1/bits/invoke.h \
   /usr/include/c++/15.1.1/bits/ios_base.h \
   /usr/include/c++/15.1.1/bits/istream.tcc \
@@ -5637,6 +5990,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
+  /usr/include/c++/15.1.1/bits/mask_array.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
   /usr/include/c++/15.1.1/bits/monostate.h \
@@ -5651,6 +6005,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/quoted_string.h \
   /usr/include/c++/15.1.1/bits/random.h \
   /usr/include/c++/15.1.1/bits/random.tcc \
   /usr/include/c++/15.1.1/bits/range_access.h \
@@ -5659,6 +6014,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/slice_array.h \
   /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
@@ -5697,6 +6053,10 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/bits/uses_allocator.h \
   /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
   /usr/include/c++/15.1.1/bits/utility.h \
+  /usr/include/c++/15.1.1/bits/valarray_after.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/15.1.1/bits/valarray_before.h \
   /usr/include/c++/15.1.1/bits/vector.tcc \
   /usr/include/c++/15.1.1/bits/version.h \
   /usr/include/c++/15.1.1/cassert \
@@ -5706,6 +6066,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
   /usr/include/c++/15.1.1/cmath \
+  /usr/include/c++/15.1.1/codecvt \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/condition_variable \
@@ -5728,9 +6089,12 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/ext/numeric_traits.h \
   /usr/include/c++/15.1.1/ext/string_conversions.h \
   /usr/include/c++/15.1.1/ext/type_traits.h \
+  /usr/include/c++/15.1.1/filesystem \
+  /usr/include/c++/15.1.1/forward_list \
   /usr/include/c++/15.1.1/functional \
   /usr/include/c++/15.1.1/future \
   /usr/include/c++/15.1.1/initializer_list \
+  /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
   /usr/include/c++/15.1.1/iostream \
@@ -5744,6 +6108,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/mutex \
   /usr/include/c++/15.1.1/new \
   /usr/include/c++/15.1.1/numeric \
+  /usr/include/c++/15.1.1/optional \
   /usr/include/c++/15.1.1/ostream \
   /usr/include/c++/15.1.1/pstl/execution_defs.h \
   /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h \
@@ -5777,6 +6142,7 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
+  /usr/include/c++/15.1.1/valarray \
   /usr/include/c++/15.1.1/variant \
   /usr/include/c++/15.1.1/vector \
   /usr/include/c++/15.1.1/version \
@@ -5824,6 +6190,8 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/netinet/tcp.h \
   /usr/include/poll.h \
   /usr/include/pthread.h \
+  /usr/include/qt/QtCore/QVariant \
+  /usr/include/qt/QtCore/qabstractitemmodel.h \
   /usr/include/qt/QtCore/qalgorithms.h \
   /usr/include/qt/QtCore/qarraydata.h \
   /usr/include/qt/QtCore/qatomic.h \
@@ -5836,7 +6204,10 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/qt/QtCore/qconfig.h \
   /usr/include/qt/QtCore/qcontainerfwd.h \
   /usr/include/qt/QtCore/qcontainertools_impl.h \
+  /usr/include/qt/QtCore/qcoreapplication.h \
+  /usr/include/qt/QtCore/qcoreevent.h \
   /usr/include/qt/QtCore/qdatastream.h \
+  /usr/include/qt/QtCore/qeventloop.h \
   /usr/include/qt/QtCore/qflags.h \
   /usr/include/qt/QtCore/qgenericatomic.h \
   /usr/include/qt/QtCore/qglobal.h \
@@ -5844,9 +6215,11 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/qt/QtCore/qhash.h \
   /usr/include/qt/QtCore/qhashfunctions.h \
   /usr/include/qt/QtCore/qiodevice.h \
+  /usr/include/qt/QtCore/qitemselectionmodel.h \
   /usr/include/qt/QtCore/qiterator.h \
   /usr/include/qt/QtCore/qline.h \
   /usr/include/qt/QtCore/qlist.h \
+  /usr/include/qt/QtCore/qlocale.h \
   /usr/include/qt/QtCore/qlogging.h \
   /usr/include/qt/QtCore/qmap.h \
   /usr/include/qt/QtCore/qmargins.h \
@@ -5863,7 +6236,9 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/qt/QtCore/qrect.h \
   /usr/include/qt/QtCore/qrefcount.h \
   /usr/include/qt/QtCore/qregexp.h \
+  /usr/include/qt/QtCore/qregularexpression.h \
   /usr/include/qt/QtCore/qscopedpointer.h \
+  /usr/include/qt/QtCore/qset.h \
   /usr/include/qt/QtCore/qshareddata.h \
   /usr/include/qt/QtCore/qsharedpointer.h \
   /usr/include/qt/QtCore/qsharedpointer_impl.h \
@@ -5889,7 +6264,10 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/qt/QtGui/qfont.h \
   /usr/include/qt/QtGui/qfontinfo.h \
   /usr/include/qt/QtGui/qfontmetrics.h \
+  /usr/include/qt/QtGui/qguiapplication.h \
+  /usr/include/qt/QtGui/qicon.h \
   /usr/include/qt/QtGui/qimage.h \
+  /usr/include/qt/QtGui/qinputmethod.h \
   /usr/include/qt/QtGui/qkeysequence.h \
   /usr/include/qt/QtGui/qmatrix.h \
   /usr/include/qt/QtGui/qpaintdevice.h \
@@ -5908,11 +6286,37 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/include/qt/QtGui/qtgui-config.h \
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
+  /usr/include/qt/QtGui/qvalidator.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
+  /usr/include/qt/QtWidgets/QApplication \
+  /usr/include/qt/QtWidgets/QLabel \
+  /usr/include/qt/QtWidgets/QLineEdit \
+  /usr/include/qt/QtWidgets/QListWidget \
+  /usr/include/qt/QtWidgets/QMainWindow \
+  /usr/include/qt/QtWidgets/QPushButton \
   /usr/include/qt/QtWidgets/QTextBrowser \
+  /usr/include/qt/QtWidgets/QWidget \
+  /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qabstractitemdelegate.h \
+  /usr/include/qt/QtWidgets/qabstractitemview.h \
   /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+  /usr/include/qt/QtWidgets/qabstractslider.h \
+  /usr/include/qt/QtWidgets/qabstractspinbox.h \
+  /usr/include/qt/QtWidgets/qapplication.h \
   /usr/include/qt/QtWidgets/qframe.h \
+  /usr/include/qt/QtWidgets/qlabel.h \
+  /usr/include/qt/QtWidgets/qlineedit.h \
+  /usr/include/qt/QtWidgets/qlistview.h \
+  /usr/include/qt/QtWidgets/qlistwidget.h \
+  /usr/include/qt/QtWidgets/qmainwindow.h \
+  /usr/include/qt/QtWidgets/qpushbutton.h \
+  /usr/include/qt/QtWidgets/qrubberband.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
+  /usr/include/qt/QtWidgets/qslider.h \
+  /usr/include/qt/QtWidgets/qstyle.h \
+  /usr/include/qt/QtWidgets/qstyleoption.h \
+  /usr/include/qt/QtWidgets/qtabbar.h \
+  /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtextbrowser.h \
   /usr/include/qt/QtWidgets/qtextedit.h \
   /usr/include/qt/QtWidgets/qtwidgets-config.h \
@@ -5958,127 +6362,61 @@ CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Document
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
 
 
-/usr/include/c++/15.1.1/iostream:
-
-/usr/include/c++/15.1.1/valarray:
-
-/usr/include/c++/15.1.1/iomanip:
-
-/usr/include/c++/15.1.1/filesystem:
-
-/usr/include/c++/15.1.1/codecvt:
-
-/usr/include/c++/15.1.1/bits/valarray_array.h:
-
-/usr/include/c++/15.1.1/bits/slice_array.h:
-
-/usr/include/c++/15.1.1/bits/quoted_string.h:
-
-/usr/include/c++/15.1.1/bits/mask_array.h:
-
-/usr/include/c++/15.1.1/bits/valarray_after.h:
-
-/usr/include/c++/15.1.1/bits/indirect_array.h:
-
-/usr/include/c++/15.1.1/bits/gslice_array.h:
-
-/usr/include/c++/15.1.1/bits/gslice.h:
-
-/usr/include/c++/15.1.1/bits/fs_path.h:
-
-/usr/include/c++/15.1.1/bits/fs_ops.h:
-
-/usr/include/c++/15.1.1/bits/fs_fwd.h:
-
-/usr/include/c++/15.1.1/bits/fs_dir.h:
-
-/usr/include/c++/15.1.1/bits/forward_list.tcc:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp:
-
-ByteCaveClient_autogen/include/ui_mainwindow.h:
-
-/usr/include/qt/QtWidgets/qpushbutton.h:
-
-/usr/include/qt/QtWidgets/qabstractbutton.h:
-
-/usr/include/qt/QtWidgets/QWidget:
-
 ByteCaveClient_autogen/include/ui_hellowindow.h:
 
-/usr/include/qt/QtWidgets/qlabel.h:
-
-/usr/include/qt/QtWidgets/qapplication.h:
-
-/usr/include/qt/QtWidgets/QLineEdit:
-
 /usr/include/qt/QtWidgets/QDialogButtonBox:
-
-/usr/include/qt/QtGui/qinputmethod.h:
-
-/usr/include/qt/QtGui/qguiapplication.h:
-
-/usr/include/qt/QtCore/qeventloop.h:
-
-/usr/include/qt/QtCore/qcoreevent.h:
-
-/usr/include/qt/QtCore/QVariant:
 
 ByteCaveClient_autogen/include/ui_chatroomcreation.h:
 
 /usr/include/sys/single_threaded.h:
 
 /usr/include/stdint.h:
+
+/usr/include/qt/QtWidgets/qstyleoption.h:
+
+/usr/include/qt/QtWidgets/qstyle.h:
+
+/usr/include/qt/QtWidgets/qrubberband.h:
+
+/usr/include/qt/QtWidgets/qpushbutton.h:
+
+/usr/include/qt/QtWidgets/qlistview.h:
+
+/usr/include/qt/QtWidgets/qlabel.h:
+
+/usr/include/qt/QtWidgets/qapplication.h:
+
+/usr/include/qt/QtWidgets/qabstractspinbox.h:
+
+/usr/include/qt/QtWidgets/qabstractslider.h:
+
+/usr/include/qt/QtWidgets/qabstractitemview.h:
+
+/usr/include/qt/QtWidgets/qabstractitemdelegate.h:
+
+/usr/include/qt/QtWidgets/qabstractbutton.h:
+
+/usr/include/qt/QtWidgets/QWidget:
+
+/usr/include/qt/QtWidgets/QListWidget:
+
+/usr/include/qt/QtWidgets/QLineEdit:
+
+/usr/include/qt/QtGui/qinputmethod.h:
+
+/usr/include/qt/QtGui/qguiapplication.h:
+
+/usr/include/qt/QtCore/qset.h:
+
+/usr/include/qt/QtCore/qregularexpression.h:
+
+/usr/include/qt/QtCore/qeventloop.h:
+
+/usr/include/qt/QtCore/qcoreevent.h:
+
+/usr/include/qt/QtCore/qabstractitemmodel.h:
+
+/usr/include/qt/QtCore/QVariant:
 
 /usr/include/linux/stat.h:
 
@@ -6094,31 +6432,15 @@ ByteCaveClient_autogen/include/ui_chatroomcreation.h:
 
 /usr/include/c++/15.1.1/variant:
 
-/usr/include/c++/15.1.1/tr1/riemann_zeta.tcc:
-
-/usr/include/c++/15.1.1/tr1/poly_laguerre.tcc:
-
-/usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc:
-
-/usr/include/c++/15.1.1/tr1/hypergeometric.tcc:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp:
-
-/usr/include/c++/15.1.1/tr1/gamma.tcc:
-
-/usr/include/c++/15.1.1/tr1/exp_integral.tcc:
-
-/usr/include/c++/15.1.1/tr1/ell_integral.tcc:
-
-/usr/include/c++/15.1.1/tr1/bessel_function.tcc:
-
 /usr/include/c++/15.1.1/pstl/pstl_config.h:
 
 /usr/include/c++/15.1.1/pstl/glue_memory_defs.h:
 
 /usr/include/c++/15.1.1/pstl/glue_algorithm_defs.h:
 
-/usr/include/c++/15.1.1/cmath:
+/usr/include/c++/15.1.1/filesystem:
+
+/usr/include/c++/15.1.1/codecvt:
 
 /usr/include/c++/15.1.1/bits/unordered_map.h:
 
@@ -6133,6 +6455,16 @@ ByteCaveClient_autogen/include/ui_chatroomcreation.h:
 /usr/include/c++/15.1.1/bits/hashtable_policy.h:
 
 /usr/include/c++/15.1.1/bits/hashtable.h:
+
+/usr/include/c++/15.1.1/bits/fs_path.h:
+
+/usr/include/c++/15.1.1/bits/fs_ops.h:
+
+/usr/include/c++/15.1.1/bits/fs_fwd.h:
+
+/usr/include/c++/15.1.1/bits/fs_dir.h:
+
+/usr/include/c++/15.1.1/bits/forward_list.tcc:
 
 /usr/include/qt/QtWidgets/QPushButton:
 
@@ -6174,10 +6506,6 @@ ByteCaveClient_autogen/include/ui_chatroomcreation.h:
 
 ByteCaveClient_autogen/EWIEGA46WW/moc_hellowindow.cpp:
 
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp:
-
-ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
-
 ByteCaveClient_autogen/3BYFHCGL5U/moc_bytecaveclient.cpp:
 
 ByteCaveClient_autogen/mocs_compilation.cpp:
@@ -6194,61 +6522,109 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/lib32/libz.so.1:
 
-/usr/include/bits/types/clock_t.h:
+/usr/lib32/libxcb.so.1:
 
-/usr/include/qt/QtCore/qpair.h:
+/usr/lib32/libsystemd.so.0:
 
-/usr/include/stdlib.h:
+/usr/lib32/libpcre2-16.so.0:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v4.hpp:
+/usr/lib32/libicui18n.so.76:
 
-/usr/include/bits/types.h:
+/usr/lib32/libicudata.so.76:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_executor.hpp:
+/usr/lib32/libglib-2.0.so.0:
 
-/usr/include/bits/thread-shared-types.h:
+/usr/lib32/libcap.so.2:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_set_service.hpp:
+/usr/lib32/libbz2.so.1.0:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/prefer_only.hpp:
+/usr/lib32/libbrotlidec.so.1:
 
-/usr/include/bits/mathcalls-macros.h:
+/usr/lib32/libXdmcp.so.6:
 
-/usr/include/bits/fp-logb.h:
+/usr/lib32/libXau.so.6:
 
-/usr/include/bits/termios-struct.h:
+/usr/lib32/libX11.so.6:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_immediate_executor.hpp:
+/usr/lib32/libGLdispatch.so.0:
 
-/usr/include/bits/termios-misc.h:
+/usr/lib32/libGL.so.1:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/write.hpp:
+/usr/lib/libz.so.1:
 
-/usr/include/bits/termios-cbaud.h:
+/usr/lib/libsystemd.so.0:
 
-/usr/include/sys/ttydefaults.h:
+/usr/lib/libpcre2-8.so.0:
 
-/usr/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake:
+/usr/lib/libmvec.so.1:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffers_iterator.hpp:
+/usr/lib/libmd4c.so.0:
 
-/usr/include/bits/stat.h:
+/usr/lib/libicuuc.so.76:
 
-/usr/include/bits/ss_flags.h:
+/usr/lib/libicui18n.so.76:
 
-/usr/include/bits/sigstack.h:
+/usr/lib/libharfbuzz.so.0:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/handler_cont_helpers.hpp:
+/usr/lib/libgraphite2.so.3:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/readable_pipe.hpp:
+/usr/lib/libglib-2.0.so.0:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/dependent_type.hpp:
+/usr/lib/libcap.so.2:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/libc.so.6:
+
+/usr/lib/libbrotlicommon.so.1:
+
+/usr/lib/libXau.so.6:
 
 /usr/lib/libX11.so.6:
 
-/usr/include/bits/siginfo-consts.h:
+/usr/lib/libQt5Widgets.so.5.15.17:
 
-/usr/include/bits/sigcontext.h:
+/usr/lib/libQt5Gui.so.5.15.17:
+
+/usr/lib/libQt5Core.so.5.15.17:
+
+/usr/lib/libGLX.so.0:
+
+/usr/lib/libGL.so.1:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtendS.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtbeginS.o:
+
+/usr/lib/libstdc++.so:
+
+/usr/lib/libm.so:
+
+/usr/lib/libgcc_s.so.1:
+
+/usr/lib/libc.so:
+
+/usr/lib/Scrt1.o:
+
+/usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake:
+
+/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake:
+
+/usr/share/cmake/Modules/Platform/Linker/GNU.cmake:
+
+/usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake:
+
+/usr/include/qt/QtWidgets/qlineedit.h:
+
+/usr/share/cmake/Modules/Platform/UnixPaths.cmake:
+
+/usr/include/bits/signal_ext.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/dependent_type.hpp:
+
+/usr/include/bits/siginfo-consts.h:
 
 /usr/include/bits/sigaction.h:
 
@@ -6258,8 +6634,6 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/bits/getopt_core.h:
 
-/usr/include/bits/floatn.h:
-
 /usr/include/bits/floatn-common.h:
 
 /usr/include/bits/fcntl-linux.h:
@@ -6268,10 +6642,6 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake:
 
-/usr/include/bits/eventfd.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/execution_context.ipp:
-
 /usr/include/bits/environments.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.ui:
@@ -6279,12 +6649,6 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/resolve_endpoint_op.hpp:
 
 /usr/include/c++/15.1.1/bits/uses_allocator.h:
-
-/usr/include/bits/sockaddr.h:
-
-/usr/include/bits/endian.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/blocking.hpp:
 
 /usr/include/bits/cpu-set.h:
 
@@ -6302,8 +6666,6 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/qt/QtGui/qpolygon.h:
 
-/usr/include/bits/stdint-uintn.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_socket_accept_op.hpp:
 
 /usr/include/qt/QtGui/qtextformat.h:
@@ -6314,14 +6676,6 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/tss_ptr.hpp:
 
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp:
-
-/usr/include/asm-generic/ioctl.h:
-
-/usr/include/c++/15.1.1/tr1/beta_function.tcc:
-
-/usr/include/sys/uio.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/functional.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/throw_error.hpp:
@@ -6330,21 +6684,79 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/c++/15.1.1/bits/c++0x_warning.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactor.hpp:
+/usr/lib/crtn.o:
 
-/usr/include/asm-generic/errno-base.h:
+/usr/include/asm-generic/types.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/writable_pipe.hpp:
-
-/usr/lib/libc.so:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp:
-
-/usr/include/asm-generic/bitsperlong.h:
 
 /usr/include/arpa/inet.h:
 
 /usr/bin/cmake:
+
+/usr/include/bits/sigcontext.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/descriptor_read_op.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_read_buffered.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp:
+
+/usr/include/boost/uuid/detail/sha1.hpp:
+
+/usr/include/c++/15.1.1/bits/atomic_lockfree_defines.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/blocking.hpp:
+
+/usr/include/c++/15.1.1/compare:
+
+/usr/lib/libfreetype.so.6:
+
+/usr/include/qt/QtCore/qsize.h:
+
+/usr/include/bits/floatn.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp:
+
+/usr/include/sys/poll.h:
+
+/usr/include/bits/eventfd.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/execution_context.ipp:
+
+/usr/include/asm-generic/errno-base.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactor.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp:
+
+/usr/include/c++/15.1.1/bits/atomic_base.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp:
+
+/usr/include/stdc-predef.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/eventfd_select_interrupter.ipp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp:
+
+/usr/include/c++/15.1.1/bit:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp:
+
+/usr/include/bits/types/struct_tm.h:
+
+/usr/include/c++/15.1.1/streambuf:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h:
 
@@ -6352,9 +6764,9 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp:
 
-/usr/include/qt/QtCore/qlist.h:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp:
 
-/usr/include/bits/sigstksz.h:
+/usr/include/qt/QtCore/qlist.h:
 
 /usr/include/qt/QtWidgets/qdialogbuttonbox.h:
 
@@ -6368,27 +6780,25 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/object_handle.hpp:
 
+/usr/include/c++/15.1.1/iosfwd:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/basic_random_access_handle.hpp:
 
-/usr/lib/libpcre2-8.so.0:
+/usr/include/asm-generic/ioctl.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/version.hpp:
 
-/usr/include/bits/struct_mutex.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/file_base.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/use_awaitable.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/null_event.hpp:
 
-/usr/lib32/libpcre2-16.so.0:
+/usr/lib/libzstd.so.1:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/serial_port.hpp:
-
-/usr/include/bits/termios-baud.h:
-
-/usr/include/c++/15.1.1/bits/stl_bvector.h:
+/usr/include/bits/sched.h:
 
 /usr/include/bits/struct_rwlock.h:
 
@@ -6402,17 +6812,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/qt/QtCore/qlogging.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/connect_pipe.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/query_static_constexpr_member.hpp:
+
+/usr/include/c++/15.1.1/bits/nested_exception.h:
+
+/usr/include/qt/QtCore/qconfig.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/handler_continuation_hook.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/query_free.hpp:
-
-/usr/include/bits/types/__sigset_t.h:
-
-/usr/include/qt/QtCore/qnumeric.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/prefer_member.hpp:
 
@@ -6420,9 +6828,13 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake:
 
-/usr/lib/libQt5Gui.so.5.15.17:
+/usr/share/cmake/Modules/Linker/GNU.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/prefer_free.hpp:
 
 /usr/include/bits/ioctls.h:
+
+/usr/include/c++/15.1.1/tr1/bessel_function.tcc:
 
 /usr/include/asm-generic/sockios.h:
 
@@ -6442,6 +6854,10 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/bits/ioctl-types.h:
 
+/usr/include/asm-generic/bitsperlong.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/system_executor.hpp:
 
 /usr/include/c++/15.1.1/any:
@@ -6454,19 +6870,15 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/socket_base.hpp:
 
-/usr/lib32/libXau.so.6:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/wait_traits.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_serial_port_service.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/date_time_fwd.hpp:
 
-/usr/include/bits/signum-generic.h:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h:
-
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/serial_port_base.hpp:
 
@@ -6474,9 +6886,9 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/boost/uuid/random_generator.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/detail/impl/endpoint.ipp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/serial_port.hpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtendS.o:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/detail/impl/endpoint.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/scheduler.ipp:
 
@@ -6488,7 +6900,7 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/read_at.hpp:
 
-/usr/include/bits/stdio_lim.h:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/prefer.hpp:
 
@@ -6504,19 +6916,27 @@ CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o:
 
 /usr/include/bits/types/struct_sched_param.h:
 
+/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/packaged_task.hpp:
+
 /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp:
 
 /usr/include/qt/QtCore/qatomic.h:
 
-/home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/seq_packet_protocol.hpp:
+/usr/include/c++/15.1.1/bits/mask_array.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/detail/impl/endpoint.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/descriptor_write_op.hpp:
 
 /usr/include/c++/15.1.1/cstdint:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/detail/endpoint.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_write_buffered.hpp:
 
@@ -6526,19 +6946,11 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/udp.hpp:
 
-/usr/include/bits/types/__fpos64_t.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address_v6.hpp:
-
 /usr/include/asm-generic/ioctls.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/require_concept_member.hpp:
 
-/usr/lib/ld-linux-x86-64.so.2:
-
-/usr/include/bits/socket_type.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/descriptor_base.hpp:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp:
 
 /usr/include/asm-generic/int-ll64.h:
 
@@ -6558,10 +6970,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v6_range.hpp:
 
-/usr/include/bits/stdint-intn.h:
-
-/usr/include/c++/15.1.1/typeinfo:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address_v4.ipp:
 
 /usr/include/linux/errno.h:
@@ -6570,11 +6978,9 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address.ipp:
 
+/usr/include/c++/15.1.1/tr1/exp_integral.tcc:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/detail/socket_option.hpp:
-
-/usr/include/bits/termios-c_cflag.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/detail/impl/endpoint.ipp:
 
@@ -6586,8 +6992,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/bits/list.tcc:
 
-/usr/lib/libgcc_s.so.1:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/detail/endpoint.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/basic_resolver_query.hpp:
@@ -6596,21 +7000,37 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/bits/locale_classes.h:
 
+/usr/include/stdlib.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v4.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/io_service_strand.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/io_context.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/use_future.hpp:
 
-/usr/include/bits/wctype-wchar.h:
-
-/usr/include/c++/15.1.1/bits/stl_algo.h:
-
 /usr/include/bits/locale.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/thread_pool.ipp:
 
+/usr/include/sys/uio.h:
+
+/usr/include/c++/15.1.1/tr1/beta_function.tcc:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/require_concept.hpp:
+
+ByteCaveClient_autogen/EWIEGA46WW/moc_chatroomcreation.cpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp:
+
 /usr/include/boost/config/detail/select_stdlib_config.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/write.hpp:
+
+/usr/include/bits/termios-misc.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/strand_service.hpp:
 
@@ -6622,9 +7042,9 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/bits/sstream.tcc:
 
-/usr/include/bits/termios.h:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp:
 
-/usr/include/qt/QtGui/qfontmetrics.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/host_name.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/connect.hpp:
 
@@ -6642,10 +7062,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/ext/alloc_traits.h:
 
-/usr/include/c++/15.1.1/bits/locale_classes.tcc:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/as_tuple.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/prepend.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/high_resolution_timer.hpp:
@@ -6656,11 +7072,9 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/new:
 
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp:
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp:
 
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/seq_packet_protocol.hpp:
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/query.hpp:
 
@@ -6680,6 +7094,8 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/bits/basic_ios.tcc:
 
+/usr/include/qt/QtGui/qvalidator.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/memory.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/streambuf.hpp:
@@ -6687,6 +7103,8 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /usr/include/qt/QtCore/qvariant.h:
 
 /usr/include/c++/15.1.1/cctype:
+
+/usr/include/c++/15.1.1/iostream:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/global.hpp:
 
@@ -6696,25 +7114,15 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_executor_service.hpp:
 
-/usr/include/bits/types/struct_tm.h:
-
-/usr/include/c++/15.1.1/streambuf:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/write_at.hpp:
 
 /usr/include/bits/fcntl.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/fenced_block.hpp:
 
-/usr/lib32/libglib-2.0.so.0:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/signal_set.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/executor_function.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wait_handler.hpp:
 
 /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp:
 
@@ -6722,9 +7130,15 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/15.1.1/bits/stl_iterator_base_types.h:
 
+/usr/include/qt/QtWidgets/qslider.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/epoll_reactor.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/descriptor_ops.ipp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/associated_allocator.hpp:
 
@@ -6732,15 +7146,11 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/timer_scheduler_fwd.hpp:
 
-/usr/lib32/libbz2.so.1.0:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/deadline_timer_service.hpp:
 
 /usr/include/asm/unistd_64.h:
 
 /usr/include/qt/QtCore/qtypeinfo.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/eventfd_select_interrupter.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/bad_address_cast.hpp:
 
@@ -6751,10 +7161,6 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/allocator.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/conditionally_enabled_event.hpp:
-
-/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/cancellation_type.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/multiple_exceptions.hpp:
 
@@ -6796,15 +7202,11 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/base_from_cancellation_state.hpp:
 
-/usr/lib/libgraphite2.so.3:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/multicast.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_socket_connect_op.hpp:
 
 /usr/include/c++/15.1.1/bits/std_function.h:
-
-/usr/include/bits/timesize.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/op_queue.hpp:
 
@@ -6812,9 +7214,15 @@ ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/qt/QtCore/qhashfunctions.h:
 
-/usr/lib/libz.so.1:
+/usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/system_context.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_random_access_file.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/seq_packet_protocol.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp:
 
 /usr/include/c++/15.1.1/csignal:
 
@@ -6829,12 +7237,6 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/null_event.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/coroutine.hpp:
-
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake:
-
-/usr/include/c++/15.1.1/exception:
-
-/usr/include/bits/termios-c_oflag.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address_v4_iterator.hpp:
 
@@ -6880,6 +7282,10 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/cstddef.hpp:
 
+ByteCaveClient_autogen/include/ui_mainwindow.h:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_deadline_timer.hpp:
 
 /usr/include/c++/15.1.1/bits/std_mutex.h:
@@ -6898,15 +7304,19 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/composed_work.hpp:
 
+/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_serial_port_service.hpp:
+
+/usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake:
+
+/usr/include/bits/uio_lim.h:
+
 /usr/include/bits/libc-header-start.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/array_fwd.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/mapping.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_serial_port_service.hpp:
-
-/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake:
 
 /usr/include/asm/sockios.h:
 
@@ -6924,11 +7334,19 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/scheduler_thread_info.hpp:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/call_stack.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/buffered_stream_storage.hpp:
 
 /usr/include/boost/uuid/string_generator.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/seq_packet_protocol.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/base_from_completion_cond.hpp:
 
@@ -6942,6 +7360,14 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /usr/include/qt/QtCore/qrect.h:
 
+/usr/lib32/libicuuc.so.76:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/cancellation_type.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/as_tuple.hpp:
 
 /usr/include/qt/QtWidgets/qtabwidget.h:
@@ -6950,17 +7376,13 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_file.hpp:
 
-/usr/include/bits/termios-tcflow.h:
-
-/usr/include/asm/errno.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_mutex.ipp:
-
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_applicable_property.hpp:
 
 /usr/include/qt/QtCore/qline.h:
+
+/usr/include/c++/15.1.1/numbers:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/icmp.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_wait_op.hpp:
 
@@ -6972,17 +7394,13 @@ CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_serial_port.hpp:
 
-/usr/include/bits/termios-c_iflag.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/steady_timer.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/registered_buffer.hpp:
 
 .qtc/package-manager/auto-setup.cmake:
 
-CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_service.hpp:
+/usr/include/qt/QtWidgets/qtabbar.h:
 
 /usr/include/qt/QtGui/qicon.h:
 
@@ -7000,9 +7418,25 @@ CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
 
 /usr/include/bits/pthreadtypes-arch.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/descriptor_read_op.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/readable_pipe.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/is_read_buffered.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h:
+
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake:
+
+/usr/include/bits/signum-generic.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/posix/descriptor_base.hpp:
+
+/usr/include/bits/socket_type.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_service.hpp:
+
+CMakeFiles/4.0.3-dirty/CMakeSystem.cmake:
+
+/usr/include/bits/termios.h:
+
+/usr/include/qt/QtGui/qfontmetrics.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/chrono_time_traits.hpp:
 
@@ -7015,6 +7449,10 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_allocator.hpp:
 
 /usr/include/qt/QtWidgets/qdialog.h:
+
+/usr/share/cmake/Modules/GNUInstallDirs.cmake:
+
+/usr/include/asm/posix_types_64.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket.hpp:
 
@@ -7032,9 +7470,13 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/address.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_write_stream_fwd.hpp:
+/usr/lib/libgcc_s.so:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffers_iterator.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_write_stream_fwd.hpp:
 
 /usr/include/asm/posix_types.h:
 
@@ -7046,6 +7488,10 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/completion_handler.hpp:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/buffer_sequence_adapter.ipp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_seq_packet_socket.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read_until.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/completion_condition.hpp:
@@ -7053,8 +7499,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffer.hpp:
 
 /usr/include/bits/types/cookie_io_functions_t.h:
-
-/usr/lib32/libicui18n.so.76:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address.hpp:
 
@@ -7065,6 +7509,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/consuming_buffers.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/generic/datagram_protocol.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_signal_set.hpp:
 
@@ -7084,21 +7530,9 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/boost/uuid/detail/md5.hpp:
 
-/usr/include/bits/signum-arch.h:
-
-/usr/include/c++/15.1.1/bits/memoryfwd.h:
-
-/usr/include/bits/socket.h:
-
-/usr/include/bits/in.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_thread.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/relationship.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_seq_packet_socket.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/buffer_sequence_adapter.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/resolve_query_op.hpp:
 
@@ -7130,21 +7564,41 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/ostream_insert.h:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_executor.hpp:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/service_registry.ipp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_socket_iostream.hpp:
+
+/usr/lib32/libpcre2-8.so.0:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/read.hpp:
+
+/usr/include/boost/exception/exception.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/thread_pool.hpp:
 
 /usr/include/unistd.h:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/bind_immediate_executor.hpp:
+
+/usr/include/bits/mathcalls-macros.h:
+
+/usr/include/bits/fp-logb.h:
+
+/usr/include/bits/termios-struct.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/io_context.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/signal_set_service.ipp:
 
-/usr/include/c++/15.1.1/backward/binders.h:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_set_service.hpp:
 
-/usr/lib/libicui18n.so.76:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/prefer_only.hpp:
+
+/usr/include/bits/thread-shared-types.h:
+
+/usr/include/c++/15.1.1/backward/binders.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_streambuf_fwd.hpp:
 
@@ -7157,8 +7611,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/use_future.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/associator.hpp:
-
-/usr/lib/libQt5Core.so.5.15.17:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_read_stream.hpp:
 
@@ -7182,17 +7634,11 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/concurrency_hint.hpp:
 
-/home/v01d/dev/libs/include/json/include/nlohmann/json.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wrapped_handler.hpp:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wait_op.hpp:
 
 /usr/include/c++/15.1.1/bits/uses_allocator_args.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/connect_pipe.ipp:
-
-/usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/posix_static_mutex.hpp:
 
@@ -7208,11 +7654,13 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/linux/stddef.h:
 
-/usr/lib/libmvec.so.1:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/this_coro.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/socket_ops.ipp:
+
+/usr/share/cmake/Modules/Platform/Linux-GNU.cmake:
+
+/usr/include/c++/15.1.1/bits/stringfwd.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/strand_executor_service.ipp:
 
@@ -7240,9 +7688,15 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/socket_holder.hpp:
 
+/home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp:
+
 /usr/include/c++/15.1.1/condition_variable:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/io_object_impl.hpp:
+
+/usr/lib/libxcb.so.1:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/keyword_tss_ptr.hpp:
 
 /usr/include/qt/QtCore/qbytearraylist.h:
 
@@ -7252,11 +7706,17 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/executor.ipp:
 
+/usr/lib32/libbrotlicommon.so.1:
+
+/usr/include/c++/15.1.1/bits/specfun.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/operation.hpp:
 
 /usr/include/c++/15.1.1/array:
 
-/usr/lib32/libX11.so.6:
+/usr/lib/libbrotlidec.so.1:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/execution_context.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/equality_comparable.hpp:
 
@@ -7273,6 +7733,10 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/connect_pipe.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/blocking_adaptation.hpp:
+
+/usr/include/bits/in.h:
+
+/usr/include/bits/socket.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/initiate_defer.hpp:
 
@@ -7300,6 +7764,12 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/exception_defines.h:
 
+/usr/share/cmake/Modules/Platform/Linux.cmake:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/co_spawn.hpp:
+
+/usr/include/c++/15.1.1/bits/mofunc_impl.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/atomic_count.hpp:
 
 /usr/include/c++/15.1.1/memory:
@@ -7311,8 +7781,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_socket_service.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/outstanding_work.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/require_concept.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h:
 
@@ -7328,8 +7796,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/functional:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtbeginS.o:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/regex_fwd.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread_context.hpp:
@@ -7340,19 +7806,15 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/resolver_service.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution.hpp:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wrapped_handler.hpp:
 
-/usr/lib32/libXdmcp.so.6:
+/home/v01d/dev/libs/include/json/include/nlohmann/json.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution.hpp:
 
 /usr/include/qt/QtCore/qtimer.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/resolver_service_base.hpp:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read.hpp:
-
-/usr/include/bits/termios-c_lflag.h:
-
-/usr/include/boost/cstdint.hpp:
 
 /usr/include/qt/QtCore/qvarlengtharray.h:
 
@@ -7368,9 +7830,11 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/bits/posix_opt.h:
 
-/usr/lib/libbrotlicommon.so.1:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/signal_op.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/wait_handler.hpp:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/system_context.hpp:
 
@@ -7388,9 +7852,17 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/linux/version.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/host_name.hpp:
+/usr/lib/libpng16.so.16:
+
+/usr/include/qt/QtWidgets/qtwidgets-config.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_thread.ipp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp:
+
+/usr/include/bits/termios-c_cflag.h:
 
 /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/time_members.h:
 
@@ -7408,9 +7880,11 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/ios:
 
-/usr/include/c++/15.1.1/iterator:
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/connect_pipe.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffer_registration.hpp:
+/usr/include/c++/15.1.1/bits/memoryfwd.h:
+
+/usr/include/bits/signum-arch.h:
 
 /usr/include/bits/statx.h:
 
@@ -7454,6 +7928,10 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/pstl/execution_defs.h:
 
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/handler_cont_helpers.hpp:
+
+/usr/include/bits/sigstack.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/timer_scheduler.hpp:
 
 /usr/include/asm/types.h:
@@ -7468,11 +7946,7 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/stl_construct.h:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/basic_overlapped_handle.hpp:
-
-/usr/include/bits/time.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_file.hpp:
+/usr/include/c++/15.1.1/tr1/poly_laguerre.tcc:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/system_executor.hpp:
 
@@ -7481,6 +7955,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/utility.hpp:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/require_member.hpp:
+
+/usr/include/qt/QtCore/qitemselectionmodel.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/execution/executor.hpp:
 
@@ -7506,9 +7982,109 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/executor.hpp:
 
+/usr/include/bits/sigstksz.h:
+
+/usr/include/c++/15.1.1/iomanip:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/sockaddr.h:
+
+/usr/include/bits/ss_flags.h:
+
+/usr/include/bits/stat.h:
+
+/usr/include/bits/stdint-intn.h:
+
+/usr/include/c++/15.1.1/bits/stl_algo.h:
+
+/usr/include/bits/wctype-wchar.h:
+
+/usr/include/c++/15.1.1/typeinfo:
+
+/usr/include/bits/stdint-uintn.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/as_tuple.hpp:
+
+/usr/include/c++/15.1.1/bits/locale_classes.tcc:
+
+/usr/include/bits/stdio_lim.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/file_base.hpp:
+
+/usr/include/bits/struct_mutex.h:
+
 /usr/include/bits/struct_stat.h:
 
 /usr/include/c++/15.1.1/bits/ios_base.h:
+
+/usr/include/bits/termios-baud.h:
+
+/usr/include/c++/15.1.1/bits/stl_bvector.h:
+
+/usr/lib/libXdmcp.so.6:
+
+/usr/include/bits/termios-c_cc.h:
+
+/usr/include/bits/termios-c_iflag.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/read.hpp:
+
+/usr/include/boost/cstdint.hpp:
+
+/usr/include/bits/termios-c_lflag.h:
+
+/usr/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake:
+
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake:
+
+/usr/include/c++/15.1.1/exception:
+
+/usr/include/bits/termios-c_oflag.h:
+
+/usr/include/bits/termios-cbaud.h:
+
+/usr/include/sys/ttydefaults.h:
+
+/usr/include/asm/errno.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/posix_mutex.ipp:
+
+/usr/include/bits/termios-tcflow.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffer_registration.hpp:
+
+/usr/include/c++/15.1.1/iterator:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/windows/basic_overlapped_handle.hpp:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_stream_file.hpp:
+
+/usr/include/bits/time.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h:
+
+/usr/include/bits/timesize.h:
+
+/usr/include/bits/types.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/impl/address_v6.hpp:
+
+/usr/include/bits/types/__fpos64_t.h:
+
+/usr/include/qt/QtWidgets/QApplication:
+
+/usr/lib/libGLdispatch.so.0:
+
+/usr/include/bits/types/__locale_t.h:
+
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/qt/QtCore/qnumeric.h:
+
+/usr/include/bits/types/clock_t.h:
+
+/usr/include/qt/QtCore/qpair.h:
 
 /usr/include/bits/types/clockid_t.h:
 
@@ -7602,6 +8178,12 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/boost/assert/source_location.hpp:
 
+/usr/lib/libicudata.so.76:
+
+/usr/include/qt/QtCore/qatomic_cxx11.h:
+
+/usr/include/qt/QtWidgets/qlistwidget.h:
+
 /usr/include/boost/config/detail/select_compiler_config.hpp:
 
 /usr/include/boost/config/detail/select_platform_config.hpp:
@@ -7630,10 +8212,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/boost/uuid/detail/endian.hpp:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/traits/prefer_free.hpp:
-
-/usr/share/cmake/Modules/Linker/GNU.cmake:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/basic_waitable_timer.hpp:
 
 /usr/include/boost/uuid/detail/hash_mix.hpp:
@@ -7644,10 +8222,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/boost/uuid/detail/random_provider.hpp:
 
-/usr/include/boost/uuid/detail/sha1.hpp:
-
-/usr/include/c++/15.1.1/bits/atomic_lockfree_defines.h:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/signal_set_base.hpp:
 
 /usr/include/boost/uuid/detail/static_assert.hpp:
@@ -7657,10 +8231,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/string_view.hpp:
 
 /usr/include/boost/uuid/detail/uuid_x86.ipp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
-
-/usr/lib/libgcc_s.so:
 
 /usr/include/bits/sigthread.h:
 
@@ -7694,11 +8264,15 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/atomic:
 
+/usr/lib/libdouble-conversion.so.3:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h:
+
+/usr/include/c++/15.1.1/backward/auto_ptr.h:
+
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/write_at.hpp:
 
 /usr/include/c++/15.1.1/bits/istream.tcc:
-
-/usr/include/c++/15.1.1/bit:
 
 /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp:
 
@@ -7721,8 +8295,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/any_completion_executor.ipp:
 
 /usr/include/qt/QtCore/qmap.h:
-
-/usr/include/c++/15.1.1/bits/atomic_base.h:
 
 /usr/include/c++/15.1.1/bits/atomic_wait.h:
 
@@ -7782,9 +8354,13 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/functional_hash.h:
 
-/usr/include/c++/15.1.1/bits/invoke.h:
+/usr/include/c++/15.1.1/bits/gslice.h:
 
-/usr/lib32/libicudata.so.76:
+/usr/include/c++/15.1.1/bits/gslice_array.h:
+
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake:
+
+/usr/include/c++/15.1.1/bits/invoke.h:
 
 /usr/include/c++/15.1.1/bits/locale_conv.h:
 
@@ -7814,12 +8390,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/move_only_function.h:
 
-/usr/include/qt/QtCore/qconfig.h:
-
-/usr/include/c++/15.1.1/bits/nested_exception.h:
-
-/usr/include/stdc-predef.h:
-
 /usr/include/c++/15.1.1/type_traits:
 
 /usr/include/c++/15.1.1/bits/node_handle.h:
@@ -7829,6 +8399,10 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/c++/15.1.1/bits/out_ptr.h:
 
 /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
+
+/usr/include/c++/15.1.1/bits/quoted_string.h:
+
+/usr/include/c++/15.1.1/ctime:
 
 /usr/include/c++/15.1.1/bits/ranges_algobase.h:
 
@@ -7846,21 +8420,19 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h:
 
-/usr/lib32/libxcb.so.1:
+/usr/include/c++/15.1.1/bits/slice_array.h:
+
+/usr/include/c++/15.1.1/cmath:
 
 /usr/include/c++/15.1.1/bits/std_abs.h:
 
 /usr/include/c++/15.1.1/bits/stl_algobase.h:
-
-/usr/lib/libharfbuzz.so.0:
 
 /usr/share/cmake/Modules/CMakeCXXInformation.cmake:
 
 /usr/include/c++/15.1.1/bits/stl_function.h:
 
 /usr/include/c++/15.1.1/bits/stl_heap.h:
-
-/usr/lib/libc_nonshared.a:
 
 /usr/include/c++/15.1.1/bits/stl_multimap.h:
 
@@ -7902,8 +8474,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake:
 
-/usr/lib/libc.so.6:
-
 /usr/include/c++/15.1.1/bits/string_view.tcc:
 
 /usr/include/c++/15.1.1/bits/uniform_int_dist.h:
@@ -7911,6 +8481,18 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/mm_malloc.h:
 
 /usr/include/c++/15.1.1/bits/utility.h:
+
+/usr/include/c++/15.1.1/bits/indirect_array.h:
+
+/usr/include/c++/15.1.1/bits/valarray_after.h:
+
+/usr/include/c++/15.1.1/concepts:
+
+/usr/include/c++/15.1.1/bits/valarray_array.h:
+
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/thread_context.ipp:
+
+/usr/include/c++/15.1.1/ext/atomicity.h:
 
 /usr/include/c++/15.1.1/bits/vector.tcc:
 
@@ -7936,12 +8518,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/string:
 
-/usr/include/c++/15.1.1/compare:
-
-/usr/include/c++/15.1.1/concepts:
-
-/usr/include/c++/15.1.1/ctime:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp:
 
 /usr/include/c++/15.1.1/cwchar:
@@ -7950,9 +8526,9 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/sys/ioctl.h:
 
-/usr/include/c++/15.1.1/tr1/poly_hermite.tcc:
-
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/reactive_socket_recv_op.hpp:
+
+/usr/include/c++/15.1.1/tr1/poly_hermite.tcc:
 
 /usr/include/c++/15.1.1/debug/debug.h:
 
@@ -7961,10 +8537,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake:
 
 /usr/include/c++/15.1.1/ext/aligned_buffer.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/impl/thread_context.ipp:
-
-/usr/include/c++/15.1.1/ext/atomicity.h:
 
 /usr/include/qt/QtCore/qcoreapplication.h:
 
@@ -7982,19 +8554,11 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/c++/15.1.1/format:
 
-/usr/include/c++/15.1.1/iosfwd:
-
-/usr/lib/Scrt1.o:
-
 /usr/include/c++/15.1.1/limits:
 
 /usr/include/c++/15.1.1/map:
 
 /usr/include/qt/QtWidgets/QTextBrowser:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/ip/icmp.hpp:
-
-/usr/include/c++/15.1.1/numbers:
 
 /usr/include/c++/15.1.1/numeric:
 
@@ -8024,7 +8588,19 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/qt/QtGui/qtguiglobal.h:
 
-/usr/share/cmake/Modules/Platform/Linker/GNU.cmake:
+/usr/include/c++/15.1.1/tr1/ell_integral.tcc:
+
+/home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp:
+
+/usr/include/c++/15.1.1/tr1/gamma.tcc:
+
+/usr/include/c++/15.1.1/tr1/hypergeometric.tcc:
+
+/usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc:
+
+/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake:
+
+/usr/include/c++/15.1.1/tr1/riemann_zeta.tcc:
 
 /usr/include/bits/siginfo-arch.h:
 
@@ -8033,6 +8609,8 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/c++/15.1.1/vector:
 
 /usr/include/c++/15.1.1/typeindex:
+
+/usr/include/c++/15.1.1/valarray:
 
 /usr/include/qt/QtCore/qstringmatcher.h:
 
@@ -8069,8 +8647,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/c++/15.1.1/tr1/legendre_function.tcc:
 
 /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/messages_members.h:
-
-/usr/lib/libcap.so.2:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/recycling_allocator.hpp:
 
@@ -8128,6 +8704,12 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/sys/un.h:
 
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/libgcc.a:
+
+/usr/include/c++/15.1.1/bits/ranges_cmp.h:
+
+/usr/include/qt/QtCore/qchar.h:
+
 /usr/include/qt/QtCore/qcontainertools_impl.h:
 
 /usr/include/qt/QtCore/qflags.h:
@@ -8142,10 +8724,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/qt/QtCore/qiodevice.h:
 
-/usr/include/asm-generic/types.h:
-
-/usr/lib/crtn.o:
-
 /usr/include/qt/QtGui/qfontinfo.h:
 
 /usr/include/qt/QtCore/qiterator.h:
@@ -8157,8 +8735,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/qt/QtGui/qimage.h:
 
 /usr/include/qt/QtCore/qmetatype.h:
-
-/usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake:
 
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/buffered_stream_fwd.hpp:
 
@@ -8201,6 +8777,10 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/include/qt/QtGui/qtgui-config.h:
 
 /usr/include/qt/QtCore/qurl.h:
+
+/usr/share/cmake/Modules/Linker/GNU-CXX.cmake:
+
+/usr/include/qt/QtCore/qvector.h:
 
 /usr/include/bits/pthreadtypes.h:
 
@@ -8266,13 +8846,7 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/include/sys/cdefs.h:
 
-/usr/include/bits/sched.h:
-
-/usr/lib/libzstd.so.1:
-
 /usr/include/sys/eventfd.h:
-
-/usr/include/sys/poll.h:
 
 /usr/include/bits/types/__sigval_t.h:
 
@@ -8302,10 +8876,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/lib/cmake/Qt5/Qt5Config.cmake:
 
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/packaged_task.hpp:
-
-/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake:
-
 /usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake:
 
 /usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake:
@@ -8315,10 +8885,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake:
 
 /usr/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake:
-
-/usr/include/asm/posix_types_64.h:
-
-/usr/share/cmake/Modules/GNUInstallDirs.cmake:
 
 /usr/include/qt/QtCore/qtcore-config.h:
 
@@ -8331,8 +8897,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake:
-
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake:
 
 /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp:
 
@@ -8366,13 +8930,7 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake:
 
-/usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake:
-
 /usr/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/system_context.ipp:
-
-/usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/emmintrin.h:
 
@@ -8388,12 +8946,6 @@ ByteCaveClient_autogen/moc_predefs.h:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h:
 
-/usr/include/c++/15.1.1/backward/auto_ptr.h:
-
-/usr/lib/libdouble-conversion.so.3:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h:
-
 /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake:
 
 /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake:
@@ -8403,117 +8955,3 @@ ByteCaveClient_autogen/moc_predefs.h:
 /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
 
 /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake:
-
-/usr/include/bits/uio_lim.h:
-
-/usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake:
-
-/usr/include/qt/QtCore/qvector.h:
-
-/usr/share/cmake/Modules/Linker/GNU-CXX.cmake:
-
-/usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake:
-
-/usr/include/c++/15.1.1/bits/stringfwd.h:
-
-/usr/share/cmake/Modules/Platform/Linux-GNU.cmake:
-
-/usr/include/bits/stdlib-float.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/local/detail/endpoint.hpp:
-
-/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/co_spawn.hpp:
-
-/usr/include/c++/15.1.1/bits/mofunc_impl.h:
-
-/usr/share/cmake/Modules/Platform/Linux.cmake:
-
-/usr/include/qt/QtWidgets/qlineedit.h:
-
-/usr/include/bits/signal_ext.h:
-
-/usr/share/cmake/Modules/Platform/UnixPaths.cmake:
-
-/usr/lib/libm.so:
-
-/usr/lib/libstdc++.so:
-
-/usr/lib/libmd4c.so.0:
-
-/usr/include/c++/15.1.1/bits/ranges_cmp.h:
-
-/usr/include/qt/QtCore/qchar.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/libgcc.a:
-
-/usr/lib/libGL.so.1:
-
-/usr/lib/libGLX.so.0:
-
-/usr/include/qt/QtWidgets/QApplication:
-
-/usr/include/bits/types/__locale_t.h:
-
-/usr/lib/libGLdispatch.so.0:
-
-/usr/lib/libQt5Widgets.so.5.15.17:
-
-/usr/lib/libXau.so.6:
-
-/usr/include/bits/termios-c_cc.h:
-
-/usr/lib/libXdmcp.so.6:
-
-/usr/lib32/libGL.so.1:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/execution_context.hpp:
-
-/usr/lib/libbrotlidec.so.1:
-
-/usr/include/qt/QtCore/qsize.h:
-
-/usr/lib/libfreetype.so.6:
-
-/usr/lib/libglib-2.0.so.0:
-
-/usr/include/qt/QtCore/qatomic_cxx11.h:
-
-/usr/lib/libicudata.so.76:
-
-/usr/lib/libicuuc.so.76:
-
-/usr/include/qt/QtWidgets/qtwidgets-config.h:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/thread.hpp:
-
-/usr/lib/libpng16.so.16:
-
-/usr/lib/libsystemd.so.0:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/keyword_tss_ptr.hpp:
-
-/usr/lib/libxcb.so.1:
-
-/usr/lib32/libGLdispatch.so.0:
-
-/usr/include/c++/15.1.1/bits/specfun.h:
-
-/usr/lib32/libbrotlicommon.so.1:
-
-/usr/lib32/libbrotlidec.so.1:
-
-/usr/lib32/libcap.so.2:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp:
-
-/usr/lib32/libicuuc.so.76:
-
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/read.hpp:
-
-/usr/include/boost/exception/exception.hpp:
-
-/usr/lib32/libpcre2-8.so.0:
-
-/usr/lib32/libsystemd.so.0:

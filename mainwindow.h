@@ -10,6 +10,7 @@
 #include "chatroomcreation.h"
 #include <Chatroom.h>
 #include <nlohmann/json.hpp>
+#include <iostream>
 
 using namespace std;
 
@@ -27,15 +28,10 @@ public:
     MainWindow(QString username,QWidget *parent = nullptr);
     ~MainWindow();
 
-    // Method to set the UUID of the client
-    void setUUID(boost::uuids::uuid newUuid){
-        uuid = newUuid;
-    }
+    string activeChatroom {};
 
-    // Method to get the UUID of the client
-    boost::uuids::uuid getUUID(){
-        return uuid;
-    }
+    void changeActiveChatroom(QListWidgetItem *item);
+
 
 
 
@@ -44,8 +40,6 @@ private:
     ByteCaveClient *client = nullptr;
     void sendMessage();
     void showCreateChatroomDialog();
-    QString username;
 
-    boost::uuids::uuid uuid;
 };
 #endif // MAINWINDOW_H

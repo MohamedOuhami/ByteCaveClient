@@ -121,24 +121,10 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp -o CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.s
 
-CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: CMakeFiles/ByteCaveClient.dir/flags.make
-CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp
-CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: CMakeFiles/ByteCaveClient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o -MF CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o.d -o CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o -c /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp
-
-CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp > CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i
-
-CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp -o CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s
-
 CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: CMakeFiles/ByteCaveClient.dir/flags.make
 CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp
 CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o: CMakeFiles/ByteCaveClient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o -MF CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o.d -o CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o -c /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp
 
 CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.i: cmake_force
@@ -152,7 +138,7 @@ CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.s: cmake_force
 CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o: CMakeFiles/ByteCaveClient.dir/flags.make
 CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp
 CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o: CMakeFiles/ByteCaveClient.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o -MF CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o.d -o CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o -c /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp
 
 CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.i: cmake_force
@@ -163,14 +149,28 @@ CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.cpp -o CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.s
 
+CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: CMakeFiles/ByteCaveClient.dir/flags.make
+CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp
+CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o: CMakeFiles/ByteCaveClient.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o -MF CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o.d -o CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o -c /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp
+
+CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp > CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.i
+
+CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.cpp -o CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.s
+
 # Object files for target ByteCaveClient
 ByteCaveClient_OBJECTS = \
 "CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/ByteCaveClient.dir/main.cpp.o" \
 "CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o" \
-"CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o" \
 "CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o" \
-"CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o"
+"CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o" \
+"CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o"
 
 # External object files for target ByteCaveClient
 ByteCaveClient_EXTERNAL_OBJECTS =
@@ -178,9 +178,9 @@ ByteCaveClient_EXTERNAL_OBJECTS =
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/ByteCaveClient_autogen/mocs_compilation.cpp.o
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/main.cpp.o
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o
-ByteCaveClient: CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/hellowindow.cpp.o
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/chatroomcreation.cpp.o
+ByteCaveClient: CMakeFiles/ByteCaveClient.dir/services/bytecaveclient.cpp.o
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/build.make
 ByteCaveClient: CMakeFiles/ByteCaveClient.dir/compiler_depend.ts
 ByteCaveClient: /usr/lib/libQt5Widgets.so.5.15.17

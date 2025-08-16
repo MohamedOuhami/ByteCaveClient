@@ -17,7 +17,7 @@
    <widget class="QLabel" name="AppTitle">
     <property name="geometry">
      <rect>
-      <x>280</x>
+      <x>300</x>
       <y>10</y>
       <width>161</width>
       <height>41</height>
@@ -36,7 +36,7 @@
    <widget class="QPushButton" name="sendMessageBtn">
     <property name="geometry">
      <rect>
-      <x>460</x>
+      <x>480</x>
       <y>270</y>
       <width>81</width>
       <height>41</height>
@@ -49,7 +49,7 @@
    <widget class="QTextBrowser" name="chat">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>70</y>
       <width>391</width>
       <height>192</height>
@@ -59,7 +59,7 @@
    <widget class="QLineEdit" name="messageLE">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>270</y>
       <width>301</width>
       <height>41</height>
@@ -72,7 +72,7 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>580</x>
+      <x>590</x>
       <y>20</y>
       <width>131</width>
       <height>31</height>
@@ -85,7 +85,7 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>30</x>
       <y>20</y>
       <width>131</width>
       <height>31</height>
@@ -98,7 +98,7 @@
    <widget class="QLabel" name="usernameTag">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>170</x>
       <y>330</y>
       <width>161</width>
       <height>18</height>
@@ -111,7 +111,7 @@
    <widget class="QPushButton" name="createChatroomBtn">
     <property name="geometry">
      <rect>
-      <x>580</x>
+      <x>590</x>
       <y>60</y>
       <width>131</width>
       <height>26</height>
@@ -124,7 +124,7 @@
    <widget class="QPushButton" name="refreshChatroomsBtn">
     <property name="geometry">
      <rect>
-      <x>580</x>
+      <x>590</x>
       <y>90</y>
       <width>131</width>
       <height>26</height>
@@ -137,10 +137,20 @@
    <widget class="QListWidget" name="chatroomsList">
     <property name="geometry">
      <rect>
-      <x>580</x>
+      <x>590</x>
       <y>130</y>
       <width>131</width>
-      <height>192</height>
+      <height>221</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="usersList">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>70</y>
+      <width>131</width>
+      <height>281</height>
      </rect>
     </property>
    </widget>

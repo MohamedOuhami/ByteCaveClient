@@ -350,6 +350,48 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: \
  /usr/include/boost/uuid/time_generator_v1.hpp \
  /usr/include/boost/uuid/time_generator_v6.hpp \
  /usr/include/boost/uuid/time_generator_v7.hpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/include/ui_mainwindow.h \
+ /usr/include/qt/QtCore/QVariant /usr/include/qt/QtCore/qvariant.h \
+ /usr/include/qt/QtCore/qmap.h /usr/include/c++/15.1.1/variant \
+ /usr/include/c++/15.1.1/bits/monostate.h \
+ /usr/include/qt/QtWidgets/QApplication \
+ /usr/include/qt/QtWidgets/qapplication.h \
+ /usr/include/qt/QtCore/qcoreapplication.h \
+ /usr/include/qt/QtCore/qcoreevent.h /usr/include/qt/QtCore/qeventloop.h \
+ /usr/include/qt/QtGui/qguiapplication.h \
+ /usr/include/qt/QtGui/qinputmethod.h /usr/include/qt/QtCore/qlocale.h \
+ /usr/include/qt/QtCore/qvariant.h /usr/include/qt/QtWidgets/QLabel \
+ /usr/include/qt/QtWidgets/qlabel.h /usr/include/qt/QtWidgets/qframe.h \
+ /usr/include/qt/QtWidgets/QLineEdit \
+ /usr/include/qt/QtWidgets/qlineedit.h \
+ /usr/include/qt/QtGui/qtextcursor.h /usr/include/qt/QtGui/qtextformat.h \
+ /usr/include/qt/QtGui/qpen.h /usr/include/qt/QtGui/qtextoption.h \
+ /usr/include/qt/QtWidgets/QListWidget \
+ /usr/include/qt/QtWidgets/qlistwidget.h \
+ /usr/include/qt/QtWidgets/qlistview.h \
+ /usr/include/qt/QtWidgets/qabstractitemview.h \
+ /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+ /usr/include/qt/QtCore/qabstractitemmodel.h \
+ /usr/include/qt/QtCore/qitemselectionmodel.h \
+ /usr/include/qt/QtCore/qset.h \
+ /usr/include/qt/QtWidgets/qabstractitemdelegate.h \
+ /usr/include/qt/QtWidgets/qstyleoption.h \
+ /usr/include/qt/QtWidgets/qabstractspinbox.h \
+ /usr/include/qt/QtGui/qvalidator.h \
+ /usr/include/qt/QtCore/qregularexpression.h \
+ /usr/include/qt/QtWidgets/qslider.h \
+ /usr/include/qt/QtWidgets/qabstractslider.h \
+ /usr/include/qt/QtWidgets/qstyle.h /usr/include/qt/QtWidgets/qtabbar.h \
+ /usr/include/qt/QtWidgets/qrubberband.h \
+ /usr/include/qt/QtWidgets/QMainWindow \
+ /usr/include/qt/QtWidgets/QPushButton \
+ /usr/include/qt/QtWidgets/qpushbutton.h \
+ /usr/include/qt/QtWidgets/qabstractbutton.h \
+ /usr/include/qt/QtWidgets/QTextBrowser \
+ /usr/include/qt/QtWidgets/qtextbrowser.h \
+ /usr/include/qt/QtWidgets/qtextedit.h \
+ /usr/include/qt/QtGui/qtextdocument.h /usr/include/qt/QtCore/qurl.h \
+ /usr/include/qt/QtWidgets/QWidget /usr/include/qt/QtWidgets/qwidget.h \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/detail/config.hpp \
@@ -924,36 +966,6 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/write_at.hpp \
  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/impl/write_at.hpp \
  /usr/include/qt/QtWidgets/QTextBrowser \
- /usr/include/qt/QtWidgets/qtextbrowser.h \
- /usr/include/qt/QtWidgets/qtextedit.h \
- /usr/include/qt/QtWidgets/qabstractscrollarea.h \
- /usr/include/qt/QtWidgets/qframe.h /usr/include/qt/QtGui/qtextdocument.h \
- /usr/include/qt/QtCore/qvariant.h /usr/include/qt/QtCore/qmap.h \
- /usr/include/c++/15.1.1/variant /usr/include/c++/15.1.1/bits/monostate.h \
- /usr/include/qt/QtCore/qurl.h /usr/include/qt/QtGui/qtextoption.h \
- /usr/include/qt/QtGui/qtextcursor.h /usr/include/qt/QtGui/qtextformat.h \
- /usr/include/qt/QtGui/qpen.h \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/include/./ui_mainwindow.h \
- /usr/include/qt/QtCore/QVariant /usr/include/qt/QtCore/qvariant.h \
- /usr/include/qt/QtWidgets/QApplication \
- /usr/include/qt/QtWidgets/qapplication.h \
- /usr/include/qt/QtCore/qcoreapplication.h \
- /usr/include/qt/QtCore/qcoreevent.h /usr/include/qt/QtCore/qeventloop.h \
- /usr/include/qt/QtGui/qguiapplication.h \
- /usr/include/qt/QtGui/qinputmethod.h /usr/include/qt/QtCore/qlocale.h \
- /usr/include/qt/QtWidgets/QLabel /usr/include/qt/QtWidgets/qlabel.h \
- /usr/include/qt/QtWidgets/QLineEdit \
- /usr/include/qt/QtWidgets/qlineedit.h \
- /usr/include/qt/QtWidgets/QMainWindow \
- /usr/include/qt/QtWidgets/QPushButton \
- /usr/include/qt/QtWidgets/qpushbutton.h \
- /usr/include/qt/QtWidgets/qabstractbutton.h \
- /usr/include/qt/QtWidgets/QTextBrowser /usr/include/qt/QtWidgets/QWidget \
- /usr/include/qt/QtWidgets/qwidget.h /usr/include/qt/QtCore/qtimer.h \
- /usr/include/qt/QtCore/qbasictimer.h \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
- /usr/include/qt/QtWidgets/QDialog /usr/include/qt/QtWidgets/qdialog.h \
- /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
@@ -1017,4 +1029,10 @@ CMakeFiles/ByteCaveClient.dir/mainwindow.cpp.o: \
  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
- /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
+ /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/include/./ui_mainwindow.h \
+ /usr/include/qt/QtCore/qtimer.h /usr/include/qt/QtCore/qbasictimer.h \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
+ /usr/include/qt/QtWidgets/QDialog /usr/include/qt/QtWidgets/qdialog.h \
+ /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
+ /usr/include/c++/15.1.1/iostream

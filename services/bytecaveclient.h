@@ -9,10 +9,11 @@
 #include <boost/uuid.hpp>
 #include <asio.hpp>
 #include <string>
-
+#include <nlohmann/json.hpp>
 
 using namespace std;
 using asio::ip::tcp;
+using json = nlohmann::json;
 
 // we need our Client to inherit from QObject which is the base for all the QT objects, and It gives us the opportunity to integrate with QT
 class ByteCaveClient : public QObject, public IByteCaveClient
@@ -29,24 +30,30 @@ class ByteCaveClient : public QObject, public IByteCaveClient
 
 public:
     // Constructor
-    ByteCaveClient(const string &host,const string &port,QTextBrowser *chatTB,QObject *parent = nullptr,const string username = "");
+    ByteCaveClient(const string &host,const string &port,QTextBrowser *chatTB,QObject *parent = nullptr);
 
     // Method to send message to server
     void sendMessage(const string &command,const string &data) override;
 
-    // Method to read the messages in a loop
-    void readMessagesLoop() override;
+    void sendMessage(const string &data);
 
-    // Method to read the UUID
-    boost::uuids::uuid readUUID() override;
+    // Method to read the messages in a loop
+    void readMessagesLoop(Ui::MainWindow ui) override;
 
     void pollContext();
 
-private:
+    QString username;
+
+    boost::uuids::uuid uuid;
+
     QTextBrowser chatTB;
+
+private:
+
     asio::io_context io_context;
     tcp::resolver resolver;
     tcp::socket socket;
+
 };
 
 #endif // BYTECAVECLIENT_H

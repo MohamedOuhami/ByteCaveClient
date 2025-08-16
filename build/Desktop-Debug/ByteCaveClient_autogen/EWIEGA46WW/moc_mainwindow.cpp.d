@@ -1,5 +1,6 @@
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/moc_predefs.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp \
@@ -416,6 +417,53 @@
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/write_at.hpp \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h \
   /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h \
+  /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h \
+  /home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp \
+  /home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/arpa/inet.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \
@@ -637,7 +685,10 @@
   /usr/include/c++/15.1.1/bits/formatfwd.h \
   /usr/include/c++/15.1.1/bits/functexcept.h \
   /usr/include/c++/15.1.1/bits/functional_hash.h \
+  /usr/include/c++/15.1.1/bits/gslice.h \
+  /usr/include/c++/15.1.1/bits/gslice_array.h \
   /usr/include/c++/15.1.1/bits/hash_bytes.h \
+  /usr/include/c++/15.1.1/bits/indirect_array.h \
   /usr/include/c++/15.1.1/bits/invoke.h \
   /usr/include/c++/15.1.1/bits/ios_base.h \
   /usr/include/c++/15.1.1/bits/istream.tcc \
@@ -651,6 +702,7 @@
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.h \
   /usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/15.1.1/bits/localefwd.h \
+  /usr/include/c++/15.1.1/bits/mask_array.h \
   /usr/include/c++/15.1.1/bits/max_size_type.h \
   /usr/include/c++/15.1.1/bits/memory_resource.h \
   /usr/include/c++/15.1.1/bits/memoryfwd.h \
@@ -668,6 +720,7 @@
   /usr/include/c++/15.1.1/bits/postypes.h \
   /usr/include/c++/15.1.1/bits/predefined_ops.h \
   /usr/include/c++/15.1.1/bits/ptr_traits.h \
+  /usr/include/c++/15.1.1/bits/quoted_string.h \
   /usr/include/c++/15.1.1/bits/range_access.h \
   /usr/include/c++/15.1.1/bits/ranges_algo.h \
   /usr/include/c++/15.1.1/bits/ranges_algobase.h \
@@ -681,6 +734,8 @@
   /usr/include/c++/15.1.1/bits/shared_ptr.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/15.1.1/bits/shared_ptr_base.h \
+  /usr/include/c++/15.1.1/bits/slice_array.h \
+  /usr/include/c++/15.1.1/bits/specfun.h \
   /usr/include/c++/15.1.1/bits/sstream.tcc \
   /usr/include/c++/15.1.1/bits/std_abs.h \
   /usr/include/c++/15.1.1/bits/std_function.h \
@@ -715,6 +770,10 @@
   /usr/include/c++/15.1.1/bits/uses_allocator.h \
   /usr/include/c++/15.1.1/bits/uses_allocator_args.h \
   /usr/include/c++/15.1.1/bits/utility.h \
+  /usr/include/c++/15.1.1/bits/valarray_after.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.h \
+  /usr/include/c++/15.1.1/bits/valarray_array.tcc \
+  /usr/include/c++/15.1.1/bits/valarray_before.h \
   /usr/include/c++/15.1.1/bits/vector.tcc \
   /usr/include/c++/15.1.1/bits/version.h \
   /usr/include/c++/15.1.1/cassert \
@@ -724,6 +783,7 @@
   /usr/include/c++/15.1.1/chrono \
   /usr/include/c++/15.1.1/climits \
   /usr/include/c++/15.1.1/clocale \
+  /usr/include/c++/15.1.1/cmath \
   /usr/include/c++/15.1.1/compare \
   /usr/include/c++/15.1.1/concepts \
   /usr/include/c++/15.1.1/csignal \
@@ -746,11 +806,14 @@
   /usr/include/c++/15.1.1/ext/string_conversions.h \
   /usr/include/c++/15.1.1/ext/type_traits.h \
   /usr/include/c++/15.1.1/format \
+  /usr/include/c++/15.1.1/forward_list \
   /usr/include/c++/15.1.1/functional \
   /usr/include/c++/15.1.1/future \
   /usr/include/c++/15.1.1/initializer_list \
+  /usr/include/c++/15.1.1/iomanip \
   /usr/include/c++/15.1.1/ios \
   /usr/include/c++/15.1.1/iosfwd \
+  /usr/include/c++/15.1.1/iostream \
   /usr/include/c++/15.1.1/istream \
   /usr/include/c++/15.1.1/iterator \
   /usr/include/c++/15.1.1/limits \
@@ -775,12 +838,25 @@
   /usr/include/c++/15.1.1/string_view \
   /usr/include/c++/15.1.1/system_error \
   /usr/include/c++/15.1.1/text_encoding \
+  /usr/include/c++/15.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/15.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/15.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/15.1.1/tr1/gamma.tcc \
+  /usr/include/c++/15.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/15.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/15.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/15.1.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/15.1.1/tr1/special_function_util.h \
   /usr/include/c++/15.1.1/tuple \
   /usr/include/c++/15.1.1/type_traits \
   /usr/include/c++/15.1.1/typeindex \
   /usr/include/c++/15.1.1/typeinfo \
   /usr/include/c++/15.1.1/unordered_map \
   /usr/include/c++/15.1.1/utility \
+  /usr/include/c++/15.1.1/valarray \
   /usr/include/c++/15.1.1/vector \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
@@ -824,6 +900,7 @@
   /usr/include/qt/QtCore/qatomic.h \
   /usr/include/qt/QtCore/qatomic_cxx11.h \
   /usr/include/qt/QtCore/qbasicatomic.h \
+  /usr/include/qt/QtCore/qbasictimer.h \
   /usr/include/qt/QtCore/qbytearray.h \
   /usr/include/qt/QtCore/qbytearraylist.h \
   /usr/include/qt/QtCore/qchar.h \
@@ -872,6 +949,7 @@
   /usr/include/qt/QtCore/qsysinfo.h \
   /usr/include/qt/QtCore/qsystemdetection.h \
   /usr/include/qt/QtCore/qtcore-config.h \
+  /usr/include/qt/QtCore/qtimer.h \
   /usr/include/qt/QtCore/qtypeinfo.h \
   /usr/include/qt/QtCore/qurl.h \
   /usr/include/qt/QtCore/qvariant.h \
@@ -905,9 +983,11 @@
   /usr/include/qt/QtGui/qtguiglobal.h \
   /usr/include/qt/QtGui/qtransform.h \
   /usr/include/qt/QtGui/qwindowdefs.h \
+  /usr/include/qt/QtWidgets/QDialog \
   /usr/include/qt/QtWidgets/QMainWindow \
   /usr/include/qt/QtWidgets/QTextBrowser \
   /usr/include/qt/QtWidgets/qabstractscrollarea.h \
+  /usr/include/qt/QtWidgets/qdialog.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \

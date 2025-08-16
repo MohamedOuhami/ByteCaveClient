@@ -105,12 +105,6 @@
 			null
 		],
 		[
-			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h",
-			"MU",
-			"5Z5WMX6UGY/moc_IByteCaveClient.cpp",
-			null
-		],
-		[
 			"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -146,6 +140,7 @@
 		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces",
 		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services",
 		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs",
+		"/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/Forms",
 		"/home/v01d/dev/libs/include/json/include",
 		"/usr/include/qt",
 		"/usr/include/qt/QtWidgets",

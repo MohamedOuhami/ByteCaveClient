@@ -349,6 +349,7 @@
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.h
  mmc:Q_OBJECT
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/moc_predefs.h
+ mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/chatroomcreation.h
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio.hpp
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_executor.hpp
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/any_completion_handler.hpp
@@ -766,6 +767,53 @@
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.h
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h
+ mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/structs/Chatroom.h
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/json.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
  mdp:/usr/include/arpa/inet.h
  mdp:/usr/include/asm-generic/bitsperlong.h
  mdp:/usr/include/asm-generic/errno-base.h
@@ -987,7 +1035,10 @@
  mdp:/usr/include/c++/15.1.1/bits/formatfwd.h
  mdp:/usr/include/c++/15.1.1/bits/functexcept.h
  mdp:/usr/include/c++/15.1.1/bits/functional_hash.h
+ mdp:/usr/include/c++/15.1.1/bits/gslice.h
+ mdp:/usr/include/c++/15.1.1/bits/gslice_array.h
  mdp:/usr/include/c++/15.1.1/bits/hash_bytes.h
+ mdp:/usr/include/c++/15.1.1/bits/indirect_array.h
  mdp:/usr/include/c++/15.1.1/bits/invoke.h
  mdp:/usr/include/c++/15.1.1/bits/ios_base.h
  mdp:/usr/include/c++/15.1.1/bits/istream.tcc
@@ -1001,6 +1052,7 @@
  mdp:/usr/include/c++/15.1.1/bits/locale_facets_nonio.h
  mdp:/usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  mdp:/usr/include/c++/15.1.1/bits/localefwd.h
+ mdp:/usr/include/c++/15.1.1/bits/mask_array.h
  mdp:/usr/include/c++/15.1.1/bits/max_size_type.h
  mdp:/usr/include/c++/15.1.1/bits/memory_resource.h
  mdp:/usr/include/c++/15.1.1/bits/memoryfwd.h
@@ -1018,6 +1070,7 @@
  mdp:/usr/include/c++/15.1.1/bits/postypes.h
  mdp:/usr/include/c++/15.1.1/bits/predefined_ops.h
  mdp:/usr/include/c++/15.1.1/bits/ptr_traits.h
+ mdp:/usr/include/c++/15.1.1/bits/quoted_string.h
  mdp:/usr/include/c++/15.1.1/bits/range_access.h
  mdp:/usr/include/c++/15.1.1/bits/ranges_algo.h
  mdp:/usr/include/c++/15.1.1/bits/ranges_algobase.h
@@ -1031,6 +1084,8 @@
  mdp:/usr/include/c++/15.1.1/bits/shared_ptr.h
  mdp:/usr/include/c++/15.1.1/bits/shared_ptr_atomic.h
  mdp:/usr/include/c++/15.1.1/bits/shared_ptr_base.h
+ mdp:/usr/include/c++/15.1.1/bits/slice_array.h
+ mdp:/usr/include/c++/15.1.1/bits/specfun.h
  mdp:/usr/include/c++/15.1.1/bits/sstream.tcc
  mdp:/usr/include/c++/15.1.1/bits/std_abs.h
  mdp:/usr/include/c++/15.1.1/bits/std_function.h
@@ -1065,6 +1120,10 @@
  mdp:/usr/include/c++/15.1.1/bits/uses_allocator.h
  mdp:/usr/include/c++/15.1.1/bits/uses_allocator_args.h
  mdp:/usr/include/c++/15.1.1/bits/utility.h
+ mdp:/usr/include/c++/15.1.1/bits/valarray_after.h
+ mdp:/usr/include/c++/15.1.1/bits/valarray_array.h
+ mdp:/usr/include/c++/15.1.1/bits/valarray_array.tcc
+ mdp:/usr/include/c++/15.1.1/bits/valarray_before.h
  mdp:/usr/include/c++/15.1.1/bits/vector.tcc
  mdp:/usr/include/c++/15.1.1/bits/version.h
  mdp:/usr/include/c++/15.1.1/cassert
@@ -1074,6 +1133,7 @@
  mdp:/usr/include/c++/15.1.1/chrono
  mdp:/usr/include/c++/15.1.1/climits
  mdp:/usr/include/c++/15.1.1/clocale
+ mdp:/usr/include/c++/15.1.1/cmath
  mdp:/usr/include/c++/15.1.1/compare
  mdp:/usr/include/c++/15.1.1/concepts
  mdp:/usr/include/c++/15.1.1/csignal
@@ -1096,11 +1156,14 @@
  mdp:/usr/include/c++/15.1.1/ext/string_conversions.h
  mdp:/usr/include/c++/15.1.1/ext/type_traits.h
  mdp:/usr/include/c++/15.1.1/format
+ mdp:/usr/include/c++/15.1.1/forward_list
  mdp:/usr/include/c++/15.1.1/functional
  mdp:/usr/include/c++/15.1.1/future
  mdp:/usr/include/c++/15.1.1/initializer_list
+ mdp:/usr/include/c++/15.1.1/iomanip
  mdp:/usr/include/c++/15.1.1/ios
  mdp:/usr/include/c++/15.1.1/iosfwd
+ mdp:/usr/include/c++/15.1.1/iostream
  mdp:/usr/include/c++/15.1.1/istream
  mdp:/usr/include/c++/15.1.1/iterator
  mdp:/usr/include/c++/15.1.1/limits
@@ -1125,12 +1188,25 @@
  mdp:/usr/include/c++/15.1.1/string_view
  mdp:/usr/include/c++/15.1.1/system_error
  mdp:/usr/include/c++/15.1.1/text_encoding
+ mdp:/usr/include/c++/15.1.1/tr1/bessel_function.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/beta_function.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/ell_integral.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/exp_integral.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/gamma.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/hypergeometric.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/legendre_function.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/poly_hermite.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/poly_laguerre.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/riemann_zeta.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/special_function_util.h
  mdp:/usr/include/c++/15.1.1/tuple
  mdp:/usr/include/c++/15.1.1/type_traits
  mdp:/usr/include/c++/15.1.1/typeindex
  mdp:/usr/include/c++/15.1.1/typeinfo
  mdp:/usr/include/c++/15.1.1/unordered_map
  mdp:/usr/include/c++/15.1.1/utility
+ mdp:/usr/include/c++/15.1.1/valarray
  mdp:/usr/include/c++/15.1.1/vector
  mdp:/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h
  mdp:/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h
@@ -1174,6 +1250,7 @@
  mdp:/usr/include/qt/QtCore/qatomic.h
  mdp:/usr/include/qt/QtCore/qatomic_cxx11.h
  mdp:/usr/include/qt/QtCore/qbasicatomic.h
+ mdp:/usr/include/qt/QtCore/qbasictimer.h
  mdp:/usr/include/qt/QtCore/qbytearray.h
  mdp:/usr/include/qt/QtCore/qbytearraylist.h
  mdp:/usr/include/qt/QtCore/qchar.h
@@ -1222,6 +1299,7 @@
  mdp:/usr/include/qt/QtCore/qsysinfo.h
  mdp:/usr/include/qt/QtCore/qsystemdetection.h
  mdp:/usr/include/qt/QtCore/qtcore-config.h
+ mdp:/usr/include/qt/QtCore/qtimer.h
  mdp:/usr/include/qt/QtCore/qtypeinfo.h
  mdp:/usr/include/qt/QtCore/qurl.h
  mdp:/usr/include/qt/QtCore/qvariant.h
@@ -1255,9 +1333,11 @@
  mdp:/usr/include/qt/QtGui/qtguiglobal.h
  mdp:/usr/include/qt/QtGui/qtransform.h
  mdp:/usr/include/qt/QtGui/qwindowdefs.h
+ mdp:/usr/include/qt/QtWidgets/QDialog
  mdp:/usr/include/qt/QtWidgets/QMainWindow
  mdp:/usr/include/qt/QtWidgets/QTextBrowser
  mdp:/usr/include/qt/QtWidgets/qabstractscrollarea.h
+ mdp:/usr/include/qt/QtWidgets/qdialog.h
  mdp:/usr/include/qt/QtWidgets/qframe.h
  mdp:/usr/include/qt/QtWidgets/qmainwindow.h
  mdp:/usr/include/qt/QtWidgets/qsizepolicy.h
@@ -1304,8 +1384,8 @@
  mdp:/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
  mdp:/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h
  mdp:/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/xmmintrin.h
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp
  uic:./ui_mainwindow.h
+/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/mainwindow.cpp
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.h
  mmc:Q_OBJECT
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/moc_predefs.h
@@ -1658,7 +1738,6 @@
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/hellowindow.cpp
  uic:ui_hellowindow.h
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/main.cpp
-/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h
 /home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h
  mmc:Q_OBJECT
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/build/Desktop-Debug/ByteCaveClient_autogen/moc_predefs.h
@@ -2078,6 +2157,52 @@
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/include/asio/asio/write_at.hpp
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/interfaces/IByteCaveClient.h
  mdp:/home/v01d/Documents/Programming/PersonalProjects/ByteCaveClient/services/bytecaveclient.h
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/adl_serializer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/byte_container_with_subtype.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/abi_macros.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/from_json.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_chars.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/conversions/to_json.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/exceptions.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/hash.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/binary_reader.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/input_adapters.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/json_sax.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/lexer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/parser.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/input/position_t.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/internal_iterator.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iter_impl.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iteration_proxy.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/iterator_traits.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/json_reverse_iterator.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/iterators/primitive_iterator.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_custom_base_class.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_pointer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/json_ref.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_scope.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/macro_unscope.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/begin.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/call_std/end.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/cpp_future.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/detected.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/identity_tag.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/is_sax.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/std_fs.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/type_traits.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/meta/void_t.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/binary_writer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/output_adapters.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/output/serializer.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_concat.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_escape.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/string_utils.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/detail/value_t.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/json.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/json_fwd.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/ordered_map.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley.hpp
+ mdp:/home/v01d/dev/libs/include/json/include/nlohmann/thirdparty/hedley/hedley_undef.hpp
  mdp:/usr/include/arpa/inet.h
  mdp:/usr/include/asm-generic/bitsperlong.h
  mdp:/usr/include/asm-generic/errno-base.h
@@ -2299,7 +2424,10 @@
  mdp:/usr/include/c++/15.1.1/bits/formatfwd.h
  mdp:/usr/include/c++/15.1.1/bits/functexcept.h
  mdp:/usr/include/c++/15.1.1/bits/functional_hash.h
+ mdp:/usr/include/c++/15.1.1/bits/gslice.h
+ mdp:/usr/include/c++/15.1.1/bits/gslice_array.h
  mdp:/usr/include/c++/15.1.1/bits/hash_bytes.h
+ mdp:/usr/include/c++/15.1.1/bits/indirect_array.h
  mdp:/usr/include/c++/15.1.1/bits/invoke.h
  mdp:/usr/include/c++/15.1.1/bits/ios_base.h
  mdp:/usr/include/c++/15.1.1/bits/istream.tcc
@@ -2313,6 +2441,7 @@
  mdp:/usr/include/c++/15.1.1/bits/locale_facets_nonio.h
  mdp:/usr/include/c++/15.1.1/bits/locale_facets_nonio.tcc
  mdp:/usr/include/c++/15.1.1/bits/localefwd.h
+ mdp:/usr/include/c++/15.1.1/bits/mask_array.h
  mdp:/usr/include/c++/15.1.1/bits/max_size_type.h
  mdp:/usr/include/c++/15.1.1/bits/memory_resource.h
  mdp:/usr/include/c++/15.1.1/bits/memoryfwd.h
@@ -2330,6 +2459,7 @@
  mdp:/usr/include/c++/15.1.1/bits/postypes.h
  mdp:/usr/include/c++/15.1.1/bits/predefined_ops.h
  mdp:/usr/include/c++/15.1.1/bits/ptr_traits.h
+ mdp:/usr/include/c++/15.1.1/bits/quoted_string.h
  mdp:/usr/include/c++/15.1.1/bits/range_access.h
  mdp:/usr/include/c++/15.1.1/bits/ranges_algo.h
  mdp:/usr/include/c++/15.1.1/bits/ranges_algobase.h
@@ -2343,6 +2473,8 @@
  mdp:/usr/include/c++/15.1.1/bits/shared_ptr.h
  mdp:/usr/include/c++/15.1.1/bits/shared_ptr_atomic.h
  mdp:/usr/include/c++/15.1.1/bits/shared_ptr_base.h
+ mdp:/usr/include/c++/15.1.1/bits/slice_array.h
+ mdp:/usr/include/c++/15.1.1/bits/specfun.h
  mdp:/usr/include/c++/15.1.1/bits/sstream.tcc
  mdp:/usr/include/c++/15.1.1/bits/std_abs.h
  mdp:/usr/include/c++/15.1.1/bits/std_function.h
@@ -2377,6 +2509,10 @@
  mdp:/usr/include/c++/15.1.1/bits/uses_allocator.h
  mdp:/usr/include/c++/15.1.1/bits/uses_allocator_args.h
  mdp:/usr/include/c++/15.1.1/bits/utility.h
+ mdp:/usr/include/c++/15.1.1/bits/valarray_after.h
+ mdp:/usr/include/c++/15.1.1/bits/valarray_array.h
+ mdp:/usr/include/c++/15.1.1/bits/valarray_array.tcc
+ mdp:/usr/include/c++/15.1.1/bits/valarray_before.h
  mdp:/usr/include/c++/15.1.1/bits/vector.tcc
  mdp:/usr/include/c++/15.1.1/bits/version.h
  mdp:/usr/include/c++/15.1.1/cassert
@@ -2386,6 +2522,7 @@
  mdp:/usr/include/c++/15.1.1/chrono
  mdp:/usr/include/c++/15.1.1/climits
  mdp:/usr/include/c++/15.1.1/clocale
+ mdp:/usr/include/c++/15.1.1/cmath
  mdp:/usr/include/c++/15.1.1/compare
  mdp:/usr/include/c++/15.1.1/concepts
  mdp:/usr/include/c++/15.1.1/csignal
@@ -2408,9 +2545,11 @@
  mdp:/usr/include/c++/15.1.1/ext/string_conversions.h
  mdp:/usr/include/c++/15.1.1/ext/type_traits.h
  mdp:/usr/include/c++/15.1.1/format
+ mdp:/usr/include/c++/15.1.1/forward_list
  mdp:/usr/include/c++/15.1.1/functional
  mdp:/usr/include/c++/15.1.1/future
  mdp:/usr/include/c++/15.1.1/initializer_list
+ mdp:/usr/include/c++/15.1.1/iomanip
  mdp:/usr/include/c++/15.1.1/ios
  mdp:/usr/include/c++/15.1.1/iosfwd
  mdp:/usr/include/c++/15.1.1/istream
@@ -2437,12 +2576,25 @@
  mdp:/usr/include/c++/15.1.1/string_view
  mdp:/usr/include/c++/15.1.1/system_error
  mdp:/usr/include/c++/15.1.1/text_encoding
+ mdp:/usr/include/c++/15.1.1/tr1/bessel_function.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/beta_function.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/ell_integral.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/exp_integral.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/gamma.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/hypergeometric.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/legendre_function.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/modified_bessel_func.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/poly_hermite.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/poly_laguerre.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/riemann_zeta.tcc
+ mdp:/usr/include/c++/15.1.1/tr1/special_function_util.h
  mdp:/usr/include/c++/15.1.1/tuple
  mdp:/usr/include/c++/15.1.1/type_traits
  mdp:/usr/include/c++/15.1.1/typeindex
  mdp:/usr/include/c++/15.1.1/typeinfo
  mdp:/usr/include/c++/15.1.1/unordered_map
  mdp:/usr/include/c++/15.1.1/utility
+ mdp:/usr/include/c++/15.1.1/valarray
  mdp:/usr/include/c++/15.1.1/vector
  mdp:/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h
  mdp:/usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h
